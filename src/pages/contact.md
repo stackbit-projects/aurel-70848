@@ -113,7 +113,7 @@ sections:
           + [澳門](https://www.a.com/mo/)
           + [Malaysia](https://www.a.com/my/)
           + [New Zealand](https://www.a.com/nz/)
-          
+
         content_align: left
         actions: []
         actions_align: left
