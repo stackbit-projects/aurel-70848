@@ -432,7 +432,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - content: |
-      ### The United States, Canada, and Puerto Rico
+      #### The United States, Canada, and Puerto Rico
     actions: []
     image_alt: lorem-ipsum
     media_position: right
