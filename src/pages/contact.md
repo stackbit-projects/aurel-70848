@@ -23,7 +23,7 @@ sections:
 
           +   [Cameroun](https://www.a.com/cm/)
 
-          *   [République Centrafricaine](https://www.a.com/cf/)
+          +   [République Centrafricaine](https://www.a.com/cf/)
 
           *   [Côte d'Ivoire](https://www.a.com/ci/)
 
