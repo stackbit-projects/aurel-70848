@@ -70,7 +70,7 @@ sections:
 
           + [المملكة العربية السعودية](https://www.a.com/sa-ar/)
 
-          *   [Sénégal](https://www.a.com/sn/)
+          + [Sénégal](https://www.a.com/sn/)
 
           *   [South Africa](https://www.a.com/za/)
 
