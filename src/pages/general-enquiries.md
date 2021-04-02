@@ -70,7 +70,8 @@ sections:
           - Corporate responsability
           - Ethics
           - Events
-          - Press / Media 
+          - Press / Media relations
+          
           - Website feedback
           - 'Other '
         is_required: true
