@@ -387,10 +387,10 @@ sections:
         type: grid_item
       - title_align: left
         content: >
-          [Perú](https://www.a.com/la/)
+          + [Perú](https://www.a.com/la/)
 
 
-          *   [St. Kitts & Nevis](https://www.a.com/lae/)
+          +   [St. Kitts & Nevis](https://www.a.com/lae/)
 
 
           *   [St. Lucia](https://www.a.com/lae/)
