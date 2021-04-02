@@ -99,7 +99,7 @@ sections:
 
           + [香港](https://www.a.com/hk/)
 
-          *   [Indonesia](https://www.a.com/id/)
+          + [Indonesia](https://www.a.com/id/)
         content_align: left
         actions: []
         actions_align: left
