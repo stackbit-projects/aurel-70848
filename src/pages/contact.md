@@ -193,10 +193,8 @@ sections:
           + [Latvija](https://www.a.com/lv/)
           + [Liechtenstein](https://www.a.com/li/)
           + [Lietuva](https://www.a.com/lt/)
-
-          +   [Luxembourg](https://www.a.com/lu/)
-
-          +   [Magyarország](https://www.a.com/hu/)
+          + [Luxembourg](https://www.a.com/lu/)
+          + [Magyarország](https://www.a.com/hu/)
 
           +   [Malta](https://www.a.com/mt/)
 
