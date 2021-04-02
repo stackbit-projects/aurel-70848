@@ -92,17 +92,16 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          [Australia](https://www.a.com/au/)
 
+          *   [中国大陆](https://www.a.com.cn/)
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   [Hong Kong](https://www.a.com/hk/en/)
 
+          *   [香港](https://www.a.com/hk/)
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   [Indonesia](https://www.a.com/id/)
         content_align: left
         actions: []
         actions_align: left
