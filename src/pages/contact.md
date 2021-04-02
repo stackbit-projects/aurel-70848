@@ -45,7 +45,7 @@ sections:
 
           + [Kuwait](https://www.a.com/kw/)
 
-          *   [الكويت](https://www.a.com/kw-ar/)
+          + [الكويت](https://www.a.com/kw-ar/)
 
           *   [Madagascar](https://www.a.com/mg/)
 
