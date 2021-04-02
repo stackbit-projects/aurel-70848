@@ -54,7 +54,7 @@ sections:
         is_required: true
       - input_type: text
         name: lastname
-        label: Last name
+        label: Last name*
         options: []
         is_required: true
         type: form_field
