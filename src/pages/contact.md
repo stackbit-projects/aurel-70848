@@ -396,17 +396,42 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          [Perú](https://www.a.com/la/)
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   [St. Kitts & Nevis](https://www.a.com/lae/)
 
 
-          - Lorem ipsum
+          *   [St. Lucia](https://www.a.com/lae/)
 
-          - dolor sit amet
+
+          *   [St. Vincent & The_Grenadines](https://www.a.com/lae/)
+
+
+          *   [Suriname](https://www.a.com/lae/)
+
+
+          *   [The Bahamas](https://www.a.com/lae/)
+
+
+          *   [Trinidad & Tobago](https://www.a.com/lae/)
+
+
+          *   [Turks & Caicos](https://www.a.com/lae/)
+
+
+          *   [Uruguay](https://www.a.com/la/)
+
+
+          *   [Venezuela](https://www.a.com/la/)
+
+
+          *   [América Latina y_el Caribe (Español)](https://www.a.com/la/)
+
+
+          *   [Latin America and the Caribbean
+          (English)](https://www.a.com/lae/)
         content_align: left
         actions: []
         actions_align: left
