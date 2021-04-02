@@ -275,7 +275,7 @@ sections:
 
           +   [Türkiye](https://www.a.com/tr/)
 
-          *   [Turkmenistan](https://www.a.com/tm/)
+          +   [Turkmenistan](https://www.a.com/tm/)
 
           *   [United Kingdom](https://www.a.com/uk/)
 
