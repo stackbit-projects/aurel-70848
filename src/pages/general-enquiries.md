@@ -42,7 +42,7 @@ sections:
       - input_type: select
         name: subject
         label: Topic*
-        default_value: Please select
+        default_value: Select topic
         options:
           - Error on the site
           - Sponsorship
