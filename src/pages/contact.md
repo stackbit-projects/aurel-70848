@@ -408,7 +408,7 @@ sections:
           +   [Trinidad & Tobago](https://www.a.com/lae/)
 
 
-          *   [Turks & Caicos](https://www.a.com/lae/)
+          +   [Turks & Caicos](https://www.a.com/lae/)
 
 
           *   [Uruguay](https://www.a.com/la/)
