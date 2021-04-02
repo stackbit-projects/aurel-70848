@@ -212,7 +212,7 @@ sections:
         content: |
           + [Italia](https://www.a.com/it/)
 
-          *   [Kazakhstan](https://www.a.com/kz/)
+          +   [Kazakhstan](https://www.a.com/kz/)
 
           *   [Kyrgyzstan](https://www.a.com/kg/)
 
