@@ -39,7 +39,7 @@ sections:
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel.
-        content_align: center
+        content_align: left
         actions: []
         actions_align: center
         image_alt: Other queries icon
