@@ -396,7 +396,7 @@ sections:
           +   [St. Lucia](https://www.a.com/lae/)
 
 
-          *   [St. Vincent & The_Grenadines](https://www.a.com/lae/)
+          +   [St. Vincent & The_Grenadines](https://www.a.com/lae/)
 
 
           *   [Suriname](https://www.a.com/lae/)
