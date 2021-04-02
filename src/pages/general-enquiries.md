@@ -97,7 +97,6 @@ sections:
       - input_type: text
         name: title
         label: Job title*
-        default_value: lorem-ipsum
         options: []
         is_required: true
         type: form_field
