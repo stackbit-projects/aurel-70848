@@ -27,7 +27,7 @@ sections:
 
           +   [Côte d'Ivoire](https://www.a.com/ci/)
 
-          *   [Egypt](https://www.a.com/eg/)
+          +   [Egypt](https://www.a.com/eg/)
 
           *   [مصر](https://www.a.com/eg-ar/)
 
