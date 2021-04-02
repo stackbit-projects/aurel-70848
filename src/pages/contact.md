@@ -74,7 +74,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: none
-    background_color: primary
+    background_color: none
     title: 'Africa, Middle East, and India'
   - title: Asia Pacific
     actions: []
