@@ -68,7 +68,7 @@ sections:
 
           + [Saudi Arabia](https://www.a.com/sa/)
 
-          *   [المملكة العربية السعودية](https://www.a.com/sa-ar/)
+          + [المملكة العربية السعودية](https://www.a.com/sa-ar/)
 
           *   [Sénégal](https://www.a.com/sn/)
 
