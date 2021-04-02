@@ -60,7 +60,7 @@ sections:
         label: Topic*
         default_value: Select topic
         options:
-          - 'Products '
+          - Products '
           - 'Services '
           - Transportation & Logistics
           - Commodity quote requests
