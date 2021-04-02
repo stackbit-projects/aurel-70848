@@ -352,7 +352,7 @@ sections:
         content: |
           + [República Dominicana](https://www..com/la/)
 
-          *   [Ecuador](https://www..com/la/)
+          +   [Ecuador](https://www..com/la/)
 
           *   [El Salvador](https://www.a.com/la/)
 
