@@ -3,7 +3,7 @@ title: General enquiries
 sections:
   - type: form_section
     content: >
-      ### Feel free to contact us for any inquiries or requests, we will make
+      > Feel free to contact us for any inquiries or requests, we will make
       every attempt to respond in a timely manner. Alternatively, please use our
       Global Office Locator to find contact information for a Aurel office near
       you.
@@ -45,11 +45,11 @@ sections:
       pre-condition of employment. To be considered for employment, please
       submit your information through our Careers section.
 
+
       ***
-      
-      Fields marked with an asterisk (*) are required.
 
 
+      Fields marked with an asterisk (\*) are required.
     content_align: left
     form_position: left
     form_width: fifty
