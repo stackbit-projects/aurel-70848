@@ -18,8 +18,6 @@ sections:
 
       #### Corporate headquarters
 
-      ***
-
       Aurel Group , BP 000000, Geneva, GE, Avenue du Grand Aurel, Swiss, 01 00
       00 00 00 (English);
 
