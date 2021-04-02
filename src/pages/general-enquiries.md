@@ -5,7 +5,7 @@ sections:
     content: >
       > ### Feel free to contact us for any inquiries or requests, we will make
       every attempt to respond in a timely manner. Alternatively, please use our
-      [<mark>Global Office Locator</mark>](www.a.com) to find contact information for a Aurel office near
+      [<mark>Global Office Locator</mark>](http:www.a.com) to find contact information for a Aurel office near
       you.
       
       \
