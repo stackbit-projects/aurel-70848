@@ -191,7 +191,7 @@ sections:
 
           +   [France](https://www.a.com/fr/)
 
-          *   [Georgia](https://www.a.com/ge/)
+          +   [Georgia](https://www.a.com/ge/)
 
           *   [Ελλάδα](https://www.a.com/gr/)
 
