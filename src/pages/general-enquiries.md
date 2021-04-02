@@ -8,6 +8,9 @@ sections:
       contact information for a Aurel office near you.
 
 
+      ![](/images/Aurel_Group_Locations.svg)
+
+
       ***
 
 
