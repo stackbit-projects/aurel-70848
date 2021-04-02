@@ -31,7 +31,7 @@ sections:
 
           +   [مصر](https://www.a.com/eg-ar/)
 
-          *   [Guinea-Bissau](https://www.a.com/gw/)
+          +   [Guinea-Bissau](https://www.a.com/gw/)
 
           *   [Guinée](https://www.a.com/gn/)
 
