@@ -161,8 +161,8 @@ sections:
         content: |
          
          + [Armenia](https://www.a.com/am/)
-           +   [Azerbaijan](https://www.a.com/az/)
-           +   [Belarus](https://www.a.com/by/)
+         +   [Azerbaijan](https://www.a.com/az/)
+         +   [Belarus](https://www.a.com/by/)
 
           +   [België](https://www.a.com/benl/)
 
