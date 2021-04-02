@@ -269,14 +269,10 @@ sections:
           + [Brasil](https://www.a.com/br/)
           + [British Virgin Islands](https://www.a.com/lae/)
           + [Cayman Islands](https://www.a.com/lae/)
-
-          +[Chile](https://www.a.com/cl/)
-
-          +   [Colombia](https://www.a.com/co/)
-
-          +   [Costa Rica](https://www.a.com/la/)
-
-          +   [Dominica](https://www.a.com/lae/)
+          + [Chile](https://www.a.com/cl/)
+          + [Colombia](https://www.a.com/co/)
+          + [Costa Rica](https://www.a.com/la/)
+          + [Dominica](https://www.a.com/lae/)
         content_align: left
         actions: []
         actions_align: left
