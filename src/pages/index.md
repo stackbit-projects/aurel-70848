@@ -23,7 +23,6 @@ sections:
     padding_bottom: large
     background_color: none
   - type: features_section
-    subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
