@@ -270,7 +270,7 @@ sections:
           + [British Virgin Islands](https://www.a.com/lae/)
           + [Cayman Islands](https://www.a.com/lae/)
 
-          +  [Chile](https://www.a.com/cl/)
+          +[Chile](https://www.a.com/cl/)
 
           +   [Colombia](https://www.a.com/co/)
 
