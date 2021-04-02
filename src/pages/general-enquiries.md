@@ -60,7 +60,7 @@ sections:
         label: Topic*
         default_value: Select topic
         options:
-          - Food & Bevera
+          - Food & Beverage 
           - Services
           - Transportation & Logistics
           - Commodity quote requests
