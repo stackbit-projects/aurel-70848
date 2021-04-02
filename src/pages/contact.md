@@ -177,7 +177,7 @@ sections:
 
           +   [Belgique](https://www.a.com/befr/)
 
-          *   [България](https://www.a.com/bg/)
+          +   [България](https://www.a.com/bg/)
 
           *   [Česko](https://www.a.com/cz/)
 
