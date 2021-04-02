@@ -315,6 +315,7 @@ sections:
       - input_type: textarea
         name: message
         label: Your message*
+        is_required: true
       - input_type: checkbox
         name: consent
         label: "I have read and accept the Terms of Use. Please read our\_privacy statement\_to understand how we plan to use your personal information."
