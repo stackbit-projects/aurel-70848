@@ -314,30 +314,14 @@ sections:
           + [St. Kitts & Nevis](https://www.a.com/lae/)
           + [St. Lucia](https://www.a.com/lae/)
           + [St. Vincent & The_Grenadines](https://www.a.com/lae/)
-
-
           + [Suriname](https://www.a.com/lae/)
-
-
-          +   [The Bahamas](https://www.a.com/lae/)
-
-
-          +   [Trinidad & Tobago](https://www.a.com/lae/)
-
-
-          +   [Turks & Caicos](https://www.a.com/lae/)
-
-
-          +   [Uruguay](https://www.a.com/la/)
-
-
-          +   [Venezuela](https://www.a.com/la/)
-
-
-          +   [América Latina y_el Caribe (Español)](https://www.a.com/la/)
-
-
-          +   [Latin America and the Caribbean
+          + [The Bahamas](https://www.a.com/lae/)
+          + [Trinidad & Tobago](https://www.a.com/lae/)
+          + [Turks & Caicos](https://www.a.com/lae/)
+          + [Uruguay](https://www.a.com/la/)
+          + [Venezuela](https://www.a.com/la/)
+          + [América Latina y_el Caribe (Español)](https://www.a.com/la/)
+          + [Latin America and the Caribbean
           (English)](https://www.a.com/lae/)
         content_align: left
         actions: []
