@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      ###### The legacy of a well-done trade.
+      ###### The legacy of a well done trade.
     actions:
       - label: Try Free
         url: /pricing
