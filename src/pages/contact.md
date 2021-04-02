@@ -28,7 +28,7 @@ sections:
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla.
-        content_align: center
+        content_align: left
         actions: []
         actions_align: center
         image_alt: Help and support icon
