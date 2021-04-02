@@ -49,7 +49,7 @@ sections:
 
           + [Madagascar](https://www.a.com/mg/)
 
-          *   [Mali](https://www.a.com/ml/)
+          + [Mali](https://www.a.com/ml/)
 
           *   [Maroc](https://www.a.com/ma/)
 
