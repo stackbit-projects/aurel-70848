@@ -240,7 +240,7 @@ sections:
 
           +   [Österreich](https://www.a.com/at/)
 
-          *   [Polska](https://www.a.com/pl/)
+          +   [Polska](https://www.a.com/pl/)
         content_align: left
         actions: []
         actions_align: left
