@@ -2,7 +2,6 @@
 title: General enquiries
 sections:
   - type: hero_section
-    title: This is the Hero
     subtitle: The optional subtitle
     align: center
     padding_top: medium
@@ -36,10 +35,8 @@ sections:
       Aurel will not ask for money, processing fees, or bank information as a
       pre-condition of employment. To be considered for employment, please
       submit your information through our Careers section.
-      
-      ***
 
-    
+      ***
     content_align: left
     form_position: left
     form_width: fifty
