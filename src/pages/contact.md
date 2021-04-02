@@ -195,7 +195,7 @@ sections:
 
           +   [Ελλάδα](https://www.a.com/gr/)
 
-          *   [Hrvatska](https://www.a.com/hr/)
+          +   [Hrvatska](https://www.a.com/hr/)
 
           *   [Ireland](https://www.a.com/ie/)
         content_align: left
