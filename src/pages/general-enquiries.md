@@ -1,12 +1,6 @@
 ---
 title: General enquiries
 sections:
-  - type: hero_section
-    subtitle: The optional subtitle
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    background_color: none
   - type: form_section
     content: >
       ### Feel free to contact us, we will make every attempt to respond in a
