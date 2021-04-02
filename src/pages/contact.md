@@ -93,7 +93,7 @@ sections:
         content: |
           + [Australia](https://www.a.com/au/)
 
-          * [中国大陆](https://www.a.com.cn/)
+          + [中国大陆](https://www.a.com.cn/)
 
           *   [Hong Kong](https://www.a.com/hk/en/)
 
