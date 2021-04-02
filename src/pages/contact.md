@@ -29,7 +29,7 @@ sections:
 
           +   [Egypt](https://www.a.com/eg/)
 
-          *   [مصر](https://www.a.com/eg-ar/)
+          +   [مصر](https://www.a.com/eg-ar/)
 
           *   [Guinea-Bissau](https://www.a.com/gw/)
 
