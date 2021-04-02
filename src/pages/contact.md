@@ -23,21 +23,21 @@ sections:
 
           + [Cameroun](https://www.a.com/cm/)
 
-          +   [République Centrafricaine](https://www.a.com/cf/)
+          + [République Centrafricaine](https://www.a.com/cf/)
 
-          +   [Côte d'Ivoire](https://www.a.com/ci/)
+          + [Côte d'Ivoire](https://www.a.com/ci/)
 
-          +   [Egypt](https://www.a.com/eg/)
+          + [Egypt](https://www.a.com/eg/)
 
-          +   [مصر](https://www.a.com/eg-ar/)
+          + [مصر](https://www.a.com/eg-ar/)
 
-          +   [Guinea-Bissau](https://www.a.com/gw/)
+          + [Guinea-Bissau](https://www.a.com/gw/)
 
-          +   [Guinée](https://www.a.com/gn/)
+          + [Guinée](https://www.a.com/gn/)
 
-          +   [Guinée Equatoriale](https://www.a.com/gq/)
+          + [Guinée Equatoriale](https://www.a.com/gq/)
 
-          +   [India](https://www.a.com/in/)
+          + [India](https://www.a.com/in/)
 
           +   [Israel](https://www.a.com/il/)
         content_align: left
