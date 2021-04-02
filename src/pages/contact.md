@@ -55,7 +55,7 @@ sections:
 
           + [Maurice](https://www.a.com/mu/)
 
-          *   [Mozambique](https://www.a.com/mz/)
+          + [Mozambique](https://www.a.com/mz/)
 
           *   [Niger](https://www.a.com/ne/)
 
