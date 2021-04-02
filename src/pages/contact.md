@@ -164,12 +164,9 @@ sections:
          + [Belarus](https://www.a.com/by/)
          + [België](https://www.a.com/benl/)
          + [Belgique](https://www.a.com/befr/)
-
-          +   [България](https://www.a.com/bg/)
-
-          +   [Česko](https://www.a.com/cz/)
-
-          +   [Danmark](https://www.a.com/dk/)
+         + [България](https://www.a.com/bg/)
+         + [Česko](https://www.a.com/cz/)
+         + [Danmark](https://www.a.com/dk/)
 
           +   [Deutschland](https://www.a.com/de/)
 
