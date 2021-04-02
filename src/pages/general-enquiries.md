@@ -39,10 +39,6 @@ sections:
     form_id: contact-form
     form_action: /thank-you
     form_fields:
-      - input_type: text
-        name: name
-        label: Name
-        is_required: true
       - input_type: select
         name: subject
         label: Topic*
@@ -51,6 +47,10 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
+      - input_type: text
+        name: name
+        label: Name
+        is_required: true
       - input_type: email
         name: email
         label: Email
