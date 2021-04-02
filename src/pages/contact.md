@@ -405,7 +405,7 @@ sections:
           +   [The Bahamas](https://www.a.com/lae/)
 
 
-          *   [Trinidad & Tobago](https://www.a.com/lae/)
+          +   [Trinidad & Tobago](https://www.a.com/lae/)
 
 
           *   [Turks & Caicos](https://www.a.com/lae/)
