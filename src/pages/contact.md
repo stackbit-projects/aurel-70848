@@ -121,7 +121,6 @@ sections:
       ### Asia Pacific
 
       ***
-      
     actions: []
     image_alt: lorem-ipsum
     media_position: right
