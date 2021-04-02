@@ -262,17 +262,36 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          [Portugal](https://www.a.com/pt/)
 
+          *   [România](https://www.a.com/ro/)
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   [Россия](https://www.a.com/ru/)
 
+          *   [Slovensko](https://www.a.com/sk/)
 
-          - Lorem ipsum
+          *   [Slovenia](https://www.a.com/si/)
 
-          - dolor sit amet
+          *   [Schweiz](https://www.a.com/chde/)
+
+          *   [Suisse](https://www.a.com/chfr/)
+
+          *   [Suomi](https://www.a.com/fi/)
+
+          *   [Sverige](https://www.a.com/se/)
+
+          *   [Tajikistan](https://www.a.com/tj/)
+
+          *   [Türkiye](https://www.a.com/tr/)
+
+          *   [Turkmenistan](https://www.a.com/tm/)
+
+          *   [United Kingdom](https://www.a.com/uk/)
+
+          *   [Україна](https://www.a.com/ua/)
+
+          *   [Uzbekistan](https://www.a.com/uz/)
         content_align: left
         actions: []
         actions_align: left
