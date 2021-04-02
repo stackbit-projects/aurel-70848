@@ -66,7 +66,7 @@ sections:
         name: company
         label: Company
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: textarea
         name: message
