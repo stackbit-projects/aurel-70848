@@ -58,7 +58,7 @@ sections:
         image_has_padding: true
       - title_align: center
         content: |
-          + [Oman](https://www.a.com/om/)
+        + [Oman](https://www.a.com/om/)
           + [عُمان](https://www.a.com/om-ar/)
           + [Qatar](https://www.a.com/qa/)
           + [قطر](https://www.a.com/qa-ar/)
