@@ -4,7 +4,7 @@ sections:
   - content: |
       dolor sit amet
     actions:
-      - url: '#'
+      - url: /
         style: link
         has_icon: false
         icon: arrow-left
