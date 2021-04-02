@@ -66,7 +66,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: false
-    align: center
+    align: left
     padding_top: large
     padding_bottom: large
     background_color: primary
