@@ -325,6 +325,7 @@ sections:
       ### Latin America and the Caribbean
 
       ***
+      
     actions: []
     image_alt: lorem-ipsum
     media_position: right
