@@ -52,6 +52,13 @@ sections:
         name: name
         label: First name
         is_required: true
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
       - input_type: email
         name: email
         label: Email
@@ -64,13 +71,6 @@ sections:
         name: consent
         label: "I have read and accept the Terms of Use. Please read our\_privacy statement\_to understand how we plan to use your personal information."
         is_required: true
-      - input_type: text
-        name: lorem-ipsum
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
