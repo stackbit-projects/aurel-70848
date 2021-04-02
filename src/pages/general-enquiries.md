@@ -93,7 +93,7 @@ sections:
         label: Location*
         default_value: Select your location
         options:
-           - Afghanistan
+        - Afghanistan
           - Albania
           - Algeria
           - Andorra
