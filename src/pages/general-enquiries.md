@@ -1,21 +1,6 @@
 ---
 title: General enquiries
 sections:
-  - title: Get in touch
-    actions: []
-    image_alt: lorem-ipsum
-    media_position: top
-    media_width: fifty
-    align: center
-    padding_top: large
-    padding_bottom: large
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
   - type: form_section
     content: >
       > ### Feel free to contact us for any inquiries or requests, we will make
