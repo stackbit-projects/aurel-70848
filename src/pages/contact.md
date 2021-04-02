@@ -271,7 +271,7 @@ sections:
 
           +   [Sverige](https://www.a.com/se/)
 
-          *   [Tajikistan](https://www.a.com/tj/)
+          +   [Tajikistan](https://www.a.com/tj/)
 
           *   [Türkiye](https://www.a.com/tr/)
 
