@@ -33,7 +33,7 @@ sections:
 
           +   [Guinea-Bissau](https://www.a.com/gw/)
 
-          *   [Guinée](https://www.a.com/gn/)
+          +   [Guinée](https://www.a.com/gn/)
 
           *   [Guinée Equatoriale](https://www.a.com/gq/)
 
