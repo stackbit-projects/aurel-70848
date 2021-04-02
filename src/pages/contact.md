@@ -171,7 +171,7 @@ sections:
 
           +   [Azerbaijan](https://www.a.com/az/)
 
-          *   [Belarus](https://www.a.com/by/)
+          +   [Belarus](https://www.a.com/by/)
 
           *   [België](https://www.a.com/benl/)
 
