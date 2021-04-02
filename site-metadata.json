@@ -37,7 +37,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Global- EN",
+                "label": "Global-EN",
                 "url": "/contact",
                 "style": "link",
                 "icon": "instagram",
