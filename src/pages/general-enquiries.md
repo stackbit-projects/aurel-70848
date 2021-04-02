@@ -70,7 +70,7 @@ sections:
         type: form_field
       - input_type: text
         name: title
-        label: lorem-ipsum
+        label: Job title
         default_value: lorem-ipsum
         options: []
         is_required: false
