@@ -24,9 +24,10 @@ sections:
       00 00 00 (English);
 
       ***
-      
+
       #### Commercial sales
 
+      ***
 
       Aurel will never ask customers to deposit payments in a non-Aurel bank
       account.
