@@ -71,7 +71,6 @@ sections:
           - Ethics
           - Events
           - Press / Media relations
-          
           - Website feedback
           - 'Other '
         is_required: true
