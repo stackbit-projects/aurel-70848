@@ -115,17 +115,16 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          [日本](https://www.a.com/jp/)
 
+          *   [대한민국](https://www.a.com/kr/)
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   [澳門](https://www.a.com/mo/)
 
+          *   [Malaysia](https://www.a.com/my/)
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   [New Zealand](https://www.a.com/nz/)
         content_align: left
         actions: []
         actions_align: left
