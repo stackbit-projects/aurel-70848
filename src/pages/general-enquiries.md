@@ -3,13 +3,17 @@ title: General enquiries
 sections:
   - type: form_section
     content: >
-      ### Feel free to contact us, we will make every attempt to respond in a
-      timely manner. Alternatively, please use our Global Office Locator to find
-      contact information for a Aurel office near you.
-      
+      #### Feel free to contact us for any inquiries or requests, we will make
+      every attempt to respond in a timely manner. Alternatively, please use our
+      Global Office Locator to find contact information for a Aurel office near
+      you.
+
+
       ***
 
+
       ![](/images/Aurel_Group_Locations.svg)
+
 
       ***
 
