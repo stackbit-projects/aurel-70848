@@ -93,7 +93,7 @@ sections:
         label: Location
         default_value: Select your location
         options:
-          - lorem-ipsum
+          - location1
         is_required: false
         type: form_field
       - input_type: textarea
