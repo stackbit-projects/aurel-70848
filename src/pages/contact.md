@@ -188,10 +188,8 @@ sections:
       - title_align: left
         content: |
           + [Italia](https://www.a.com/it/)
-
-          +   [Kazakhstan](https://www.a.com/kz/)
-
-          +   [Kyrgyzstan](https://www.a.com/kg/)
+          + [Kazakhstan](https://www.a.com/kz/)
+ + [Kyrgyzstan](https://www.a.com/kg/)
 
           +   [Latvija](https://www.a.com/lv/)
 
