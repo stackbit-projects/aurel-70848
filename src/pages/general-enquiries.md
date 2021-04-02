@@ -64,7 +64,7 @@ sections:
         is_required: true
       - input_type: text
         name: company
-        label: Company
+        label: Company*
         options: []
         is_required: true
         type: form_field
