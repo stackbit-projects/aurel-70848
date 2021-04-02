@@ -189,13 +189,10 @@ sections:
         content: |
           + [Italia](https://www.a.com/it/)
           + [Kazakhstan](https://www.a.com/kz/)
- + [Kyrgyzstan](https://www.a.com/kg/)
-
-          +   [Latvija](https://www.a.com/lv/)
-
-          +   [Liechtenstein](https://www.a.com/li/)
-
-          +   [Lietuva](https://www.a.com/lt/)
+          + [Kyrgyzstan](https://www.a.com/kg/)
+          + [Latvija](https://www.a.com/lv/)
+          + [Liechtenstein](https://www.a.com/li/)
+          + [Lietuva](https://www.a.com/lt/)
 
           +   [Luxembourg](https://www.a.com/lu/)
 
