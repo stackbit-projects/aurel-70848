@@ -90,7 +90,6 @@ sections:
     actions: []
     grid_items:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: |
           [Australia](https://www.a.com/au/)
