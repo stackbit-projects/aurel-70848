@@ -22,7 +22,7 @@ sections:
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
     content_align: left
-    form_position: right
+    form_position: left
     form_width: fifty
     form_layout: inline
     enable_card: true
