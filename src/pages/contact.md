@@ -175,7 +175,7 @@ sections:
 
           +   [België](https://www.a.com/benl/)
 
-          *   [Belgique](https://www.a.com/befr/)
+          +   [Belgique](https://www.a.com/befr/)
 
           *   [България](https://www.a.com/bg/)
 
