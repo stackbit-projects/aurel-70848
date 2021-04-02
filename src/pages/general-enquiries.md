@@ -63,7 +63,7 @@ sections:
         label: Email
         is_required: true
       - input_type: text
-        name: lorem-ipsum
+        name: company
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
