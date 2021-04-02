@@ -453,8 +453,7 @@ sections:
   - title: 'The United States, Canada, and Puerto Rico'
     actions: []
     grid_items:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: |
           [Canada (English)](https://www.a.com/ca/)
