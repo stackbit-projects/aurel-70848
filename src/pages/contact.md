@@ -169,18 +169,12 @@ sections:
          + [Danmark](https://www.a.com/dk/)
          + [Deutschland](https://www.a.com/de/)
          + [Eesti](https://www.a.com/ee/)
-
-          +   [España](https://www.a.com/es/)
-
-          +   [France](https://www.a.com/fr/)
-
-          +   [Georgia](https://www.a.com/ge/)
-
-          +   [Ελλάδα](https://www.a.com/gr/)
-
-          +   [Hrvatska](https://www.a.com/hr/)
-
-          +   [Ireland](https://www.a.com/ie/)
+         + [España](https://www.a.com/es/)
+         + [France](https://www.a.com/fr/)
+         + [Georgia](https://www.a.com/ge/)
+         + [Ελλάδα](https://www.a.com/gr/)
+         + [Hrvatska](https://www.a.com/hr/)
+         + [Ireland](https://www.a.com/ie/)
         content_align: left
         actions: []
         actions_align: left
