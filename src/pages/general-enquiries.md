@@ -43,10 +43,6 @@ sections:
         name: name
         label: Name
         is_required: true
-      - input_type: email
-        name: email
-        label: Email
-        is_required: true
       - input_type: select
         name: subject
         label: Topic*
@@ -55,6 +51,10 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
+      - input_type: email
+        name: email
+        label: Email
+        is_required: true
       - input_type: textarea
         name: message
         label: Message
