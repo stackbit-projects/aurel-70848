@@ -89,8 +89,7 @@ sections:
   - title: Asia Pacific
     actions: []
     grid_items:
-      - title: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: |
           [Australia](https://www.a.com/au/)
 
