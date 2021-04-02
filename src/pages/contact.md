@@ -13,8 +13,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: Partnering and Sponsorships
-        title_align: center
+      - title_align: center
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam.
