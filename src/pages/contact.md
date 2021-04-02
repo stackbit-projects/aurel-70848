@@ -214,7 +214,7 @@ sections:
 
           +   [Kazakhstan](https://www.a.com/kz/)
 
-          *   [Kyrgyzstan](https://www.a.com/kg/)
+          +   [Kyrgyzstan](https://www.a.com/kg/)
 
           *   [Latvija](https://www.a.com/lv/)
 
