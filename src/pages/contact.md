@@ -167,10 +167,8 @@ sections:
          + [България](https://www.a.com/bg/)
          + [Česko](https://www.a.com/cz/)
          + [Danmark](https://www.a.com/dk/)
-
-          +   [Deutschland](https://www.a.com/de/)
-
-          +   [Eesti](https://www.a.com/ee/)
+         + [Deutschland](https://www.a.com/de/)
+         + [Eesti](https://www.a.com/ee/)
 
           +   [España](https://www.a.com/es/)
 
