@@ -4,7 +4,7 @@ sections:
   - type: form_section
     content: >
       ### Feel free to contact us, we will make every attempt to respond in a
-      timely manner. Alternatively, please use our  <mark>marked or highlighted</mark> to find
+      timely manner. Alternatively, please use our  <mark>Global Office Locator</mark> to find
       contact information for a Aurel office near you.
 
       ***
