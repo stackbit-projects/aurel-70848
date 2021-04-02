@@ -372,9 +372,9 @@ sections:
 
           +   [Nicaragua](https://www.a.com/la/)
 
-          *   [Panamá](https://www.a.com/la/)
+          +   [Panamá](https://www.a.com/la/)
 
-          *   [Paraguay](https://www.a.com/la/)
+          +   [Paraguay](https://www.a.com/la/)
         content_align: left
         actions: []
         actions_align: left
