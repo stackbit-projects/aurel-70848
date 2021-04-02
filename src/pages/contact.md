@@ -311,7 +311,7 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          [Anguilla](https://www.a.com/lae/)
+          + [Anguilla](https://www.a.com/lae/)
 
           *   [Antigua & Barbuda](https://www.a.com/lae/)
 
