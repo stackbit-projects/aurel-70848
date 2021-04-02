@@ -236,7 +236,7 @@ sections:
 
           +   [North Macedonia](https://www.a.com/mk/)
 
-          *   [Norge](https://www.a.com/no/)
+          +   [Norge](https://www.a.com/no/)
 
           *   [Österreich](https://www.a.com/at/)
 
