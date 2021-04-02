@@ -160,8 +160,7 @@ sections:
       - title_align: left
         content: |
            + [Armenia](https://www.a.com/am/)
-
-          +   [Azerbaijan](https://www.a.com/az/)
+           +   [Azerbaijan](https://www.a.com/az/)
 
           +   [Belarus](https://www.a.com/by/)
 
