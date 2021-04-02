@@ -49,6 +49,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: images/Pixel.png
   - type: grid_section
     grid_items:
       - title_align: center
