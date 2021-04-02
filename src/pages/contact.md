@@ -85,6 +85,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    title: 'Africa, Middle East, and India'
 seo:
   title: Contact
   description: This is the contact page
