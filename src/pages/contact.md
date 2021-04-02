@@ -24,17 +24,8 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Pixel.png
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: |
+      ## Africa, Middle East, and India
     actions: []
     image_alt: lorem-ipsum
     media_position: right
