@@ -317,7 +317,7 @@ sections:
 
           +   [Argentina](https://www.a.com/la/)
 
-          *   [Barbados](https://www.a.com/lae/)
+          +   [Barbados](https://www.a.com/lae/)
 
           *   [Belize](https://www.a.com/lae/)
 
