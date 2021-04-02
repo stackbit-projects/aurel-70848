@@ -68,6 +68,7 @@ sections:
           - Accounts payable
           - Careers
           - Corporate responsability
+          - Etics
           - Website feedback
           - 'Other '
         is_required: true
