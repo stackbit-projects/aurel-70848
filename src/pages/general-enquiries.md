@@ -45,13 +45,8 @@ sections:
         default_value: Select topic
         options:
           - Error on the site
-          - Products information
-          - Services information
-          - Transportation & Logistics
-          - Commodity quote requests
-          - Supplier opportunities
-          - Accounts payable
-          - General feedback
+          - Sponsorship
+          - Other
         is_required: true
       - input_type: text
         name: firstname
