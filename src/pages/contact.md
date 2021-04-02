@@ -321,7 +321,7 @@ sections:
 
           +   [Belize](https://www.a.com/lae/)
 
-          *   [Bermuda](https://www.a.com/lae/)
+          +   [Bermuda](https://www.a.com/lae/)
 
           *   [Bolivia](https://www.a.com/la/)
 
