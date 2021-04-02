@@ -414,7 +414,7 @@ sections:
           +   [Uruguay](https://www.a.com/la/)
 
 
-          *   [Venezuela](https://www.a.com/la/)
+          +   [Venezuela](https://www.a.com/la/)
 
 
           *   [América Latina y_el Caribe (Español)](https://www.a.com/la/)
