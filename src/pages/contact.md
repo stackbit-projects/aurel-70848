@@ -321,7 +321,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: lorem-ipsum
+  - title: v
     content: |
       ### Latin America and the Caribbean
     actions: []
