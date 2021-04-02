@@ -78,7 +78,7 @@ sections:
 
           + [Uganda](https://www.a.com/ug/)
 
-          *   [United Arab Emirates](https://www.a.com/ae/)
+          + [United Arab Emirates](https://www.a.com/ae/)
 
           *   [الإمارات العربية المتحدة](https://www.a.com/ae-ar/)
         content_align: left
