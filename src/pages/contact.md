@@ -47,7 +47,7 @@ sections:
 
           + [الكويت](https://www.a.com/kw-ar/)
 
-          *   [Madagascar](https://www.a.com/mg/)
+          + [Madagascar](https://www.a.com/mg/)
 
           *   [Mali](https://www.a.com/ml/)
 
