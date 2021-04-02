@@ -59,7 +59,7 @@ sections:
 
           + [Niger](https://www.a.com/ne/)
 
-          *   [Nigeria](https://www.a.com/ng/)
+          + [Nigeria](https://www.a.com/ng/)
         content_align: left
         actions: []
         actions_align: center
