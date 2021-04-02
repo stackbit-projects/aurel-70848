@@ -195,22 +195,14 @@ sections:
           + [Lietuva](https://www.a.com/lt/)
           + [Luxembourg](https://www.a.com/lu/)
           + [Magyarország](https://www.a.com/hu/)
-
-          +   [Malta](https://www.a.com/mt/)
-
-          +   [Moldova](https://www.a.com/md/)
-
-          +   [Montenegro](https://www.a.com/me/)
-
-          +   [Nederland](https://www.a.com/nl/)
-
-          +   [North Macedonia](https://www.a.com/mk/)
-
-          +   [Norge](https://www.a.com/no/)
-
-          +   [Österreich](https://www.a.com/at/)
-
-          +   [Polska](https://www.a.com/pl/)
+          + [Malta](https://www.a.com/mt/)
+          + [Moldova](https://www.a.com/md/)
+          + [Montenegro](https://www.a.com/me/)
+          + [Nederland](https://www.a.com/nl/)
+          + [North Macedonia](https://www.a.com/mk/)
+          + [Norge](https://www.a.com/no/)
+          + [Österreich](https://www.a.com/at/)
+          + [Polska](https://www.a.com/pl/)
         content_align: left
         actions: []
         actions_align: left
