@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Choose your location
     align: center
-    padding_top: small
+    padding_top: large
     padding_bottom: large
     has_border: true
     background_color: none
