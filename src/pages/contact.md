@@ -76,7 +76,7 @@ sections:
 
           + [Tunisie](https://www.a.com/tn/)
 
-          *   [Uganda](https://www.a.com/ug/)
+          + [Uganda](https://www.a.com/ug/)
 
           *   [United Arab Emirates](https://www.a.com/ae/)
 
