@@ -220,8 +220,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Pixel.png
-  - title: Europe
-    actions: []
+  - actions: []
     grid_items:
       - title_align: left
         content: |
