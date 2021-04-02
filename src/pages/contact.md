@@ -222,7 +222,7 @@ sections:
 
           +   [Lietuva](https://www.a.com/lt/)
 
-          *   [Luxembourg](https://www.a.com/lu/)
+          +   [Luxembourg](https://www.a.com/lu/)
 
           *   [Magyarország](https://www.a.com/hu/)
 
