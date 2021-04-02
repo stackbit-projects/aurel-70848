@@ -45,7 +45,7 @@ sections:
         default_value: Select topic
         options:
           - Error on the site
-         - Products information
+          - Products information
           - Services information
           - Transportation & Logistics
           - Commodity quote requests
