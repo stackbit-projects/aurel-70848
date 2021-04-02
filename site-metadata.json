@@ -41,7 +41,7 @@
                 "url": "/contact",
                 "style": "link",
                 "icon": "instagram",
-                "new_window": true
+                "new_window": false
             },
             {
                 "label": "Get Started",
