@@ -197,7 +197,7 @@ sections:
 
           +   [Hrvatska](https://www.a.com/hr/)
 
-          *   [Ireland](https://www.a.com/ie/)
+          +   [Ireland](https://www.a.com/ie/)
         content_align: left
         actions: []
         actions_align: left
