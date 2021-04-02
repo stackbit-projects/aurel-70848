@@ -131,7 +131,7 @@ sections:
         content: |
           + [Philippines](https://www.a.com/ph/)
 
-          *   [Singapore](https://www.a.com/sg/)
+          +   [Singapore](https://www.a.com/sg/)
 
           *   [台灣](https://www.a.com/tw/)
 
