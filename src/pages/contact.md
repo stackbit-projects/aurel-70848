@@ -290,14 +290,11 @@ sections:
           + [El Salvador](https://www.a.com/la/)
           + [Grenada](https://www.a.com/lae/)
           + [Guatemala](https://www.a.com/la/)
-
           + [Guyana](https://www.a.com/lae/)
+          + [Honduras](https://www.a.com/la/)
+          + [Jamaica](https://www.a.com/lae/)
 
-          +   [Honduras](https://www.a.com/la/)
-
-          +   [Jamaica](https://www.a.com/lae/)
-
-          +   [México](https://www.a.com/mx/)
+          + [México](https://www.a.com/mx/)
 
           +   [Montserrat](https://www.a.com/lae/)
 
