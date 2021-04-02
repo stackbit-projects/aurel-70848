@@ -228,7 +228,7 @@ sections:
 
           +   [Malta](https://www.a.com/mt/)
 
-          *   [Moldova](https://www.a.com/md/)
+          +   [Moldova](https://www.a.com/md/)
 
           *   [Montenegro](https://www.a.com/me/)
 
