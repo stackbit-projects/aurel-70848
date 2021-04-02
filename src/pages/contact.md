@@ -432,7 +432,6 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: lorem-ipsum
-    subtitle: lorem-ips
     content: >-
       ## Lorem ipsum
 
