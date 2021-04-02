@@ -393,7 +393,7 @@ sections:
           +   [St. Kitts & Nevis](https://www.a.com/lae/)
 
 
-          *   [St. Lucia](https://www.a.com/lae/)
+          +   [St. Lucia](https://www.a.com/lae/)
 
 
           *   [St. Vincent & The_Grenadines](https://www.a.com/lae/)
