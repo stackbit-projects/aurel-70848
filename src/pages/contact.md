@@ -319,7 +319,7 @@ sections:
 
           +   [Barbados](https://www.a.com/lae/)
 
-          *   [Belize](https://www.a.com/lae/)
+          +   [Belize](https://www.a.com/lae/)
 
           *   [Bermuda](https://www.a.com/lae/)
 
