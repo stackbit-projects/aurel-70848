@@ -335,7 +335,7 @@ sections:
 
           +   [Colombia](https://www.a.com/co/)
 
-          *   [Costa Rica](https://www.a.com/la/)
+          +   [Costa Rica](https://www.a.com/la/)
 
           *   [Dominica](https://www.a.com/lae/)
         content_align: left
