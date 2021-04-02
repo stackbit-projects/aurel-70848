@@ -135,9 +135,9 @@ sections:
 
           +   [台灣](https://www.a.com/tw/)
 
-          *   [ไทย](https://www.a.com/th/)
+          +   [ไทย](https://www.a.com/th/)
 
-          *   [Vietnam](https://www.a.com/vn/)
+          +   [Vietnam](https://www.a.com/vn/)
         content_align: left
         actions: []
         actions_align: left
