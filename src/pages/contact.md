@@ -224,9 +224,9 @@ sections:
 
           +   [Luxembourg](https://www.a.com/lu/)
 
-          *   [Magyarország](https://www.a.com/hu/)
+          +   [Magyarország](https://www.a.com/hu/)
 
-          *   [Malta](https://www.a.com/mt/)
+          +   [Malta](https://www.a.com/mt/)
 
           *   [Moldova](https://www.a.com/md/)
 
