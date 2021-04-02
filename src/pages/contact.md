@@ -362,15 +362,15 @@ sections:
 
           +   [Guyana](https://www.a.com/lae/)
 
-          *   [Honduras](https://www.a.com/la/)
+          +   [Honduras](https://www.a.com/la/)
 
-          *   [Jamaica](https://www.a.com/lae/)
+          +   [Jamaica](https://www.a.com/lae/)
 
-          *   [México](https://www.a.com/mx/)
+          +   [México](https://www.a.com/mx/)
 
-          *   [Montserrat](https://www.a.com/lae/)
+          +   [Montserrat](https://www.a.com/lae/)
 
-          *   [Nicaragua](https://www.a.com/la/)
+          +   [Nicaragua](https://www.a.com/la/)
 
           *   [Panamá](https://www.a.com/la/)
 
