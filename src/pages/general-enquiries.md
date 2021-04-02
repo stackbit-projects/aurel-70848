@@ -19,8 +19,7 @@ sections:
       #### Corporate headquarters
 
 
-      Aurel Group SA
-3 Chemin Jean Baptiste-Vandelle 1290
+      Aurel Group SA, 3 Chemin Jean Baptiste-Vandelle 1290
 Versoix, Geneva, Switzerland
 
 
