@@ -82,7 +82,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: false
     align: center
-    padding_top: large
+    padding_top: none
     padding_bottom: large
     background_color: primary
     title: 'Africa, Middle East, and India'
@@ -159,22 +159,22 @@ sections:
     grid_items:
       - title_align: left
         content: |
-         + [Armenia](https://www.a.com/am/)
-         + [Azerbaijan](https://www.a.com/az/)
-         + [Belarus](https://www.a.com/by/)
-         + [België](https://www.a.com/benl/)
-         + [Belgique](https://www.a.com/befr/)
-         + [България](https://www.a.com/bg/)
-         + [Česko](https://www.a.com/cz/)
-         + [Danmark](https://www.a.com/dk/)
-         + [Deutschland](https://www.a.com/de/)
-         + [Eesti](https://www.a.com/ee/)
-         + [España](https://www.a.com/es/)
-         + [France](https://www.a.com/fr/)
-         + [Georgia](https://www.a.com/ge/)
-         + [Ελλάδα](https://www.a.com/gr/)
-         + [Hrvatska](https://www.a.com/hr/)
-         + [Ireland](https://www.a.com/ie/)
+          + [Armenia](https://www.a.com/am/)
+          + [Azerbaijan](https://www.a.com/az/)
+          + [Belarus](https://www.a.com/by/)
+          + [België](https://www.a.com/benl/)
+          + [Belgique](https://www.a.com/befr/)
+          + [България](https://www.a.com/bg/)
+          + [Česko](https://www.a.com/cz/)
+          + [Danmark](https://www.a.com/dk/)
+          + [Deutschland](https://www.a.com/de/)
+          + [Eesti](https://www.a.com/ee/)
+          + [España](https://www.a.com/es/)
+          + [France](https://www.a.com/fr/)
+          + [Georgia](https://www.a.com/ge/)
+          + [Ελλάδα](https://www.a.com/gr/)
+          + [Hrvatska](https://www.a.com/hr/)
+          + [Ireland](https://www.a.com/ie/)
         content_align: left
         actions: []
         actions_align: left
