@@ -350,7 +350,7 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          [República Dominicana](https://www..com/la/)
+          + [República Dominicana](https://www..com/la/)
 
           *   [Ecuador](https://www..com/la/)
 
