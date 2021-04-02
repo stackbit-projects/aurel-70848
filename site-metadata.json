@@ -43,7 +43,7 @@
                 "icon": "instagram",
                 "new_window": false,
                 "has_icon": true,
-                "icon_position": "right"
+                "icon_position": "left"
             },
             {
                 "label": "Get Started",
