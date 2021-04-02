@@ -286,16 +286,12 @@ sections:
       - title_align: left
         content: |
           + [República Dominicana](https://www..com/la/)
+          + [Ecuador](https://www..com/la/)
+          + [El Salvador](https://www.a.com/la/)
+          + [Grenada](https://www.a.com/lae/)
+          + [Guatemala](https://www.a.com/la/)
 
-          +   [Ecuador](https://www..com/la/)
-
-          +   [El Salvador](https://www.a.com/la/)
-
-          +   [Grenada](https://www.a.com/lae/)
-
-          +   [Guatemala](https://www.a.com/la/)
-
-          +   [Guyana](https://www.a.com/lae/)
+          + [Guyana](https://www.a.com/lae/)
 
           +   [Honduras](https://www.a.com/la/)
 
