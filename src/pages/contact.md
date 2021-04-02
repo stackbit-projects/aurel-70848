@@ -216,7 +216,7 @@ sections:
 
           +   [Kyrgyzstan](https://www.a.com/kg/)
 
-          *   [Latvija](https://www.a.com/lv/)
+          +   [Latvija](https://www.a.com/lv/)
 
           *   [Liechtenstein](https://www.a.com/li/)
 
