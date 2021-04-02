@@ -8,7 +8,7 @@ sections:
       Global Office Locator to find contact information for a Aurel office near
       you.
       
-      \A
+      \
 
       ![](/images/Aurel_Group_Locations.svg)
 
