@@ -112,7 +112,7 @@ sections:
 
           +   [대한민국](https://www.a.com/kr/)
 
-          *   [澳門](https://www.a.com/mo/)
+          +   [澳門](https://www.a.com/mo/)
 
           *   [Malaysia](https://www.a.com/my/)
 
