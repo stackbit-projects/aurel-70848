@@ -37,7 +37,7 @@ sections:
         image_has_padding: true
       - title_align: center
         content: |
-          [Jordan](https://www.a.com/jo/)
+          + [Jordan](https://www.a.com/jo/)
 
           *   [الأردن](https://www.a.com/jo-ar/)
 
