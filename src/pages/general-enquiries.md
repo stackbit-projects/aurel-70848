@@ -69,6 +69,7 @@ sections:
           - Careers
           - Corporate responsability
           - Ethics
+          - Events
           - 
           - Website feedback
           - 'Other '
