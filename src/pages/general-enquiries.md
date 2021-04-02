@@ -56,7 +56,7 @@ sections:
         name: lastname
         label: Last name
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: email
         name: email
