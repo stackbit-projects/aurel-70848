@@ -179,7 +179,7 @@ sections:
 
           +   [България](https://www.a.com/bg/)
 
-          *   [Česko](https://www.a.com/cz/)
+          +   [Česko](https://www.a.com/cz/)
 
           *   [Danmark](https://www.a.com/dk/)
 
