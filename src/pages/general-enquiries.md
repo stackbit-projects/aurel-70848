@@ -67,7 +67,7 @@ sections:
           - Supplier opportunities
           - Accounts payable
           - Careers
-          - Corporate 
+          - Corporate responsabi
           - Website feedback
           - 'Other '
         is_required: true
