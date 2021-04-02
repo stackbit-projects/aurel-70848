@@ -238,7 +238,7 @@ sections:
 
           +   [Norge](https://www.a.com/no/)
 
-          *   [Österreich](https://www.a.com/at/)
+          +   [Österreich](https://www.a.com/at/)
 
           *   [Polska](https://www.a.com/pl/)
         content_align: left
