@@ -163,7 +163,7 @@ sections:
          + [Azerbaijan](https://www.a.com/az/)
          + [Belarus](https://www.a.com/by/)
          + [België](https://www.a.com/benl/)
-         +   [Belgique](https://www.a.com/befr/)
+         + [Belgique](https://www.a.com/befr/)
 
           +   [България](https://www.a.com/bg/)
 
