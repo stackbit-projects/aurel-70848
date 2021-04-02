@@ -205,6 +205,7 @@ sections:
     type: grid_section
   - content: |
       ### Europe
+      
     actions: []
     image_alt: lorem-ipsum
     media_position: right
