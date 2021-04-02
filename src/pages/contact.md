@@ -309,7 +309,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >
+        content: |
           + [Perú](https://www.a.com/la/)
           + [St. Kitts & Nevis](https://www.a.com/lae/)
           + [St. Lucia](https://www.a.com/lae/)
