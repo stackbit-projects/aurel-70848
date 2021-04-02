@@ -39,7 +39,7 @@ sections:
         content: |
           + [Jordan](https://www.a.com/jo/)
 
-          *   [الأردن](https://www.a.com/jo-ar/)
+          + [الأردن](https://www.a.com/jo-ar/)
 
           *   [Kenya](https://www.a.com/ke/)
 
