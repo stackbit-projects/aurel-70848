@@ -72,7 +72,7 @@ sections:
 
           + [Sénégal](https://www.a.com/sn/)
 
-          *   [South Africa](https://www.a.com/za/)
+          + [South Africa](https://www.a.com/za/)
 
           *   [Tunisie](https://www.a.com/tn/)
 
