@@ -1,9 +1,7 @@
 ---
 title: Contact
 sections:
-  - content: |
-      dolor sit amet
-    actions:
+  - actions:
       - url: /
         style: link
         has_icon: true
