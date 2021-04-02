@@ -70,7 +70,7 @@ sections:
         type: form_field
       - input_type: text
         name: title
-        label: Job title
+        label: Job title*
         default_value: lorem-ipsum
         options: []
         is_required: true
@@ -84,7 +84,7 @@ sections:
         type: form_field
       - input_type: text
         name: zip
-        label: Zip/Postal code
+        label: Zip/Postal code*
         options: []
         is_required: true
         type: form_field
