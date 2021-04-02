@@ -222,20 +222,14 @@ sections:
           + [Slovenia](https://www.a.com/si/)
           + [Schweiz](https://www.a.com/chde/)
           + [Suisse](https://www.a.com/chfr/)
-
           + [Suomi](https://www.a.com/fi/)
+          + [Sverige](https://www.a.com/se/)
+          + [Tajikistan](https://www.a.com/tj/)
+          + [Türkiye](https://www.a.com/tr/)
+          + [Turkmenistan](https://www.a.com/tm/)
+          + [United Kingdom](https://www.a.com/uk/)
 
-          +   [Sverige](https://www.a.com/se/)
-
-          +   [Tajikistan](https://www.a.com/tj/)
-
-          +   [Türkiye](https://www.a.com/tr/)
-
-          +   [Turkmenistan](https://www.a.com/tm/)
-
-          +   [United Kingdom](https://www.a.com/uk/)
-
-          +   [Україна](https://www.a.com/ua/)
+          + [Україна](https://www.a.com/ua/)
 
           +   [Uzbekistan](https://www.a.com/uz/)
         content_align: left
