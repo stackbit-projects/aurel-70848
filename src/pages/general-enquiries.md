@@ -65,7 +65,7 @@ sections:
         name: consent
         label: "I have read and accept the Terms of Use. Please read our\_privacy statement\_to understand how we plan to use your personal information."
         is_required: true
-    submit_label: Send Message
+    submit_label: Submit Form
     align_vert: top
     padding_top: large
     padding_bottom: large
