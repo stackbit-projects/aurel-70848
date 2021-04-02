@@ -130,10 +130,10 @@ sections:
       - title_align: left
         content: |
           + [Philippines](https://www.a.com/ph/)
-          +   [Singapore](https://www.a.com/sg/)
-          +   [台灣](https://www.a.com/tw/)
-          +   [ไทย](https://www.a.com/th/)
-          +   [Vietnam](https://www.a.com/vn/)
+          + [Singapore](https://www.a.com/sg/)
+          + [台灣](https://www.a.com/tw/)
+          + [ไทย](https://www.a.com/th/)
+          + [Vietnam](https://www.a.com/vn/)
         content_align: left
         actions: []
         actions_align: left
