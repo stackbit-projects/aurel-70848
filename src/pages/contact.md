@@ -5,7 +5,7 @@ sections:
     title: Choose your location
     align: center
     padding_top: small
-    padding_bottom: small
+    padding_bottom: large
     has_border: true
     background_color: none
   - type: grid_section
