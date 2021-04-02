@@ -20,7 +20,9 @@ sections:
 
 
       Aurel Group , BP 000000, Geneva, GE, Avenue du Grand Aurel, Swiss, 01 00
-      00 00 00 (English).
+      00 00 00 (English).Avere Commodities SA
+3 Chemin Jean Baptiste-Vandelle 1290
+Versoix, Geneva, Switzerland
 
 
       ***
