@@ -13,7 +13,6 @@ sections:
         style: secondary
     image: images/Aurel_Group_Team_Members.jpg
     image_alt: Hero section placeholder image
-    placeholder=: "blurred" 
     media_position: right
     media_width: sixty
     align: left
