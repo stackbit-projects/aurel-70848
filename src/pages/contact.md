@@ -62,7 +62,7 @@ sections:
 
           + [عُمان](https://www.a.com/om-ar/)
 
-          *   [Qatar](https://www.a.com/qa/)
+          + [Qatar](https://www.a.com/qa/)
 
           *   [قطر](https://www.a.com/qa-ar/)
 
