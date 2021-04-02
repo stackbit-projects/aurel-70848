@@ -66,10 +66,6 @@ sections:
         name: message
         label: Message
         default_value: Your message
-      - input_type: checkbox
-        name: consent
-        label: "I have read and accept the Terms of Use. Please read our\_privacy statement\_to understand how we plan to use your personal information."
-        is_required: true
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
@@ -77,6 +73,10 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: checkbox
+        name: consent
+        label: "I have read and accept the Terms of Use. Please read our\_privacy statement\_to understand how we plan to use your personal information."
+        is_required: true
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
