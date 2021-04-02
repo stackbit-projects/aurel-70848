@@ -37,7 +37,7 @@ sections:
 
           +   [Guinée Equatoriale](https://www.a.com/gq/)
 
-          *   [India](https://www.a.com/in/)
+          +   [India](https://www.a.com/in/)
 
           *   [Israel](https://www.a.com/il/)
         content_align: left
