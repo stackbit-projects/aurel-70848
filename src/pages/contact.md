@@ -17,7 +17,7 @@ sections:
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam.
-        content_align: center
+        content_align: left
         actions: []
         actions_align: center
         image_alt: Partnering and sponsorships icon
