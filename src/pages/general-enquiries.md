@@ -45,9 +45,9 @@ sections:
       pre-condition of employment. To be considered for employment, please
       submit your information through our Careers section.
 
-      ***
+      ***Fields marked with an asterisk (*) are required.
 
-      
+
     content_align: left
     form_position: left
     form_width: fifty
