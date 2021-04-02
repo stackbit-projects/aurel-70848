@@ -9,6 +9,7 @@ sections:
       you.
       
       \
+      
       \
 
       ![](/images/Aurel_Group_Locations.svg)
