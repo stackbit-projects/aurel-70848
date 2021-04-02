@@ -9,9 +9,6 @@ sections:
       
       ***
 
-
-
-
       ![](/images/Aurel_Group_Locations.svg)
 
 
