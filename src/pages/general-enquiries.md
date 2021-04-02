@@ -16,7 +16,6 @@ sections:
 
       ***
 
-
       #### Corporate headquarters
 
 
