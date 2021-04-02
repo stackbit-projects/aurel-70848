@@ -41,7 +41,7 @@ sections:
 
           + [الأردن](https://www.a.com/jo-ar/)
 
-          *   [Kenya](https://www.a.com/ke/)
+          + [Kenya](https://www.a.com/ke/)
 
           *   [Kuwait](https://www.a.com/kw/)
 
