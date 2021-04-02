@@ -25,7 +25,7 @@ sections:
 
           +   [République Centrafricaine](https://www.a.com/cf/)
 
-          *   [Côte d'Ivoire](https://www.a.com/ci/)
+          +   [Côte d'Ivoire](https://www.a.com/ci/)
 
           *   [Egypt](https://www.a.com/eg/)
 
