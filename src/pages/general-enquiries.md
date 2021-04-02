@@ -49,7 +49,7 @@ sections:
           - Other
         is_required: true
       - input_type: text
-        name: name
+        name: firstname
         label: First name
         is_required: true
       - input_type: text
