@@ -99,7 +99,6 @@ sections:
       - input_type: textarea
         name: message
         label: Your message
-        default_value: Your message
       - input_type: checkbox
         name: consent
         label: "I have read and accept the Terms of Use. Please read our\_privacy statement\_to understand how we plan to use your personal information."
