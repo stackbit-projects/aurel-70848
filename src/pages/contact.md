@@ -53,7 +53,7 @@ sections:
 
           + [Maroc](https://www.a.com/ma/)
 
-          *   [Maurice](https://www.a.com/mu/)
+          + [Maurice](https://www.a.com/mu/)
 
           *   [Mozambique](https://www.a.com/mz/)
 
