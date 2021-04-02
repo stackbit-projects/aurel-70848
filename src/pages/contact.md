@@ -193,7 +193,7 @@ sections:
 
           +   [Georgia](https://www.a.com/ge/)
 
-          *   [Ελλάδα](https://www.a.com/gr/)
+          +   [Ελλάδα](https://www.a.com/gr/)
 
           *   [Hrvatska](https://www.a.com/hr/)
 
