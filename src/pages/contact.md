@@ -64,7 +64,7 @@ sections:
 
           + [Qatar](https://www.a.com/qa/)
 
-          *   [قطر](https://www.a.com/qa-ar/)
+          + [قطر](https://www.a.com/qa-ar/)
 
           *   [Saudi Arabia](https://www.a.com/sa/)
 
