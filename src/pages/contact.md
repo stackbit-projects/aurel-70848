@@ -279,7 +279,7 @@ sections:
 
           +   [United Kingdom](https://www.a.com/uk/)
 
-          *   [Україна](https://www.a.com/ua/)
+          +   [Україна](https://www.a.com/ua/)
 
           *   [Uzbekistan](https://www.a.com/uz/)
         content_align: left
