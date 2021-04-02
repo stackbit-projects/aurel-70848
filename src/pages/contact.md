@@ -431,8 +431,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: 'The United States, Canada, and Puerto Rico'
-    actions: []
+  - actions: []
     grid_items:
       - title_align: left
         content: |
