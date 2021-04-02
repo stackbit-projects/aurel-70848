@@ -210,7 +210,7 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          [Italia](https://www.a.com/it/)
+          + [Italia](https://www.a.com/it/)
 
           *   [Kazakhstan](https://www.a.com/kz/)
 
