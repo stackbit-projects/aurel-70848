@@ -67,7 +67,7 @@ sections:
           - Supplier opportunities
           - Accounts payable
           - General feedback
-          - null
+          - Other
         is_required: true
       - input_type: text
         name: firstname
