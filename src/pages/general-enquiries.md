@@ -9,7 +9,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: ""
+    content: "test"
     content_align: left
     form_position: left
     form_width: fifty
