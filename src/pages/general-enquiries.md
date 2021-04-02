@@ -49,7 +49,7 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
+        label: Topic*
         default_value: Please select
         options:
           - Error on the site
