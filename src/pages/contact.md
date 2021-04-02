@@ -352,8 +352,7 @@ sections:
       - title_align: left
         content: |
           + [Canada (English)](https://www.a.com/ca/)
-
-          +   [Canada (Français)](https://www.a.com/ca/fr/)
+          + [Canada (Français)](https://www.a.com/ca/fr/)
         content_align: left
         actions: []
         actions_align: left
