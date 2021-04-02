@@ -36,9 +36,30 @@ sections:
         image_align: center
         image_has_padding: true
       - title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: |
+          [Jordan](https://www.a.com/jo/)
+
+          *   [الأردن](https://www.a.com/jo-ar/)
+
+          *   [Kenya](https://www.a.com/ke/)
+
+          *   [Kuwait](https://www.a.com/kw/)
+
+          *   [الكويت](https://www.a.com/kw-ar/)
+
+          *   [Madagascar](https://www.a.com/mg/)
+
+          *   [Mali](https://www.a.com/ml/)
+
+          *   [Maroc](https://www.a.com/ma/)
+
+          *   [Maurice](https://www.a.com/mu/)
+
+          *   [Mozambique](https://www.a.com/mz/)
+
+          *   [Niger](https://www.a.com/ne/)
+
+          *   [Nigeria](https://www.a.com/ng/)
         content_align: left
         actions: []
         actions_align: center
