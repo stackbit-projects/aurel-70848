@@ -293,7 +293,6 @@ sections:
           + [Guyana](https://www.a.com/lae/)
           + [Honduras](https://www.a.com/la/)
           + [Jamaica](https://www.a.com/lae/)
-
           + [México](https://www.a.com/mx/)
 
           +   [Montserrat](https://www.a.com/lae/)
