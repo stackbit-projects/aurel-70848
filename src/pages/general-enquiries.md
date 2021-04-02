@@ -7,7 +7,8 @@ sections:
       every attempt to respond in a timely manner. Alternatively, please use our
       Global Office Locator to find contact information for a Aurel office near
       you.
-\A
+      
+      \A
 
       ![](/images/Aurel_Group_Locations.svg)
 
