@@ -54,7 +54,7 @@ sections:
         is_required: true
       - input_type: email
         name: email
-        label: Email
+        label: Email address
         is_required: true
       - input_type: textarea
         name: message
