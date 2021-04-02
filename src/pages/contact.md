@@ -181,11 +181,11 @@ sections:
 
           +   [Česko](https://www.a.com/cz/)
 
-          *   [Danmark](https://www.a.com/dk/)
+          +   [Danmark](https://www.a.com/dk/)
 
-          *   [Deutschland](https://www.a.com/de/)
+          +   [Deutschland](https://www.a.com/de/)
 
-          *   [Eesti](https://www.a.com/ee/)
+          +   [Eesti](https://www.a.com/ee/)
 
           *   [España](https://www.a.com/es/)
 
