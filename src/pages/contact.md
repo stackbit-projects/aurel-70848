@@ -402,7 +402,7 @@ sections:
           +   [Suriname](https://www.a.com/lae/)
 
 
-          *   [The Bahamas](https://www.a.com/lae/)
+          +   [The Bahamas](https://www.a.com/lae/)
 
 
           *   [Trinidad & Tobago](https://www.a.com/lae/)
