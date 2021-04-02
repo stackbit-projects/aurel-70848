@@ -234,7 +234,7 @@ sections:
 
           +   [Nederland](https://www.a.com/nl/)
 
-          *   [North Macedonia](https://www.a.com/mk/)
+          +   [North Macedonia](https://www.a.com/mk/)
 
           *   [Norge](https://www.a.com/no/)
 
