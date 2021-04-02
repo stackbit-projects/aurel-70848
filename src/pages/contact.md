@@ -18,7 +18,6 @@ sections:
         
           + [Bahrain](https://www.a.com/bh/)
           + [البحرين](https://www.a.com/bh-ar/)
-
           + [Botswana](https://www.a.com/bw/)
 
           + [Cameroun](https://www.a.com/cm/)
