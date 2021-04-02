@@ -83,7 +83,7 @@ sections:
     enable_cards: false
     align: center
     padding_top: none
-    padding_bottom: large
+    padding_bottom: none
     background_color: primary
     title: 'Africa, Middle East, and India'
   - title: Asia Pacific
