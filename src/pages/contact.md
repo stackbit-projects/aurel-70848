@@ -356,7 +356,7 @@ sections:
 
           +   [El Salvador](https://www.a.com/la/)
 
-          *   [Grenada](https://www.a.com/lae/)
+          +   [Grenada](https://www.a.com/lae/)
 
           *   [Guatemala](https://www.a.com/la/)
 
