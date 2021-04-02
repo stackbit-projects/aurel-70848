@@ -19,7 +19,7 @@ sections:
       #### Corporate headquarters
 
 
-      Aurel SA, 20 Chemin Lagardiere, 1290 Versoix, Geneva, Switzerland
+      Aurel Group SA, 20 Chemin Lagardiere, 1290 Versoix, Geneva, Switzerland
 
 
       ***
