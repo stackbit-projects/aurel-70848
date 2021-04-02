@@ -313,7 +313,7 @@ sections:
         content: |
           + [Anguilla](https://www.a.com/lae/)
 
-          *   [Antigua & Barbuda](https://www.a.com/lae/)
+          +   [Antigua & Barbuda](https://www.a.com/lae/)
 
           *   [Argentina](https://www.a.com/la/)
 
