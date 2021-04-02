@@ -294,14 +294,10 @@ sections:
           + [Honduras](https://www.a.com/la/)
           + [Jamaica](https://www.a.com/lae/)
           + [México](https://www.a.com/mx/)
-
           + [Montserrat](https://www.a.com/lae/)
-
-          +   [Nicaragua](https://www.a.com/la/)
-
-          +   [Panamá](https://www.a.com/la/)
-
-          +   [Paraguay](https://www.a.com/la/)
+          + [Nicaragua](https://www.a.com/la/)
+          + [Panamá](https://www.a.com/la/)
+          + [Paraguay](https://www.a.com/la/)
         content_align: left
         actions: []
         actions_align: left
