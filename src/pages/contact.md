@@ -35,7 +35,7 @@ sections:
 
           +   [Guinée](https://www.a.com/gn/)
 
-          *   [Guinée Equatoriale](https://www.a.com/gq/)
+          +   [Guinée Equatoriale](https://www.a.com/gq/)
 
           *   [India](https://www.a.com/in/)
 
