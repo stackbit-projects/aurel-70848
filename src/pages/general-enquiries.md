@@ -60,7 +60,7 @@ sections:
         type: form_field
       - input_type: email
         name: email
-        label: Email
+        label: Email*
         is_required: true
       - input_type: text
         name: company
