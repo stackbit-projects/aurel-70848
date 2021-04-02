@@ -169,8 +169,7 @@ sections:
   - title: Europe
     actions: []
     grid_items:
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: |
           [Armenia](https://www.a.com/am/)
 
