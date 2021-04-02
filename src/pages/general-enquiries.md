@@ -91,7 +91,7 @@ sections:
       - input_type: select
         name: location
         label: Location
-        default_value: lorem-ipsum
+        default_value: Select your location
         options: []
         is_required: false
         type: form_field
