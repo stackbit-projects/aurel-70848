@@ -40,7 +40,7 @@
                 "label": "GLOBAL-EN",
                 "url": "/contact",
                 "style": "link",
-                "icon": "instagram",
+                "icon": "globe",
                 "new_window": false,
                 "has_icon": true,
                 "icon_position": "left"
