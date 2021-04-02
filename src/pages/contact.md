@@ -389,8 +389,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >
           [Perú](https://www.a.com/la/)
 
