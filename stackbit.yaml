@@ -1612,6 +1612,7 @@ models:
           - youtube
           - globe
           - call
+          - close
       - type: enum
         name: icon_position
         label: Icon position
