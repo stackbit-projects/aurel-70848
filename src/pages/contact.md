@@ -21,7 +21,7 @@ sections:
 
           +   [Botswana](https://www.a.com/bw/)
 
-          *   [Cameroun](https://www.a.com/cm/)
+          +   [Cameroun](https://www.a.com/cm/)
 
           *   [République Centrafricaine](https://www.a.com/cf/)
 
