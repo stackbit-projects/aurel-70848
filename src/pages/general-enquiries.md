@@ -90,7 +90,7 @@ sections:
         type: form_field
       - input_type: select
         name: location
-        label: Location
+        label: Location*
         default_value: Select your location
         options:
           - location1
