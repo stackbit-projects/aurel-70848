@@ -19,25 +19,15 @@ sections:
           + [Bahrain](https://www.a.com/bh/)
           + [البحرين](https://www.a.com/bh-ar/)
           + [Botswana](https://www.a.com/bw/)
-
           + [Cameroun](https://www.a.com/cm/)
-
           + [République Centrafricaine](https://www.a.com/cf/)
-
           + [Côte d'Ivoire](https://www.a.com/ci/)
-
           + [Egypt](https://www.a.com/eg/)
-
           + [مصر](https://www.a.com/eg-ar/)
-
           + [Guinea-Bissau](https://www.a.com/gw/)
-
           + [Guinée](https://www.a.com/gn/)
-
           + [Guinée Equatoriale](https://www.a.com/gq/)
-
           + [India](https://www.a.com/in/)
-
           + [Israel](https://www.a.com/il/)
         content_align: left
         actions: []
