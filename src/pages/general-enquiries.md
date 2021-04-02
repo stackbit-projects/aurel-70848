@@ -92,7 +92,8 @@ sections:
         name: location
         label: Location
         default_value: Select your location
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
       - input_type: textarea
