@@ -322,7 +322,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - content: |
-      ### Latin America and the Caribbean
+      #### Latin America and the Caribbean
 
       ***
     actions: []
