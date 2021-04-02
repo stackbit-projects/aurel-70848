@@ -253,9 +253,9 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          [Portugal](https://www.a.com/pt/)
+          + [Portugal](https://www.a.com/pt/)
 
-          *   [România](https://www.a.com/ro/)
+          +   [România](https://www.a.com/ro/)
 
           *   [Россия](https://www.a.com/ru/)
 
