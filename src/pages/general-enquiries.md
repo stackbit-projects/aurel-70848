@@ -61,7 +61,7 @@ sections:
         default_value: Select topic
         options:
           - 'Products '
-          - Services information
+          - 'Services '
           - Transportation & Logistics
           - Commodity quote requests
           - Supplier opportunities
