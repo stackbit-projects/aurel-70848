@@ -27,7 +27,7 @@ sections:
   - content: |
       ### Africa, Middle East, and India
 
-      
+      ***
     actions: []
     image_alt: lorem-ipsum
     media_position: right
