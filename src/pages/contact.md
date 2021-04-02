@@ -80,7 +80,7 @@ sections:
 
           + [United Arab Emirates](https://www.a.com/ae/)
 
-          *   [الإمارات العربية المتحدة](https://www.a.com/ae-ar/)
+          + [الإمارات العربية المتحدة](https://www.a.com/ae-ar/)
         content_align: left
         actions: []
         actions_align: center
