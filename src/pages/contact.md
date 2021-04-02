@@ -257,7 +257,7 @@ sections:
 
           +   [România](https://www.a.com/ro/)
 
-          *   [Россия](https://www.a.com/ru/)
+          +   [Россия](https://www.a.com/ru/)
 
           *   [Slovensko](https://www.a.com/sk/)
 
