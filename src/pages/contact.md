@@ -24,8 +24,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Pixel.png
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
