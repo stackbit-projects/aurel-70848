@@ -2,9 +2,8 @@
 title: Home
 sections:
   - type: hero_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      # The legacy of a well-done trade.
     actions:
       - label: Try Free
         url: /pricing
