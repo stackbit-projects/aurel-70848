@@ -115,8 +115,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: primary
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
