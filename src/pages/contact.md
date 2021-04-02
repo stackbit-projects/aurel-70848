@@ -420,7 +420,7 @@ sections:
           +   [América Latina y_el Caribe (Español)](https://www.a.com/la/)
 
 
-          *   [Latin America and the Caribbean
+          +   [Latin America and the Caribbean
           (English)](https://www.a.com/lae/)
         content_align: left
         actions: []
