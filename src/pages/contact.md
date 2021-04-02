@@ -219,14 +219,11 @@ sections:
           + [România](https://www.a.com/ro/)
           + [Россия](https://www.a.com/ru/)
           + [Slovensko](https://www.a.com/sk/)
+          + [Slovenia](https://www.a.com/si/)
+          + [Schweiz](https://www.a.com/chde/)
+          + [Suisse](https://www.a.com/chfr/)
 
-          +   [Slovenia](https://www.a.com/si/)
-
-          +   [Schweiz](https://www.a.com/chde/)
-
-          +   [Suisse](https://www.a.com/chfr/)
-
-          +   [Suomi](https://www.a.com/fi/)
+          + [Suomi](https://www.a.com/fi/)
 
           +   [Sverige](https://www.a.com/se/)
 
