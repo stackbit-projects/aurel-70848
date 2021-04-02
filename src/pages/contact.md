@@ -19,7 +19,7 @@ sections:
 
           + [البحرين](https://www.a.com/bh-ar/)
 
-          +   [Botswana](https://www.a.com/bw/)
+          + [Botswana](https://www.a.com/bw/)
 
           +   [Cameroun](https://www.a.com/cm/)
 
