@@ -116,7 +116,7 @@ sections:
     padding_bottom: none
     background_color: primary
   - content: |
-      #### Asia Pacific
+      ### Asia Pacific
     actions: []
     image_alt: lorem-ipsum
     media_position: right
