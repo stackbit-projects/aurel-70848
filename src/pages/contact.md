@@ -112,7 +112,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: false
     align: center
-    padding_top: large
+    padding_top: none
     padding_bottom: none
     background_color: primary
   - title: Asia Pacific
