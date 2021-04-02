@@ -66,7 +66,7 @@ sections:
           - Commodity quote requests
           - Supplier opportunities
           - Accounts payable
-          - General feedback
+          - Websitefeedback
           - 'Other '
         is_required: true
       - input_type: text
