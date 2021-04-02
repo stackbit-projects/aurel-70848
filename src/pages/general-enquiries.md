@@ -94,7 +94,7 @@ sections:
         default_value: Select your location
         options:
           - location1
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: textarea
         name: message
