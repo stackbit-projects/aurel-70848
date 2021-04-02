@@ -40,7 +40,7 @@ sections:
     form_action: /thank-you
     form_fields:
       - input_type: select
-        name: subject
+        name: topic
         label: Topic*
         default_value: Select topic
         options:
