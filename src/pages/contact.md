@@ -25,7 +25,7 @@ sections:
     type: hero_section
     image: images/Pixel.png
   - content: |
-      ### Africa, Middle East, and India
+      #### Africa, Middle East, and India
 
       ***
     actions: []
