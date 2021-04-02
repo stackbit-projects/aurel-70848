@@ -84,7 +84,7 @@ sections:
         type: form_field
       - input_type: text
         name: zip
-        label: lorem-ipsum
+        label: Zip/Postal code
         default_value: lorem-ipsum
         options: []
         is_required: false
