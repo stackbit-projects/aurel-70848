@@ -72,7 +72,7 @@ sections:
           - Events
           - Press / Media relations
           - Website feedback
-          - 'Other '
+          - Other
         is_required: true
       - input_type: text
         name: firstname
