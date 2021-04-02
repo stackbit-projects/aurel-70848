@@ -60,8 +60,7 @@ sections:
         label: Topic*
         default_value: Select topic
         options:
-          - Como
-          - Food & Beverage Ingredients
+          - Products
           - Services
           - Transportation & Logistics
           - Commodity quote requests
