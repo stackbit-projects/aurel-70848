@@ -43,7 +43,7 @@ sections:
 
           + [Kenya](https://www.a.com/ke/)
 
-          *   [Kuwait](https://www.a.com/kw/)
+          + [Kuwait](https://www.a.com/kw/)
 
           *   [الكويت](https://www.a.com/kw-ar/)
 
