@@ -53,7 +53,7 @@ sections:
         label: First name
         is_required: true
       - input_type: text
-        name: lorem-ipsum
+        name: lastname
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
