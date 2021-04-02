@@ -44,7 +44,6 @@ sections:
         label: Topic*
         default_value: Select topic
         options:
-          - Error on the site
           - Products information
           - Services information
           - Transportation & Logistics
@@ -52,6 +51,7 @@ sections:
           - Supplier opportunities
           - Accounts payable
           - General feedback
+          - Error on the site
         is_required: true
       - input_type: text
         name: firstname
