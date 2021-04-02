@@ -57,7 +57,7 @@ sections:
 
           + [Mozambique](https://www.a.com/mz/)
 
-          *   [Niger](https://www.a.com/ne/)
+          + [Niger](https://www.a.com/ne/)
 
           *   [Nigeria](https://www.a.com/ng/)
         content_align: left
