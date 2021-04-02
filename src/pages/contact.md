@@ -74,7 +74,7 @@ sections:
 
           + [South Africa](https://www.a.com/za/)
 
-          *   [Tunisie](https://www.a.com/tn/)
+          + [Tunisie](https://www.a.com/tn/)
 
           *   [Uganda](https://www.a.com/ug/)
 
