@@ -39,7 +39,8 @@
             {
                 "label": "Contact",
                 "url": "/contact",
-                "style": "link"
+                "style": "link",
+                "icon": "instagram"
             },
             {
                 "label": "Get Started",
