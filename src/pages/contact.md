@@ -411,7 +411,7 @@ sections:
           +   [Turks & Caicos](https://www.a.com/lae/)
 
 
-          *   [Uruguay](https://www.a.com/la/)
+          +   [Uruguay](https://www.a.com/la/)
 
 
           *   [Venezuela](https://www.a.com/la/)
