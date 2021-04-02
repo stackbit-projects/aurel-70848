@@ -273,7 +273,7 @@ sections:
 
           +   [Tajikistan](https://www.a.com/tj/)
 
-          *   [Türkiye](https://www.a.com/tr/)
+          +   [Türkiye](https://www.a.com/tr/)
 
           *   [Turkmenistan](https://www.a.com/tm/)
 
