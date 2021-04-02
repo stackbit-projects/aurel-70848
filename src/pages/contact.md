@@ -51,7 +51,7 @@ sections:
 
           + [Mali](https://www.a.com/ml/)
 
-          *   [Maroc](https://www.a.com/ma/)
+          + [Maroc](https://www.a.com/ma/)
 
           *   [Maurice](https://www.a.com/mu/)
 
