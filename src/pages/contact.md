@@ -162,8 +162,7 @@ sections:
          + [Armenia](https://www.a.com/am/)
          + [Azerbaijan](https://www.a.com/az/)
          + [Belarus](https://www.a.com/by/)
-
-          +   [België](https://www.a.com/benl/)
+         + [België](https://www.a.com/benl/)
 
           +   [Belgique](https://www.a.com/befr/)
 
