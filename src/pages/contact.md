@@ -269,7 +269,7 @@ sections:
 
           +   [Suomi](https://www.a.com/fi/)
 
-          *   [Sverige](https://www.a.com/se/)
+          +   [Sverige](https://www.a.com/se/)
 
           *   [Tajikistan](https://www.a.com/tj/)
 
