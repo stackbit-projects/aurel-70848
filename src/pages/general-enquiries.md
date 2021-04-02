@@ -42,7 +42,7 @@ sections:
       ***
     content_align: left
     form_position: left
-    form_width: fifty
+    form_width: fourty
     form_layout: inline
     enable_card: true
     form_id: contact-form
