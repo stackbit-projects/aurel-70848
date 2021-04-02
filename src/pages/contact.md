@@ -218,7 +218,7 @@ sections:
 
           +   [Latvija](https://www.a.com/lv/)
 
-          *   [Liechtenstein](https://www.a.com/li/)
+          +   [Liechtenstein](https://www.a.com/li/)
 
           *   [Lietuva](https://www.a.com/lt/)
 
