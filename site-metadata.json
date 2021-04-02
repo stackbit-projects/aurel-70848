@@ -46,7 +46,6 @@
                 "icon_position": "left"
             },
             {
-                "label": "Get Started",
                 "url": "/pricing",
                 "style": "primary",
                 "has_icon": true,
