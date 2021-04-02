@@ -281,7 +281,7 @@ sections:
 
           +   [Україна](https://www.a.com/ua/)
 
-          *   [Uzbekistan](https://www.a.com/uz/)
+          +   [Uzbekistan](https://www.a.com/uz/)
         content_align: left
         actions: []
         actions_align: left
