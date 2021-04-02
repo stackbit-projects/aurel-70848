@@ -360,7 +360,7 @@ sections:
 
           +   [Guatemala](https://www.a.com/la/)
 
-          *   [Guyana](https://www.a.com/lae/)
+          +   [Guyana](https://www.a.com/lae/)
 
           *   [Honduras](https://www.a.com/la/)
 
