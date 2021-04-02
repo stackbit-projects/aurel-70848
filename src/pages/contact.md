@@ -172,17 +172,38 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          [Armenia](https://www.a.com/am/)
 
+          *   [Azerbaijan](https://www.a.com/az/)
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   [Belarus](https://www.a.com/by/)
 
+          *   [België](https://www.a.com/benl/)
 
-          - Lorem ipsum
+          *   [Belgique](https://www.a.com/befr/)
 
-          - dolor sit amet
+          *   [България](https://www.a.com/bg/)
+
+          *   [Česko](https://www.a.com/cz/)
+
+          *   [Danmark](https://www.a.com/dk/)
+
+          *   [Deutschland](https://www.a.com/de/)
+
+          *   [Eesti](https://www.a.com/ee/)
+
+          *   [España](https://www.a.com/es/)
+
+          *   [France](https://www.a.com/fr/)
+
+          *   [Georgia](https://www.a.com/ge/)
+
+          *   [Ελλάδα](https://www.a.com/gr/)
+
+          *   [Hrvatska](https://www.a.com/hr/)
+
+          *   [Ireland](https://www.a.com/ie/)
         content_align: left
         actions: []
         actions_align: left
