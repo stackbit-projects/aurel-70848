@@ -189,7 +189,7 @@ sections:
 
           +   [España](https://www.a.com/es/)
 
-          *   [France](https://www.a.com/fr/)
+          +   [France](https://www.a.com/fr/)
 
           *   [Georgia](https://www.a.com/ge/)
 
