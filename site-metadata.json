@@ -42,7 +42,8 @@
                 "style": "link",
                 "icon": "instagram",
                 "new_window": false,
-                "has_icon": true
+                "has_icon": true,
+                "icon_position": "right"
             },
             {
                 "label": "Get Started",
