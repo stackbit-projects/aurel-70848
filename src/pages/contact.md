@@ -315,7 +315,7 @@ sections:
 
           +   [Antigua & Barbuda](https://www.a.com/lae/)
 
-          *   [Argentina](https://www.a.com/la/)
+          +   [Argentina](https://www.a.com/la/)
 
           *   [Barbados](https://www.a.com/lae/)
 
