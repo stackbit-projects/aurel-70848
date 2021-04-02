@@ -39,7 +39,7 @@ sections:
 
           +   [India](https://www.a.com/in/)
 
-          *   [Israel](https://www.a.com/il/)
+          +   [Israel](https://www.a.com/il/)
         content_align: left
         actions: []
         actions_align: center
