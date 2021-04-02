@@ -220,7 +220,7 @@ sections:
 
           +   [Liechtenstein](https://www.a.com/li/)
 
-          *   [Lietuva](https://www.a.com/lt/)
+          +   [Lietuva](https://www.a.com/lt/)
 
           *   [Luxembourg](https://www.a.com/lu/)
 
