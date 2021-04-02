@@ -260,24 +260,15 @@ sections:
       - title_align: left
         content: |
           + [Anguilla](https://www.a.com/lae/)
-
-          +   [Antigua & Barbuda](https://www.a.com/lae/)
-
-          +   [Argentina](https://www.a.com/la/)
-
-          +   [Barbados](https://www.a.com/lae/)
-
-          +   [Belize](https://www.a.com/lae/)
-
-          +   [Bermuda](https://www.a.com/lae/)
-
-          +   [Bolivia](https://www.a.com/la/)
-
-          +   [Brasil](https://www.a.com/br/)
-
-          +   [British Virgin Islands](https://www.a.com/lae/)
-
-          +   [Cayman Islands](https://www.a.com/lae/)
+          + [Antigua & Barbuda](https://www.a.com/lae/)
+          + [Argentina](https://www.a.com/la/)
+          + [Barbados](https://www.a.com/lae/)
+          + [Belize](https://www.a.com/lae/)
+          + [Bermuda](https://www.a.com/lae/)
+          + [Bolivia](https://www.a.com/la/)
+          + [Brasil](https://www.a.com/br/)
+          + [British Virgin Islands](https://www.a.com/lae/)
+          + [Cayman Islands](https://www.a.com/lae/)
 
           +  [Chile](https://www.a.com/cl/)
 
