@@ -67,7 +67,7 @@ sections:
           - Supplier opportunities
           - Accounts payable
           - General feedback
-          - Error on the site
+          - null
         is_required: true
       - input_type: text
         name: firstname
