@@ -259,15 +259,15 @@ sections:
 
           +   [Россия](https://www.a.com/ru/)
 
-          *   [Slovensko](https://www.a.com/sk/)
+          +   [Slovensko](https://www.a.com/sk/)
 
-          *   [Slovenia](https://www.a.com/si/)
+          +   [Slovenia](https://www.a.com/si/)
 
-          *   [Schweiz](https://www.a.com/chde/)
+          +   [Schweiz](https://www.a.com/chde/)
 
-          *   [Suisse](https://www.a.com/chfr/)
+          +   [Suisse](https://www.a.com/chfr/)
 
-          *   [Suomi](https://www.a.com/fi/)
+          +   [Suomi](https://www.a.com/fi/)
 
           *   [Sverige](https://www.a.com/se/)
 
