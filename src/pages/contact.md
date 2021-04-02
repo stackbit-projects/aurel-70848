@@ -466,7 +466,7 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          [Puerto Rico (English)](https://www.a.com/lae/)
+          + [Puerto Rico (English)](https://www.a.com/lae/)
 
           *   [Puerto Rico (Español)](https://www.a.com/la/)
         content_align: left
