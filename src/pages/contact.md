@@ -230,9 +230,9 @@ sections:
 
           +   [Moldova](https://www.a.com/md/)
 
-          *   [Montenegro](https://www.a.com/me/)
+          +   [Montenegro](https://www.a.com/me/)
 
-          *   [Nederland](https://www.a.com/nl/)
+          +   [Nederland](https://www.a.com/nl/)
 
           *   [North Macedonia](https://www.a.com/mk/)
 
