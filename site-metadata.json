@@ -46,7 +46,7 @@
                 "icon_position": "left"
             },
             {
-                "url": "/pricing",
+                "url": "/general-enquiries",
                 "style": "link",
                 "has_icon": true,
                 "icon": "call",
