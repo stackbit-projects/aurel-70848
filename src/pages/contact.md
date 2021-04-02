@@ -187,7 +187,7 @@ sections:
 
           +   [Eesti](https://www.a.com/ee/)
 
-          *   [España](https://www.a.com/es/)
+          +   [España](https://www.a.com/es/)
 
           *   [France](https://www.a.com/fr/)
 
