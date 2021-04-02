@@ -50,7 +50,7 @@ sections:
         is_required: true
       - input_type: text
         name: name
-        label: Name
+        label: First name
         is_required: true
       - input_type: email
         name: email
