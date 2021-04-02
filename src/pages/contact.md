@@ -13,7 +13,7 @@ sections:
         no_follow: false
         type: action
     image_alt: lorem-ipsum
-    media_position: top
+    media_position: left
     media_width: fifty
     align: left
     padding_top: medium
