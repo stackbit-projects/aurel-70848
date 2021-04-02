@@ -417,7 +417,7 @@ sections:
           +   [Venezuela](https://www.a.com/la/)
 
 
-          *   [América Latina y_el Caribe (Español)](https://www.a.com/la/)
+          +   [América Latina y_el Caribe (Español)](https://www.a.com/la/)
 
 
           *   [Latin America and the Caribbean
