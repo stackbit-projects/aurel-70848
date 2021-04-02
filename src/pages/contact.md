@@ -61,25 +61,15 @@ sections:
           [Oman](https://www.a.com/om/)
 
           + [عُمان](https://www.a.com/om-ar/)
-
           + [Qatar](https://www.a.com/qa/)
-
           + [قطر](https://www.a.com/qa-ar/)
-
           + [Saudi Arabia](https://www.a.com/sa/)
-
           + [المملكة العربية السعودية](https://www.a.com/sa-ar/)
-
           + [Sénégal](https://www.a.com/sn/)
-
           + [South Africa](https://www.a.com/za/)
-
           + [Tunisie](https://www.a.com/tn/)
-
           + [Uganda](https://www.a.com/ug/)
-
           + [United Arab Emirates](https://www.a.com/ae/)
-
           + [الإمارات العربية المتحدة](https://www.a.com/ae-ar/)
         content_align: left
         actions: []
