@@ -28,11 +28,10 @@ sections:
       ### Africa, Middle East, and India
 
       ***
-      
     actions: []
     image_alt: lorem-ipsum
     media_position: right
-    media_width: fifty
+    media_width: fourty
     align: left
     padding_top: medium
     padding_bottom: none
