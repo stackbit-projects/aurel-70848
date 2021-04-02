@@ -110,8 +110,8 @@ sections:
         content: |
           
           + [日本](https://www.a.com/jp/)
-          +   [대한민국](https://www.a.com/kr/)
-          +   [澳門](https://www.a.com/mo/)
+          + [대한민국](https://www.a.com/kr/)
+          + [澳門](https://www.a.com/mo/)
           +   [Malaysia](https://www.a.com/my/)
           +   [New Zealand](https://www.a.com/nz/)
         content_align: left
