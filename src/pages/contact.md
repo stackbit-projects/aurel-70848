@@ -323,13 +323,13 @@ sections:
 
           +   [Bermuda](https://www.a.com/lae/)
 
-          *   [Bolivia](https://www.a.com/la/)
+          +   [Bolivia](https://www.a.com/la/)
 
-          *   [Brasil](https://www.a.com/br/)
+          +   [Brasil](https://www.a.com/br/)
 
-          *   [British Virgin Islands](https://www.a.com/lae/)
+          +   [British Virgin Islands](https://www.a.com/lae/)
 
-          *   [Cayman Islands](https://www.a.com/lae/)
+          +   [Cayman Islands](https://www.a.com/lae/)
 
           *   [Chile](https://www.a.com/cl/)
 
