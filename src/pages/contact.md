@@ -15,7 +15,7 @@ sections:
     grid_items:
       - title_align: center
         content: |
-          [Bahrain](https://www.a.com/bh/)
+          + [Bahrain](https://www.a.com/bh/)
 
           +   [البحرين](https://www.a.com/bh-ar/)
 
