@@ -12,30 +12,24 @@ sections:
     content: >
       ### Feel free to contact us, we will make every attempt to respond in a
       timely manner. Alternatively, please use our Global Office Locator to find
-      contact information for a Aurel office near you. 
+      contact information for a Aurel office near you.
 
 
-
-
-      ### Corporate headquarters 
+      #### Corporate headquarters
 
 
       Aurel Group , BP 000000, Geneva, GE, Avenue du Grand Aurel, Swiss, 01 00
-      00 00 00 (English);  
+      00 00 00 (English);
 
 
-
-
-      ### Commercial sales 
+      #### Commercial sales
 
 
       Aurel will never ask customers to deposit payments in a non-Aurel bank
-      account.  
+      account.
 
 
-
-
-      ### Employment offers 
+      #### Employment offers
 
 
       Aurel will not ask for money, processing fees, or bank information as a
