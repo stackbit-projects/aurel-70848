@@ -405,7 +405,7 @@ sections:
           + [Turks & Caicos](https://www.a.com/lae/)
           + [Uruguay](https://www.a.com/la/)
           + [Venezuela](https://www.a.com/la/)
-          + [América Latina y_el Caribe (Español)](https://www.a.com/la/)
+          + [América Latina y el Caribe (Español)](https://www.a.com/la/)
           + [Latin America and the Caribbean(English)](https://www.a.com/lae/)
         content_align: left
         actions: []
