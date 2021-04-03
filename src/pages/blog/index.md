@@ -7,7 +7,7 @@ sections:
     padding_bottom: medium
     background_color: none
     media_position: right
-    content: "> ### Make better decisions with the latest\_insights of agricultural commodities\n"
+    content: "> ### Make better decisions with the latest\_insights of agricultural commodities.\n"
     image: images/Pixel.png
   - type: blog_feed_section
     blog_feed_cols: three
