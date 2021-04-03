@@ -59,7 +59,6 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/about-2.jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
