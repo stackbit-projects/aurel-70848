@@ -145,7 +145,7 @@ sections:
       - input_type: select
         name: brochure
         label: Brochure*
-        default_value: lorem-ipsum
+        default_value: 'Select a '
         options: []
         is_required: false
         type: form_field
