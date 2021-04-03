@@ -9,6 +9,7 @@ sections:
     media_position: left
     content: |
       > ###### To be informed is to be empowered.
+    image: images/Pixel.png
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
