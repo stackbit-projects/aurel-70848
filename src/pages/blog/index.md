@@ -8,8 +8,8 @@ sections:
     background_color: none
     media_position: right
     content: >
-      > ### Make effortless, informed and timely decisions with the latest
-      insights of agricultural commodities in your region.
+      > ### Make effortless, informed and timely decisions with the latest news
+      of agricultural commodities in your region.
     image: images/Pixel.png
   - type: blog_feed_section
     blog_feed_cols: three
