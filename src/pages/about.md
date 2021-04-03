@@ -77,7 +77,7 @@ sections:
   - type: cta_section
     title: More informations ?
     actions:
-      - label: Compare Plans
+      - label: Contact us
         url: /pricing
         style: primary
     align: center
