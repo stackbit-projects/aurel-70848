@@ -2,7 +2,6 @@
 title: Blog
 sections:
   - type: hero_section
-    title: Latest News
     align: left
     padding_top: medium
     padding_bottom: none
