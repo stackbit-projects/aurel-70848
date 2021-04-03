@@ -7,7 +7,7 @@ sections:
     content: |
       > Test
     image: images/Pixel.png
-    media_position: right
+    media_position: left
   - type: features_section
     features:
       - title: Section Title One
