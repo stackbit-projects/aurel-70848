@@ -6,7 +6,7 @@ sections:
     padding_top: large
     padding_bottom: medium
     background_color: none
-    media_position: right
+    media_position: left
     content: >
       > ### Make effortless, informed and timely decisions with the latest news
       & insights on agricultural commodities in your region.
