@@ -139,7 +139,7 @@ sections:
     form_fields:
       - input_type: text
         name: lorem-ipsum
-        label: First name
+        label: First name*
         default_value: lorem-ipsum
         options: []
         is_required: false
