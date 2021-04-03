@@ -39,7 +39,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: secondary
+    background_color: none
 seo:
   title: Pricing
   description: This is the pricing page
