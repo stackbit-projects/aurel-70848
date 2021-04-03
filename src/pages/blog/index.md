@@ -22,7 +22,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-    background_color: secondary
+    background_color: none
   - type: form_section
     title: Inline Form
     title_align: center
