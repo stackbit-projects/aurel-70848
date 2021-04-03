@@ -76,7 +76,6 @@ sections:
     background_color: secondary
   - type: cta_section
     title: More informations ?
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
         url: /pricing
