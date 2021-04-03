@@ -24,6 +24,7 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: secondary
+    recent_count: 3
 seo:
   title: Blog
   description: This is the blog page
