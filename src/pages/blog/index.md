@@ -7,7 +7,9 @@ sections:
     padding_bottom: medium
     background_color: none
     media_position: right
-    content: "> ### Effortless, informed and timely decisions with the latest\_insights of agricultural commodities.\n"
+    content: >
+      > ### Effortless, informed and timely decisions with the latest insights
+      of agricultural commodities in your country.
     image: images/Pixel.png
   - type: blog_feed_section
     blog_feed_cols: three
