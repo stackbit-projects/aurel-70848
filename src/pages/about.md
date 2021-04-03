@@ -59,8 +59,13 @@ sections:
         align: left
         type: feature
         image: images/about-3.jpg
-      - content: |
+      - content: >
           #### Finance
+
+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla.
         actions: []
         image_alt: lorem-ipsum
         media_position: left
