@@ -17,9 +17,7 @@ sections:
         title_align: left
         content: >
           Acidulants Cocoa & Chocolate Custom Texturizing Systems Dry Corn
-          Ingredients Edible Oils Flour Food Salt Health Promoting Ingredients
-          Hydrocolloids Lecithins Protein Texturizing Solutions for Every Need
-          Starches & Derivatives Sweeteners
+          Ingredients Edible Oils Flour Food 
         content_align: left
         actions:
           - label: Learn More
