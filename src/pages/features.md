@@ -146,7 +146,8 @@ sections:
         name: brochure
         label: Brochure*
         default_value: Select brochure
-        options: []
+        options:
+          - lorem-ipsum
         is_required: true
         type: form_field
     submit_label: Download
