@@ -7,6 +7,7 @@ sections:
     padding_bottom: large
     content: |
       > Our products
+    image: images/Pixel.png
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
