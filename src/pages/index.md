@@ -111,7 +111,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: none
+    background_color: secondary
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
