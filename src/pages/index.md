@@ -59,7 +59,7 @@ sections:
         media_position: left
         media_width: thirty-three
     feature_padding_vert: small
-    background_color: secondary
+    background_color: none
   - type: blog_feed_section
     title: What's New
     subtitle: Market News
