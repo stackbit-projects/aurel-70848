@@ -2,7 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    content: "> ###### Together has no limits.\n\n***\n\n#### Aurel Group is a commited partner for the food and beverage production industry."
+    content: "> ###### Together has no limits.\n\n***
+    
+    #### Aurel Group is a commited partner for the food and beverage production industry."
     actions:
       - label: Try Free
         url: /pricing
