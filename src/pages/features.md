@@ -10,6 +10,7 @@ sections:
       & insights on agricultural commodities in your region
     image: images/Pixel.png
     media_position: left
+    align: right
   - type: grid_section
     grid_items:
       - title: Section Item 1
