@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      
+      **
       ### test
     actions:
       - label: Try Free
