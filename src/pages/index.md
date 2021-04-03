@@ -61,7 +61,7 @@ sections:
     feature_padding_vert: small
     background_color: none
   - type: blog_feed_section
-    title: What's New
+    title: News & Insights
     actions:
       - label: View All
         url: /blog
