@@ -95,7 +95,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: primary
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
