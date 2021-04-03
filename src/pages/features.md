@@ -131,7 +131,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: text
-        name: lorem-ipsum
+        name: company
         label: Company*
         options: []
         is_required: true
