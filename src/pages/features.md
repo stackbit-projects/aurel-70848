@@ -103,7 +103,7 @@ sections:
     content: >
       Find out more about Aurel’s products and services in our latest brochure.
       Fill out your details below to download.
-    content_align: center
+    content_align: left
     form_position: left
     form_width: fifty
     form_layout: stacked
