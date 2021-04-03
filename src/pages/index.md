@@ -45,6 +45,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: primary
+    subtitle: AUREL GROUP
   - type: features_section
     features:
       - title: >-
