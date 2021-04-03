@@ -116,7 +116,6 @@ sections:
       Find out more about Aurel’s products and services in our latest brochure.
       Fill out your details below to download.
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     title_align: left
     content: >-
       ## Lorem ipsum
