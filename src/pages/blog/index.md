@@ -24,27 +24,6 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: secondary
-  - type: form_section
-    title_align: center
-    content_align: left
-    form_position: right
-    form_layout: inline
-    form_id: subscribeForm
-    form_action: /thank-you
-    form_fields:
-      - input_type: email
-        name: email
-        label: Email
-        default_value: Your email address
-        is_required: true
-    submit_label: Subscribe
-    padding_top: large
-    padding_bottom: large
-    has_border: true
-    background_color: primary
-    form_width: fifty
-    enable_card: false
-    title: 'Suscribe '
 seo:
   title: Blog
   description: This is the blog page
