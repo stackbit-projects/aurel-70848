@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      AUREL GROUP
+      ### AUREL GROUP
       ***
       # Together has no limits. 
     actions:
