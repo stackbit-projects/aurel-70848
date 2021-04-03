@@ -5,6 +5,8 @@ sections:
     background_color: none
     padding_top: large
     padding_bottom: large
+    content: |
+      > Our products
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
