@@ -33,7 +33,7 @@ sections:
           fringilla, fringilla.
         image: images/about-2.jpg
         image_alt: People in a conference room
-        media_position: left
+        media_position: right
         media_width: fifty
       - content: >
           #### Products sourcing&#xA;
