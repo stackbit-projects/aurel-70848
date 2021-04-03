@@ -26,7 +26,7 @@
             {
                 "label": "Services",
                 "style": "link",
-                "url": "/:a"
+                "url": "/about"
             },
             {
                 "label": "News & Insights",
