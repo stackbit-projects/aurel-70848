@@ -8,7 +8,7 @@ sections:
     content: |
       > Our products
     image: images/Pixel.png
-    media_position: right
+    media_position: left
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
