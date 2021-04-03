@@ -59,8 +59,7 @@ sections:
         align: left
         type: feature
         image: images/about-3.jpg
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
