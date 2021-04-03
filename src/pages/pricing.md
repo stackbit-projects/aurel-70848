@@ -33,7 +33,6 @@ sections:
           Dictum varius duis at consectetur lorem donec massa. Porta non
           pulvinar neque laoreet suspendisse interdum consectetur libero.
       - title: 'Commited for the professionalism '
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
