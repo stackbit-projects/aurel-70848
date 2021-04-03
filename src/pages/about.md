@@ -78,7 +78,7 @@ sections:
     title: More informations ?
     actions:
       - label: Contact us
-        url: /pricing
+        url: /general-enquiries
         style: primary
     align: center
     padding_top: medium
