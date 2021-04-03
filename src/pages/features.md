@@ -124,6 +124,17 @@ sections:
         options: []
         is_required: true
         type: form_field
+      - input_type: select
+        name: brochure
+        label: Brochure*
+        default_value: Select brochure
+        options:
+          - Raw materials
+          - Ingredients
+          - Services
+          - All of them
+        is_required: true
+        type: form_field
       - input_type: text
         name: lastname
         label: Last name*
@@ -140,17 +151,6 @@ sections:
         name: email
         label: Email*
         options: []
-        is_required: true
-        type: form_field
-      - input_type: select
-        name: brochure
-        label: Brochure*
-        default_value: Select brochure
-        options:
-          - Raw materials
-          - Ingredients
-          - Services
-          - All of them
         is_required: true
         type: form_field
     submit_label: Download
