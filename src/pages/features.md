@@ -98,23 +98,6 @@ sections:
     enable_cards: true
     align: center
     background_color: secondary
-  - type: cta_section
-    actions:
-      - label: Contact us
-        url: /general-enquiries
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    content: >
-      ## Download our brochure
-
-
-      Find out more about Aurel’s products and services in our latest brochure.
-      Fill out your details below to download.
   - title: Download our brochure
     title_align: center
     content: >
