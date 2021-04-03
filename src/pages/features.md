@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Explore Features
     subtitle: Features Page Demo
-    background_color: primary
+    background_color: none
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
