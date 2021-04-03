@@ -28,7 +28,7 @@ sections:
     title_align: center
     content: |
       ## Subscribe to our newsletter to make sure you don't miss anything.
-    content_align: center
+    content_align: left
     form_position: right
     form_layout: inline
     form_id: subscribeForm
