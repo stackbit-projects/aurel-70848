@@ -7,8 +7,7 @@ sections:
     padding_bottom: none
     background_color: none
     media_position: right
-    content: |
-      > Access The Latest News of Agricultural Commodities Worldwide
+    content: "> ### Better decision-making with the latest\_insights of agricultural commodities\n"
     image: images/Pixel.png
   - type: blog_feed_section
     blog_feed_cols: three
