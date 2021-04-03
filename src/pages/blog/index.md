@@ -44,6 +44,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
+    form_width: sixty
 seo:
   title: Blog
   description: This is the blog page
