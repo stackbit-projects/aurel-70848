@@ -25,7 +25,6 @@ sections:
     has_border: true
     background_color: none
   - type: form_section
-    title: Inline Form
     title_align: center
     content: Subscribe to our newsletter to make sure you don't miss anything.
     content_align: center
