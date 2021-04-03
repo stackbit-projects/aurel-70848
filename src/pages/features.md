@@ -117,17 +117,9 @@ sections:
       Fill out your details below to download.
   - title: lorem-ipsum
     title_align: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Find out more about Aurel’s products and services in our latest brochure.
+      Fill out your details below to download.
     content_align: center
     form_position: bottom
     form_width: fifty
