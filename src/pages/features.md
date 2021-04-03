@@ -116,7 +116,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: brochure-request
-    form_action: /
+    form_action: /p
     form_fields:
       - input_type: select
         name: brochure
