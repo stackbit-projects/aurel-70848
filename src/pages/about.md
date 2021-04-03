@@ -9,6 +9,7 @@ sections:
     image: images/Pixel.png
     media_position: left
     padding_top: large
+    padding_bottom: large
   - type: features_section
     features:
       - title: Section Title One
