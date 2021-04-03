@@ -2,7 +2,15 @@
 title: Home
 sections:
   - type: hero_section
-    content: "> ###### Together has no limits.\n\n***\n\n#### \_Aurel Group is a commited raw material supplier of the food and beverage production industry.\n"
+    content: >
+      > ###### Together has no limits.
+
+
+      ***
+
+
+      #### Aurel Group is a commited raw materials & ingrédients supplier of the
+      global food and beverage production industry.
     actions:
       - label: Try Free
         url: /pricing
