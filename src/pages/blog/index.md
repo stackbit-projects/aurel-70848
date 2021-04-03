@@ -3,7 +3,6 @@ title: Blog
 sections:
   - type: hero_section
     title: Blog
-    subtitle: Test
     align: left
     padding_top: medium
     padding_bottom: none
