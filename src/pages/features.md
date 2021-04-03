@@ -7,8 +7,7 @@ sections:
     padding_bottom: medium
     content: >
       > ### Our products help you to stay competitive in today’s food & beverage
-      industry. We are the partner you need, who understands the challenges of
-      running a profitable business.
+      industry.
     image: images/Pixel.png
     media_position: left
     align: left
