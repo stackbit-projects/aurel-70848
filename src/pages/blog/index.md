@@ -29,7 +29,7 @@ sections:
     content: Subscribe to our newsletter to make sure you don't miss anything.
     content_align: center
     form_position: bottom
-    form_layout: inline
+    form_layout: stacked
     form_id: subscribeForm
     form_action: /thank-you
     form_fields:
