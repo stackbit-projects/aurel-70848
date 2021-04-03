@@ -99,7 +99,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: More informations ?
+    title: Download ourbooklet
     actions:
       - label: Contact us
         url: /general-enquiries
