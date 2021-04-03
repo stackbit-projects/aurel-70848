@@ -2,15 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    content: >
-      > ###### Together has no limits.
-
-
-      ***
-
-
-      #### Aurel Group is your partner for raw materials & ingredients for food
-      industry.
+    content: "> ###### Together has no limits.\n\n***\n\n#### Aurel Group is your commited\_***partner***\_for\_***the food***\_and beverage\_***production industry***\n"
     actions:
       - label: Try Free
         url: /pricing
