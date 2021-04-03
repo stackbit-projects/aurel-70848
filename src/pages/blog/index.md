@@ -44,6 +44,7 @@ sections:
     background_color: primary
     form_width: fifty
     enable_card: false
+    title: 'Suscribe '
 seo:
   title: Blog
   description: This is the blog page
