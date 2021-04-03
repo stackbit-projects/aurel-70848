@@ -6,7 +6,7 @@ sections:
     padding_top: large
     padding_bottom: large
     content: |
-      > Our products
+      > ### Our products
     image: images/Pixel.png
     media_position: left
   - type: grid_section
