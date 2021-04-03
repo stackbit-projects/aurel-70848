@@ -18,6 +18,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            label: Read more
       - title: 2. Quality
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
