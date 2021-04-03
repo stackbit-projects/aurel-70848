@@ -39,7 +39,7 @@ sections:
         is_required: true
     submit_label: Subscribe
     padding_top: large
-    padding_bottom: medium
+    padding_bottom: large
     has_border: true
     background_color: primary
     form_width: fifty
