@@ -118,8 +118,7 @@ sections:
     align: center
     background_color: secondary
     padding_top: none
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
