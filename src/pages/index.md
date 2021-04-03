@@ -46,6 +46,7 @@ sections:
     align: center
     background_color: primary
     subtitle: AUREL GROUP
+    title: Test
   - type: features_section
     features:
       - title: >-
