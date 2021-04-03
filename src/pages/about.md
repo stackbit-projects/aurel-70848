@@ -5,7 +5,7 @@ sections:
     align: left
     background_color: none
     content: |
-      > Test
+      > ### Test
     image: images/Pixel.png
     media_position: left
     padding_top: large
