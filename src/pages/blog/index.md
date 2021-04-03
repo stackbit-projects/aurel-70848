@@ -20,7 +20,7 @@ sections:
     show_author: true
     show_excerpt: true
     show_image: true
-    padding_top: none
+    padding_top: small
     padding_bottom: large
     has_border: true
     background_color: secondary
