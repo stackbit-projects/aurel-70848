@@ -109,6 +109,8 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
+    content: |
+      #### Download our brochure
 seo:
   title: Features
   description: This is the features page
