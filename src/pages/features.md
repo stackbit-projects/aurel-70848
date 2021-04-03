@@ -115,7 +115,7 @@ sections:
 
       Find out more about Aurel’s products and services in our latest brochure.
       Fill out your details below to download.
-  - title: lorem-ipsum
+  - title: Download our brochure
     title_align: left
     content: >
       Find out more about Aurel’s products and services in our latest brochure.
