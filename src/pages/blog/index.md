@@ -8,6 +8,8 @@ sections:
     background_color: none
     image: images/Pixel.png
     media_position: right
+    content: |
+      > Latest News
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
