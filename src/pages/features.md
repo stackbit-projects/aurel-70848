@@ -15,10 +15,11 @@ sections:
     grid_items:
       - title: Section Item 1
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Acidulants Cocoa & Chocolate Custom Texturizing Systems Dry Corn
+          Ingredients Edible Oils Flour Food Salt Health Promoting Ingredients
+          Hydrocolloids Lecithins Protein Texturizing Solutions for Every Need
+          Starches & Derivatives Sweeteners
         content_align: left
         actions:
           - label: Learn More
