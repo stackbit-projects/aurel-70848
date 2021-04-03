@@ -143,7 +143,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: select
-        name: Brochure
+        name: brochure
         label: Brochure*
         default_value: lorem-ipsum
         options: []
