@@ -14,8 +14,7 @@ sections:
   - type: features_section
     features:
       - content: >
-          ##### Aurel Ocean Transportation
-
+          #### Aurel Ocean Transportation
 
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
