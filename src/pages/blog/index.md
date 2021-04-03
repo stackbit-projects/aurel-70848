@@ -43,7 +43,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: primary
-    form_width: fourty
+    form_width: fifty
     enable_card: false
 seo:
   title: Blog
