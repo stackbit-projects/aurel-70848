@@ -19,6 +19,15 @@ sections:
             no_follow: false
             type: action
             label: Read more
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - title: 2. Quality
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
