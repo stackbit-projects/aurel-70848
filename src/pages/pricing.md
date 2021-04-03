@@ -32,7 +32,7 @@ sections:
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
           pulvinar neque laoreet suspendisse interdum consectetur libero.
-      - title: 'Commited for the professionalism '
+      - title: 4. Rigor
         title_align: left
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
