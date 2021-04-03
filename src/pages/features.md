@@ -5,8 +5,9 @@ sections:
     background_color: none
     padding_top: large
     padding_bottom: large
-    content: |
-      > ### Our products
+    content: >
+      > ### Make effortless, informed and timely decisions with the latest news
+      & insights on agricultural commodities in your region
     image: images/Pixel.png
     media_position: left
   - type: grid_section
