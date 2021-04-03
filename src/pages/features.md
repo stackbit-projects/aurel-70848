@@ -109,8 +109,12 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-    content: |
-      #### Download our brochure
+    content: >
+      ### Download our brochure
+
+
+      Find out more about Aurel’s products and services in our latest brochure.
+      Fill out your details below to download.
 seo:
   title: Features
   description: This is the features page
