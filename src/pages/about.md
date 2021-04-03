@@ -6,6 +6,7 @@ sections:
     background_color: secondary
     content: |
       > Test
+    image: images/Pixel.png
   - type: features_section
     features:
       - title: Section Title One
