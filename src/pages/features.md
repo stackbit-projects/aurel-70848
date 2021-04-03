@@ -140,7 +140,7 @@ sections:
         name: email
         label: Email*
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Download
     align_vert: top
