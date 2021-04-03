@@ -8,7 +8,7 @@ sections:
     background_color: none
     media_position: right
     content: |
-      > ###### To be informed is to be empowered.
+      ### To be informed is to be empowered.
     image: images/Pixel.png
   - type: blog_feed_section
     blog_feed_cols: three
