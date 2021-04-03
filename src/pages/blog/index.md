@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Blog
     subtitle: Test
-    align: center
+    align: left
     padding_top: medium
     padding_bottom: none
     background_color: none
