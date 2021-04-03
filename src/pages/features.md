@@ -99,17 +99,15 @@ sections:
     align: center
     background_color: secondary
   - title_align: center
-    content: >+
-      # Download our brochure&#xA;
+    content: >
+      ## Request our brochure&#xA;
 
 
       Find out more about Aurel’s products and services in our latest brochure.
       Fill out your details below to download.
 
 
-
       ![](/images/classic/feature-1.png)
-
     content_align: left
     form_position: right
     form_width: fifty
