@@ -136,7 +136,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-      - input_type: text
+      - input_type: email
         name: lorem-ipsum
         label: Email*
         options: []
