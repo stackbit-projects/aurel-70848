@@ -67,6 +67,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/about-2.jpg
     background_color: secondary
   - type: grid_section
     title: Our Officess
