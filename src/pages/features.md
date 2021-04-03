@@ -99,7 +99,7 @@ sections:
     align: center
     background_color: secondary
   - title_align: center
-    content: >
+    content: >+
       # Download our brochure&#xA;
 
 
@@ -107,7 +107,9 @@ sections:
       Fill out your details below to download.
 
 
-      ![](/images/classic/feature-3.png)
+
+      ![](/images/classic/feature-1.png)
+
     content_align: left
     form_position: right
     form_width: fifty
