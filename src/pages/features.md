@@ -6,7 +6,7 @@ sections:
     padding_top: large
     padding_bottom: medium
     content: >
-      > ### Try our products, they help you to satisfy your customers and to
+      > ### Try our products ! They help you to satisfy your customers and to
       stay competitive in today’s food & beverage industry.
     image: images/Pixel.png
     media_position: left
