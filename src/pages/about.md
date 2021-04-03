@@ -41,7 +41,7 @@ sections:
           fringilla, fringilla.
         image: images/about-1.jpg
         image_alt: Happy co-workers
-        media_position: right
+        media_position: left
         media_width: fifty
     background_color: secondary
   - type: grid_section
