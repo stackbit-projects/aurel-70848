@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      # The legacy of a well done trade.
+      # Together has no limits. 
     actions:
       - label: Try Free
         url: /pricing
