@@ -105,6 +105,9 @@ sections:
 
       Find out more about Aurel’s products and services in our latest brochure.
       Fill out your details below to download.
+
+
+      ![](/images/classic/feature-3.png)
     content_align: left
     form_position: right
     form_width: fifty
