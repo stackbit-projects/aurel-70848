@@ -26,8 +26,6 @@ sections:
     background_color: secondary
   - type: form_section
     title_align: center
-    content: |
-      ####
     content_align: left
     form_position: right
     form_layout: inline
