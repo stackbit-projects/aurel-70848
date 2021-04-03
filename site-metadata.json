@@ -10,7 +10,7 @@
         "primary_nav_links": [
             {
                 "label": "About Aurel",
-                "url": "/features",
+                "url": "/about",
                 "style": "link"
             },
             {
