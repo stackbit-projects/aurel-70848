@@ -9,7 +9,7 @@ sections:
     image: images/Pixel.png
     media_position: right
     content: |
-      > ###### Be well informed is crucial.
+      > ###### To be informed is to be empowered.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
