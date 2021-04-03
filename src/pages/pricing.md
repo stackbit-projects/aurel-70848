@@ -10,8 +10,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         actions:
-          - label: lorem-ipsum
-            url: '#'
+          - url: '#'
             style: secondary
             has_icon: false
             icon: arrow-left
