@@ -6,6 +6,7 @@ sections:
     subtitle: Features Page Demo
     background_color: none
     padding_top: large
+    padding_bottom: large
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
