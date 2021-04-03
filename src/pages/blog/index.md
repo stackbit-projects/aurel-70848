@@ -26,7 +26,8 @@ sections:
     background_color: none
   - type: form_section
     title_align: center
-    content: Subscribe to our newsletter to make sure you don't miss anything.
+    content: |
+      > Subscribe to our newsletter to make sure you don't miss anything.
     content_align: center
     form_position: bottom
     form_layout: inline
