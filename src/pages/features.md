@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     background_color: none
     padding_top: large
-    padding_bottom: large
+    padding_bottom: medium
     content: >
       > ### Make effortless, informed and timely decisions with the latest news
       & insights on agricultural commodities in your region
