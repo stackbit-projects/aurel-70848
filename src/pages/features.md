@@ -93,7 +93,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-    grid_cols: three
+    grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: true
