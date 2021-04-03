@@ -145,7 +145,7 @@ sections:
       - input_type: select
         name: brochure
         label: Brochure*
-        default_value: Select b
+        default_value: Select brochure
         options: []
         is_required: false
         type: form_field
