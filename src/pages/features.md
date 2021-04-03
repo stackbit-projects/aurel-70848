@@ -98,7 +98,7 @@ sections:
     enable_cards: true
     align: center
     background_color: secondary
-  - title: Download our brochure
+  - title: Z
     title_align: center
     content: >
       Find out more about Aurel’s products and services in our latest brochure.
