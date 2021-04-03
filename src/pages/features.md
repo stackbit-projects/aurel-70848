@@ -147,7 +147,7 @@ sections:
         label: Brochure*
         default_value: Select brochure
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Download
     align_vert: top
