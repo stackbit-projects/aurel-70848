@@ -148,6 +148,7 @@ sections:
         default_value: Select brochure
         options:
           - lorem-ipsum
+          - lorem-ipsum
         is_required: true
         type: form_field
     submit_label: Download
