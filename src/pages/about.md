@@ -46,10 +46,12 @@ sections:
         image_alt: Happy co-workers
         media_position: left
         media_width: fifty
-      - content: |+
+      - content: >
           #### Documentation
 
 
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
