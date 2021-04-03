@@ -4,7 +4,7 @@ sections:
   - type: grid_section
     title: Our 6 commitments
     grid_items:
-      - title: Commited for the price
+      - title: 1. Commited for the price
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
