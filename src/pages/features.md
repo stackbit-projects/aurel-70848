@@ -11,7 +11,6 @@ sections:
     media_position: left
   - type: grid_section
     title: Cards Section
-    subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
         title_align: left
