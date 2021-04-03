@@ -148,7 +148,7 @@ sections:
         default_value: Select brochure
         options:
           - Raw materials
-          - lorem-ipsum
+          - Ingredients
           - lorem-ipsum
         is_required: true
         type: form_field
