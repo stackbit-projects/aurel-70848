@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    align: center
+    align: left
     background_color: secondary
     content: |
       > Test
