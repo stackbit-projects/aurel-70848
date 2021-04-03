@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     content: >
       > ###### Together has no limits.
-      **
+      ***
       #### Aurel Group ils your partner for agricultural commodities &
       ingredients for food industry.
     actions:
