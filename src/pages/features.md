@@ -144,7 +144,7 @@ sections:
         type: form_field
       - input_type: select
         name: Brochure
-        label: lorem-ipsum
+        label: Brochure*
         default_value: lorem-ipsum
         options: []
         is_required: false
