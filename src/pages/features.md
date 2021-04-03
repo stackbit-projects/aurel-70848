@@ -103,7 +103,7 @@ sections:
   - type: cta_section
     title: More informations ?
     actions:
-      - label: Compare Plans
+      - label: Compare P
         url: /general-enquiries
         style: primary
     actions_position: bottom
