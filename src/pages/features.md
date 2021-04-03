@@ -123,7 +123,7 @@ sections:
     content_align: center
     form_position: bottom
     form_width: fifty
-    form_layout: inline
+    form_layout: stacked
     enable_card: false
     form_id: lorem-ipsum
     form_action: lorem-ipsum
