@@ -100,7 +100,7 @@ sections:
     background_color: secondary
   - title_align: center
     content: >
-      ## Request our brochure&#xA;
+      # Request our brochure&#xA;
 
 
       Find out more about Aurel’s products and services in our latest brochure.
