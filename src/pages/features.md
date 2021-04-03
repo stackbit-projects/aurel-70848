@@ -118,12 +118,6 @@ sections:
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields:
-      - input_type: text
-        name: firstname
-        label: First name*
-        options: []
-        is_required: true
-        type: form_field
       - input_type: select
         name: brochure
         label: Brochure*
@@ -133,6 +127,12 @@ sections:
           - Ingredients
           - Services
           - All of them
+        is_required: true
+        type: form_field
+      - input_type: text
+        name: firstname
+        label: First name*
+        options: []
         is_required: true
         type: form_field
       - input_type: text
