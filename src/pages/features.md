@@ -115,7 +115,7 @@ sections:
     form_width: fifty
     form_layout: stacked
     enable_card: true
-    form_id: brochure_d
+    form_id: brochure_down
     form_action: lorem-ipsum
     form_fields:
       - input_type: select
