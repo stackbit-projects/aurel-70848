@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      # Together has no limits. 
+      # test
     actions:
       - label: Try Free
         url: /pricing
