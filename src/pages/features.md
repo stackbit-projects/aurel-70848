@@ -10,7 +10,6 @@ sections:
     image: images/Pixel.png
     media_position: left
   - type: grid_section
-    title: Cards Section
     grid_items:
       - title: Section Item 1
         title_align: left
