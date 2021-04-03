@@ -6,7 +6,6 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
-    image: images/Pixel.png
     media_position: left
     content: |
       > ###### To be informed is to be empowered.
