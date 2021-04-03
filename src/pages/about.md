@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     align: left
-    background_color: secondary
+    background_color: none
     content: |
       > Test
     image: images/Pixel.png
