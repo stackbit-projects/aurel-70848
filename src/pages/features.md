@@ -11,8 +11,7 @@ sections:
     image: images/Pixel.png
     media_position: left
     align: left
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
