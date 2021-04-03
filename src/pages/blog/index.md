@@ -9,7 +9,7 @@ sections:
     image: images/Pixel.png
     media_position: right
     content: |
-      > ###### Latest market news.
+      > ###### Be well informed is crucial.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
