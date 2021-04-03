@@ -30,7 +30,8 @@
             },
             {
                 "label": "News",
-                "style": "link"
+                "style": "link",
+                "url": "/blog"
             }
         ],
         "has_secondary_nav": true,
