@@ -3,11 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-
-
-      ***
-
-      # Together has no limits.
+      #### Commited trader of agricultural commodities.
     actions:
       - label: Try Free
         url: /pricing
