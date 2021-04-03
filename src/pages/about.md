@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     align: left
     background_color: none
-    content: |
-      > ### Test
+    content: >
+      > ### Make effortless, informed and timely decisions with the latest news
+      & insights on agricultural commodities in your region
     image: images/Pixel.png
     media_position: left
     padding_top: large
