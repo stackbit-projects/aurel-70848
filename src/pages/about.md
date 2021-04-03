@@ -24,8 +24,11 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: left
         media_width: fifty
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      - content: >
+          #### Refrigerated Trucking&#xA;
+
+
+          Loren ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         image: images/about-2.jpg
