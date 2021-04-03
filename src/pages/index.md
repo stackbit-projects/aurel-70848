@@ -3,6 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
+      
       # Together has no limits. 
     actions:
       - label: Try Free
