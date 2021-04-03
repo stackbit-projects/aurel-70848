@@ -28,6 +28,7 @@ sections:
     image: images/Pixel.png
     content: |
       #### Type 1
+      
   - type: grid_section
     grid_items:
       - title: Acidulants
