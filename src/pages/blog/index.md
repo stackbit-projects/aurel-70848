@@ -45,6 +45,7 @@ sections:
     has_border: true
     background_color: secondary
     form_width: sixty
+    enable_card: true
 seo:
   title: Blog
   description: This is the blog page
