@@ -6,12 +6,9 @@ sections:
     padding_top: large
     padding_bottom: medium
     content: >
-      > ### To stay competitive in today’s foodservice industry, you need a
-      partner who understands the challenges of running a profitable business –
-      as well as the constantly changing tastes of your customer. We help many
-      of the leading foodservice companies thrive by collaborating to develop
-      new products, build better supply chains, manage risk and elevate quality
-      of life for their consumers.
+      > ### Our products help you to stay competitive in today’s food & beverage
+      industry. We are the partner you need, who understands the challenges of
+      running a profitable business.
     image: images/Pixel.png
     media_position: left
     align: left
