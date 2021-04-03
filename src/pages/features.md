@@ -2,7 +2,6 @@
 title: Features
 sections:
   - type: hero_section
-    subtitle: Features Page Demo
     background_color: none
     padding_top: large
     padding_bottom: large
