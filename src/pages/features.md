@@ -110,7 +110,7 @@ sections:
     has_border: false
     background_color: primary
     content: >
-      ### Download our brochure
+      ## Download our brochure
 
 
       Find out more about Aurel’s products and services in our latest brochure.
