@@ -116,7 +116,7 @@ sections:
       Find out more about Aurel’s products and services in our latest brochure.
       Fill out your details below to download.
   - title: Download our brochure
-    title_align: left
+    title_align: center
     content: >
       Find out more about Aurel’s products and services in our latest brochure.
       Fill out your details below to download.
