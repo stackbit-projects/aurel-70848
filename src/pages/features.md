@@ -6,8 +6,8 @@ sections:
     padding_top: large
     padding_bottom: medium
     content: >
-      > ### Discover our products, they help you to stay competitive in today’s
-      food & beverage industry.
+      > ### Discover our products, they help you to satisfy the tastes of your
+      customers and to stay competitive in today’s food & beverage industry.
     image: images/Pixel.png
     media_position: left
     align: left
