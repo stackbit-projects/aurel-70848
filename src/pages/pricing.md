@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: grid_section
-    title: Our commitmennts
+    title: Our commitments
     grid_items:
       - title: Lorem ipsum dolor sit amet consectetur?
         content: >-
