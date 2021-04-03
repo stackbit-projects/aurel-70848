@@ -150,7 +150,7 @@ sections:
           - Raw materials
           - Ingredients
           - Services
-          - lorem-ipsum
+          - All of them
         is_required: true
         type: form_field
     submit_label: Download
