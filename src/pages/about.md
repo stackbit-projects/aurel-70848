@@ -54,7 +54,6 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: ' incididunt '
         media_position: left
         media_width: fifty
         align: left
