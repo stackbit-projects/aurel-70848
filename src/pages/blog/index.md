@@ -23,7 +23,7 @@ sections:
     padding_top: none
     padding_bottom: large
     has_border: true
-    background_color: none
+    background_color: secondary
   - type: form_section
     title_align: center
     content: |
