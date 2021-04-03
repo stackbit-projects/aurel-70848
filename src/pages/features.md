@@ -14,7 +14,7 @@ sections:
   - actions: []
     image_alt: lorem-ipsum
     media_position: right
-    media_width: fifty
+    media_width: fourty
     align: left
     padding_top: small
     padding_bottom: none
@@ -28,7 +28,7 @@ sections:
     image: images/Pixel.png
     content: |
       #### Type 1
-      
+
       ***
   - type: grid_section
     grid_items:
