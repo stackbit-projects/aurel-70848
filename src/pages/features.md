@@ -147,7 +147,7 @@ sections:
         label: Brochure*
         default_value: Select brochure
         options:
-          - lorem-ipsum
+          - Raw materials
           - lorem-ipsum
           - lorem-ipsum
         is_required: true
