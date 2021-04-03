@@ -104,7 +104,7 @@ sections:
     title: More informations ?
     actions:
       - label: Compare Plans
-        url: /pricing
+        url: /general-enquiries
         style: primary
     actions_position: bottom
     align: center
