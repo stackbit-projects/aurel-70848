@@ -23,7 +23,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    title: Together has no limits.
   - type: features_section
     features:
       - title: The Big Title For the Feature
