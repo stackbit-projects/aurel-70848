@@ -35,7 +35,10 @@ sections:
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
-      - content: >-
+      - content: >
+          #### Products sourcing&#xA;
+
+
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
