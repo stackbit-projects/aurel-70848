@@ -42,7 +42,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: true
-    background_color: secondary
+    background_color: primary
     form_width: sixty
     enable_card: true
 seo:
