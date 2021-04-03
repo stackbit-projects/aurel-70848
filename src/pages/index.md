@@ -23,7 +23,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    subtitle: AUREL GROUP
   - type: features_section
     features:
       - title: The Big Title For the Feature
