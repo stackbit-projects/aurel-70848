@@ -119,7 +119,7 @@ sections:
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
-        name: first
+        name: firstname
         label: First name*
         options: []
         is_required: false
