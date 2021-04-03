@@ -3,9 +3,11 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      ### AUREL GROUP
+      ###
+
       ***
-      # Together has no limits. 
+
+      # Together has no limits.
     actions:
       - label: Try Free
         url: /pricing
