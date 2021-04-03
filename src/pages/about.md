@@ -23,7 +23,7 @@ sections:
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
-        media_width: fourty
+        media_width: sixty
       - content: >
           #### Refrigerated Trucking&#xA;
 
