@@ -47,7 +47,7 @@ sections:
         image_has_padding: false
         title: Barley
         actions_width: auto
-        image_width: thirty-three
+        image_width: twenty-five
         content: |
           ![](/images/classic/icon-2.svg)
       - title: Corn
