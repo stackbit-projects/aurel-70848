@@ -138,6 +138,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/about-3.jpg
       - title: '8'
         title_align: left
         content: >
