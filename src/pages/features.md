@@ -11,7 +11,7 @@ sections:
     image: images/Pixel.png
     media_position: left
     align: left
-    background_image: images/Aurel_Group_Team_Members.jpg
+    background_image: images/brandon-guidelines.png
     background_image_size: contain
     background_image_position: left bottom
   - actions: []
