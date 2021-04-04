@@ -138,7 +138,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/about-3.jpg
-        title: Sustainable Cocoa 5
+        title: Rice
       - title_align: center
         content_align: left
         actions:
