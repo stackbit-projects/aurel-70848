@@ -100,8 +100,6 @@ sections:
         type: grid_item
         image: images/about-3.jpg
       - title_align: left
-        content: |
-          ##### test
         content_align: left
         actions: []
         actions_align: left
