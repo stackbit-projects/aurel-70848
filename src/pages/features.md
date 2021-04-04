@@ -35,8 +35,7 @@ sections:
       ***
   - type: grid_section
     grid_items:
-      - title: Sustainable Cocoa
-        title_align: left
+      - title_align: left
         content_align: left
         actions:
           - url: '#'
