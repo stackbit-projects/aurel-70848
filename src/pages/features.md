@@ -534,7 +534,7 @@ sections:
     grid_gap_vert: large
     enable_cards: true
     align: center
-    background_color: primary
+    background_color: secondary
     padding_top: none
     padding_bottom: medium
   - content: |
