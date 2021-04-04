@@ -27,7 +27,7 @@ sections:
     type: hero_section
     image: images/Pixel.png
     content: |
-      #### Type 1
+      #### Raw Materials
 
       ***
   - type: grid_section
