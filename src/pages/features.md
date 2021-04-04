@@ -206,7 +206,7 @@ sections:
         image: images/about-3.jpg
         title: Sustainable Cocoa 8
     grid_cols: four
-    grid_gap_horiz: medium
+    grid_gap_horiz: large
     grid_gap_vert: large
     enable_cards: true
     align: center
