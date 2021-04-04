@@ -249,7 +249,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/about-2.jpg
-      - title: lorem-ipsum
+      - title: '4'
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
