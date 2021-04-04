@@ -508,7 +508,6 @@ sections:
         image_has_padding: false
         image_width: thirty-three
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
