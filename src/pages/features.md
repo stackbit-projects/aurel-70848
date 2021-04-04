@@ -204,7 +204,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/about-3.jpg
-        title: Sustainable Cocoa 8
+        title: Tea
       - title: Sustainable Cocoa 9
         title_align: center
         content_align: left
