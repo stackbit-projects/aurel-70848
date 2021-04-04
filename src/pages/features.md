@@ -8,7 +8,7 @@ sections:
     content: >
       > ### Try our products ! They help you to satisfy your customers and to
       stay competitive in today’s food & beverage industry.
-    image: images/Pixel.png
+    image: images/classic/feature-2.png
     media_position: left
     align: left
     background_image_size: contain
