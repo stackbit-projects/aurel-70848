@@ -161,7 +161,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: false
     align: center
-    background_color: none
+    background_color: primary
     padding_top: none
   - content: |
       #### Ingredients
