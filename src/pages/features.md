@@ -63,7 +63,7 @@ sections:
         actions_align: left
         image: images/about-3.jpg
         image_alt: Item 2 icon
-        image_position: top
+        image_position: right
         image_align: left
         image_has_padding: false
       - title: '3'
