@@ -348,7 +348,7 @@ sections:
         type: grid_item
         image: images/about-2.jpg
     grid_cols: four
-    grid_gap_vert: small
+    grid_gap_vert: large
     grid_gap_horiz: small
     enable_cards: true
     align: center
