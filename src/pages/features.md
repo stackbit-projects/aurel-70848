@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     background_color: none
     padding_top: large
-    padding_bottom: none
+    padding_bottom: large
     content: >+
       > ### Try our products ! They help you to satisfy your customers and to
       stay competitive in today’s food & beverage industry.
