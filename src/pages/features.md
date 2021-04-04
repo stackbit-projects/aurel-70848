@@ -195,7 +195,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/about-3.jpg
-        title: '8'
+        title: Sustainable Cocoa 8
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
