@@ -13,7 +13,7 @@ sections:
     align: left
     background_image: images/classic/hero.png
     background_image_size: contain
-    background_image_position: left bottom
+    background_image_position: center bottom
   - actions: []
     image_alt: lorem-ipsum
     media_position: right
