@@ -212,7 +212,7 @@ sections:
     align: center
     background_color: primary
     padding_top: none
-    padding_bottom: none
+    padding_bottom: medium
   - content: |
       #### Ingredients
 
