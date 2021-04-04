@@ -97,7 +97,7 @@ sections:
         image_align: left
         image_has_padding: false
         image_width: twenty-five
-      - title: '4'
+      - title: Sustainable Cocoa 4
         title_align: left
         content_align: left
         actions: []
