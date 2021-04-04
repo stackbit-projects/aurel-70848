@@ -11,7 +11,7 @@ sections:
       
       ***
 
-      
+      We 
     image: images/classic/feature-2.png
     media_position: right
     align: left
