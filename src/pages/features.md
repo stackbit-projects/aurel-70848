@@ -139,7 +139,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          - Lorem ipsumh
 
           - dolor sit amet
         content_align: left
