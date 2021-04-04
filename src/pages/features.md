@@ -39,8 +39,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: More
-            url: '#'
+          - url: '#'
             style: secondary
             has_icon: true
             icon: arrow-right
