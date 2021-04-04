@@ -11,6 +11,7 @@ sections:
     image: images/Pixel.png
     media_position: left
     align: left
+    background_image: images/classic/post-2.png
   - actions: []
     image_alt: lorem-ipsum
     media_position: right
