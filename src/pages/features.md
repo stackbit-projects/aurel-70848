@@ -133,7 +133,7 @@ sections:
     enable_cards: true
     align: center
     background_color: secondary
-    padding_top: none
+    padding_top: small
   - content: |
       #### Ingredients
 
