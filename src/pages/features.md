@@ -508,7 +508,7 @@ sections:
         image_has_padding: false
         image_width: thirty-three
       - title: lorem-ipsum
-        title_align: left
+        title_align: center
         content_align: left
         actions:
           - label: lorem-ipsum
