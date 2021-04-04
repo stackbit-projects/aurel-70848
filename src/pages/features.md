@@ -205,7 +205,7 @@ sections:
         type: grid_item
         image: images/about-3.jpg
         title: Tea
-      - title: Sustainable Cocoa 9
+      - title: Soybeans
         title_align: center
         content_align: left
         actions:
