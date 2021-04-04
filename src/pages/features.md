@@ -47,10 +47,8 @@ sections:
         title: Barley
         actions_width: auto
         image_width: thirty-three
-        content: |+
-
-          ![](/images/classic/icon-2.svg)
-
+        content: |
+          ![](/images/classic/logo.svg)
       - title: Corn
         title_align: center
         content_align: left
