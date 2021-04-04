@@ -602,7 +602,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/about-2.jpg
-      - title: Sustainable Cocoa 3
+      - title: "Vegetable\_Glycerin"
         title_align: center
         content_align: left
         actions:
