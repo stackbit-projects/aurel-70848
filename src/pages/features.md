@@ -54,7 +54,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image: images/about-2.jpg
+        image: images/about-3.jpg
         image_alt: Item 2 icon
         image_position: top
         image_align: left
