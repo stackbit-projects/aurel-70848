@@ -40,7 +40,7 @@ sections:
         content_align: center
         actions: []
         actions_align: center
-        image: images/about-3.jpg
+        image: images/classic/post-1.png
         image_alt: Item 1 icon
         image_position: right
         image_align: left
