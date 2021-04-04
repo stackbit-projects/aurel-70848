@@ -117,7 +117,7 @@ sections:
         image_align: left
         image_has_padding: false
         image_width: thirty-three
-      - title_align: left
+      - title_align: center
         content_align: left
         actions: []
         actions_align: left
