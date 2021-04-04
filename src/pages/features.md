@@ -134,6 +134,7 @@ sections:
     align: center
     background_color: secondary
     padding_top: small
+    padding_bottom: medium
   - content: |
       #### Ingredients
 
