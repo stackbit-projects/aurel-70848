@@ -11,7 +11,6 @@ sections:
     image: images/Pixel.png
     media_position: left
     align: left
-    background_image: images/classic/hero.png
     background_image_size: contain
     background_image_position: left bottom
   - actions: []
