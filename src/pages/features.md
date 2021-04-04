@@ -76,7 +76,7 @@ sections:
         image_align: left
         image_has_padding: false
         actions_width: auto
-        image_width: thirty-three
+        image_width: twenty-five
       - title: '3'
         title_align: left
         content_align: left
