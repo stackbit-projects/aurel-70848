@@ -67,10 +67,6 @@ sections:
         image_has_padding: true
       - title: '4'
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
         content_align: left
         actions: []
         actions_align: left
