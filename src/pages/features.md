@@ -13,7 +13,8 @@ sections:
       ***
 
 
-      ##### We test staff
+      ##### Aurel Group is a commited raw materials & ingredients supplier of
+      the food and beverage production industry.
     image: images/classic/feature-2.png
     media_position: right
     align: left
