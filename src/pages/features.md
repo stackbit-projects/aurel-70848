@@ -208,7 +208,7 @@ sections:
     background_color: secondary
     padding_top: none
   - content: |
-      #### Type 2
+      #### Ingredients
     actions: []
     image_alt: lorem-ipsum
     media_position: right
