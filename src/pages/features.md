@@ -447,30 +447,26 @@ sections:
         image_align: left
         image_has_padding: false
         image_width: thirty-three
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - title: Sustainable Cocoa 3
+        title_align: center
         content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
+        actions:
+          - label: More
+            url: '#'
+            style: secondary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
+        image: images/about-3.jpg
+        image_alt: Item 3 icon
+        image_position: right
         image_align: left
         image_has_padding: false
-        type: grid_item
+        image_width: thirty-three
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
