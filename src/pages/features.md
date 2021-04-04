@@ -602,7 +602,7 @@ sections:
         type: grid_item
         image: images/about-2.jpg
       - title: Vegetable Glycerin
-        title_align: right
+        title_align: center
         content_align: left
         actions:
           - label: More
