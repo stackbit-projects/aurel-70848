@@ -50,7 +50,7 @@ sections:
         actions_align: left
         image: images/about-3.jpg
         image_alt: Item 1 icon
-        image_position: right
+        image_position: bottom
         image_align: left
         image_has_padding: false
         content: |
