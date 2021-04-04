@@ -49,7 +49,7 @@ sections:
         actions_width: auto
         image_width: thirty-three
         content: |
-          ![](/images/classic/logo.svg)
+          ![](/images/classic/icon-2.svg)
       - title: Corn
         title_align: center
         content_align: left
