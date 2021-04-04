@@ -10,6 +10,8 @@ sections:
       stay competitive in today’s food & beverage industry.
       
       ***
+
+      
     image: images/classic/feature-2.png
     media_position: right
     align: left
