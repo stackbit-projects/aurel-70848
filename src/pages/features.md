@@ -278,7 +278,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/about-2.jpg
-      - title: '3'
+      - title: Sustainable Cocoa 3
         title_align: left
         content_align: left
         actions: []
