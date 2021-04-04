@@ -73,7 +73,7 @@ sections:
         image: images/about-3.jpg
         image_alt: Item 2 icon
         image_position: right
-        image_align: left
+        image_align: right
         image_has_padding: false
         actions_width: auto
       - title: '3'
