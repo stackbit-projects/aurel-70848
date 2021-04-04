@@ -234,7 +234,7 @@ sections:
     image: images/Pixel.png
   - actions: []
     grid_items:
-      - title: '1'
+      - title: Sustainable Cocoa 1
         title_align: left
         content_align: left
         actions: []
