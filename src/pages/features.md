@@ -77,7 +77,7 @@ sections:
         image_has_padding: false
         actions_width: auto
         image_width: twenty-five
-      - title: '3'
+      - title: Sustainable Cocoa 3
         title_align: left
         content_align: left
         actions: []
