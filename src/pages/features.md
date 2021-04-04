@@ -56,7 +56,7 @@ sections:
         title: Barley
         actions_width: auto
         image_width: thirty-three
-      - title: Sustainable Cocoa 2
+      - title: Corn
         title_align: center
         content_align: left
         actions:
