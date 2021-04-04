@@ -8,7 +8,7 @@ sections:
     content: >
       > ### Try our products ! They help you to satisfy your customers and to
       stay competitive in today’s food & beverage industry.
-    image: images/Aurel_Group_Team_Members.jpg
+    image: images/Pixel.png
     media_position: right
     align: left
     background_image_size: auto
