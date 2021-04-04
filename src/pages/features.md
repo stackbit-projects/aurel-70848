@@ -205,7 +205,7 @@ sections:
         type: grid_item
         image: images/about-3.jpg
         title: Sustainable Cocoa 8
-      - title: lorem-ipsum
+      - title: Sustainable Cocoa 8
         subtitle: lorem-ipsum
         title_align: left
         content: >-
