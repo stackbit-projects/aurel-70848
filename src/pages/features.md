@@ -53,7 +53,7 @@ sections:
         image_position: right
         image_align: left
         image_has_padding: false
-        title: Sustainable Cocoa
+        title: Sustainable Cocoa 1
         actions_width: auto
         image_width: twenty-five
       - title: Sustainable Cocoa 2
