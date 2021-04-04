@@ -86,7 +86,7 @@ sections:
         image_alt: Item 3 icon
         image_position: right
         image_align: left
-        image_has_padding: true
+        image_has_padding: false
         image_width: twenty-five
       - title: '4'
         title_align: left
