@@ -9,7 +9,7 @@ sections:
       > ### Try our products ! They help you to satisfy your customers and to
       stay competitive in today’s food & beverage industry.
     image: images/classic/feature-2.png
-    media_position: left
+    media_position: right
     align: left
     background_image_size: contain
     background_image_position: left bottom
