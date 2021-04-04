@@ -68,7 +68,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image: images/about-3.jpg
+        image: images/about-2.jpg
         image_alt: Item 3 icon
         image_position: top
         image_align: left
