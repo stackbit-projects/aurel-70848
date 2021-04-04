@@ -51,7 +51,7 @@ sections:
         image: images/about-3.jpg
         image_alt: Item 1 icon
         image_position: right
-        image_align: right
+        image_align: center
         image_has_padding: false
         title: Sustainable Cocoa
         actions_width: full-width
