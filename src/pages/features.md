@@ -13,6 +13,7 @@ sections:
     align: left
     background_image: images/classic/post-2.png
     background_image_size: cover
+    background_image_position: left bottom
   - actions: []
     image_alt: lorem-ipsum
     media_position: right
