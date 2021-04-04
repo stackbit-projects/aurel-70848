@@ -37,16 +37,7 @@ sections:
     grid_items:
       - title_align: center
         content_align: center
-        actions:
-          - url: '#'
-            style: secondary
-            has_icon: false
-            icon: arrow-right
-            icon_position: center
-            new_window: false
-            no_follow: false
-            type: action
-            label: More
+        actions: []
         actions_align: center
         image: images/about-3.jpg
         image_alt: Item 1 icon
