@@ -38,13 +38,7 @@ sections:
           Acidulants Cocoa & Chocolate Custom Texturizing Systems Dry Corn
           Ingredients Edible Oils Flour Food 
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/about-1.jpg
         image_alt: Item 1 icon
