@@ -116,7 +116,7 @@ sections:
         image_position: right
         image_align: left
         image_has_padding: false
-        image_width: twenty-five
+        image_width: thirty-three
       - title_align: left
         content_align: left
         actions: []
