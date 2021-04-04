@@ -47,6 +47,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            label: More
         actions_align: left
         image: images/about-3.jpg
         image_alt: Item 1 icon
