@@ -8,10 +8,12 @@ sections:
     content: >
       > ### Try our products ! They help you to satisfy your customers and to
       stay competitive in today’s food & beverage industry.
-      
+
+
       ***
 
-      We test staff
+
+      ##### We test staff
     image: images/classic/feature-2.png
     media_position: right
     align: left
