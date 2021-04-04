@@ -106,7 +106,7 @@ sections:
         image_alt: Item 4 icon
         image_position: right
         image_align: left
-        image_has_padding: true
+        image_has_padding: false
       - title_align: left
         content_align: left
         actions: []
