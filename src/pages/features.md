@@ -115,8 +115,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/about-3.jpg
-      - title: '8'
-        title_align: left
+      - title_align: left
         content_align: left
         actions: []
         actions_align: left
