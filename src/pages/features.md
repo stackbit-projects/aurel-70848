@@ -52,7 +52,7 @@ sections:
         image_alt: Item 1 icon
         image_position: top
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         title: Sustainable Cocoa
         actions_width: full-width
         image_width: twenty-five
