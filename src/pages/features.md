@@ -176,7 +176,7 @@ sections:
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
-        image_position: top
+        image_position: right
         image_width: twenty-five
         image_align: left
         image_has_padding: false
