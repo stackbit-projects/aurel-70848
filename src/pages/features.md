@@ -129,7 +129,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/about-3.jpg
-        title: '5'
+        title: Sustainable Cocoa 5
       - title_align: left
         content_align: left
         actions: []
