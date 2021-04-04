@@ -56,7 +56,7 @@ sections:
         title: Sustainable Cocoa
         actions_width: auto
         image_width: twenty-five
-      - title: Sustainable Cocoa
+      - title: Sustainable Cocoa 2
         title_align: center
         content_align: left
         actions:
