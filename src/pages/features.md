@@ -55,6 +55,7 @@ sections:
         image_has_padding: false
         title: Sustainable Cocoa
         actions_width: full-width
+        image_width: sixty
       - title: '2'
         title_align: left
         content_align: left
