@@ -77,7 +77,7 @@ sections:
         image_has_padding: false
         actions_width: auto
         image_width: thirty-three
-      - title: Sustainable Cocoa 3
+      - title: Grain Sorghum
         title_align: center
         content_align: left
         actions:
