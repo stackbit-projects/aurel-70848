@@ -622,6 +622,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/about-2.jpg
+        title: Vegetable Glycerin
       - title: Sustainable Cocoa 4
         title_align: center
         content_align: left
