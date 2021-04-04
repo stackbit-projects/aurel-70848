@@ -138,7 +138,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: lorem-ipsum
+      - title: '8'
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
