@@ -392,7 +392,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: More
             url: '#'
             style: secondary
             has_icon: false
