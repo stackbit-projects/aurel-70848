@@ -5,17 +5,9 @@ sections:
     background_color: none
     padding_top: large
     padding_bottom: large
-    content: >+
+    content: >
       > ### Try our products ! They help you to satisfy your customers and to
       stay competitive in today’s food & beverage industry.
-
-
-      ***
-
-
-      ##### Aurel Group is a commited raw materials & ingredients supplier of
-      the food and beverage production industry.
-
     image: images/Aurel_Group_Team_Members.jpg
     media_position: right
     align: left
