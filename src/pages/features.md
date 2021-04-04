@@ -182,7 +182,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/about-3.jpg
-        title: Wheat
+        title: Coffe
       - title_align: center
         content_align: left
         actions:
