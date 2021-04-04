@@ -211,7 +211,7 @@ sections:
     enable_cards: true
     align: center
     background_color: primary
-    padding_top: small
+    padding_top: none
     padding_bottom: large
   - content: |
       #### Ingredients
