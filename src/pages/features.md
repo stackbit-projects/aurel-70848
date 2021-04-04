@@ -287,7 +287,7 @@ sections:
         image_align: left
         image_has_padding: false
         image_width: thirty-three
-      - title: Sustainable Cocoa 3
+      - title: Stone Fruit
         title_align: center
         content_align: left
         actions:
