@@ -32,7 +32,7 @@ sections:
       ***
   - type: grid_section
     grid_items:
-      - title: Acidulants
+      - title: '1'
         title_align: left
         content: >
           Acidulants Cocoa & Chocolate Custom Texturizing Systems Dry Corn
