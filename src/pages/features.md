@@ -186,9 +186,10 @@ sections:
     grid_items:
       - title: '1'
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content: >
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
         content_align: left
         actions: []
         actions_align: left
