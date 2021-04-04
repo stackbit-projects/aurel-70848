@@ -558,7 +558,7 @@ sections:
     image: images/Pixel.png
   - actions: []
     grid_items:
-      - title: Sustainable Cocoa 1
+      - title: Maltodextrine
         title_align: center
         content_align: left
         actions:
