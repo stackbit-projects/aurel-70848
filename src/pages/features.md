@@ -300,7 +300,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/about-2.jpg
-      - title: '4'
+      - title: Sustainable Cocoa 4
         title_align: left
         content_align: left
         actions: []
