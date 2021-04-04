@@ -206,7 +206,7 @@ sections:
         image: images/about-3.jpg
         title: Sustainable Cocoa 8
       - title: Sustainable Cocoa 8
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
