@@ -507,7 +507,7 @@ sections:
         image_align: left
         image_has_padding: false
         image_width: thirty-three
-      - title: lorem-ipsum
+      - title: Cocoa
         title_align: center
         content_align: left
         actions:
