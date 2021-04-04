@@ -103,7 +103,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: images/about-2.jpg
+        image: images/about-3.jpg
       - title: lorem-ipsum
         title_align: left
         content: >-
