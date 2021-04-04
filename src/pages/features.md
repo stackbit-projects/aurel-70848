@@ -87,6 +87,7 @@ sections:
         image_position: right
         image_align: left
         image_has_padding: true
+        image_width: thirty-three
       - title: '4'
         title_align: left
         content_align: left
