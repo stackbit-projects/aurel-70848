@@ -16,7 +16,7 @@ sections:
       ##### Aurel Group is a commited raw materials & ingredients supplier of
       the food and beverage production industry.
 
-    image: images/classic/feature-2.png
+    image: images/Aurel_Group_Team_Members.jpg
     media_position: right
     align: left
     background_image_size: contain
