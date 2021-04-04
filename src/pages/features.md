@@ -11,7 +11,7 @@ sections:
       
       ***
 
-      We test 
+      We test staff
     image: images/classic/feature-2.png
     media_position: right
     align: left
