@@ -74,7 +74,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Dry Corn
+      - title: '4'
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
