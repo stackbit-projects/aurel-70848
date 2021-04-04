@@ -75,8 +75,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: '5'
-        title_align: left
+      - title_align: left
         content_align: left
         actions: []
         actions_align: left
