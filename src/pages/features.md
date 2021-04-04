@@ -182,7 +182,7 @@ sections:
     padding_top: none
   - content: |
       #### Ingredients
-      
+
       ***
     actions: []
     image_alt: lorem-ipsum
@@ -201,7 +201,7 @@ sections:
     image: images/Pixel.png
   - actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: '1'
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
