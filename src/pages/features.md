@@ -14,6 +14,7 @@ sections:
     background_image_size: contain
     background_image_position: left bottom
     media_width: sixty
+    background_image: images/Aurel_Group_Team_Members.jpg
   - actions: []
     image_alt: lorem-ipsum
     media_position: right
