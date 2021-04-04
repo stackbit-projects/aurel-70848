@@ -51,7 +51,7 @@ sections:
         actions_align: left
         image: images/about-3.jpg
         image_alt: Item 1 icon
-        image_position: top
+        image_position: left
         image_align: left
         image_has_padding: true
       - title: '2'
