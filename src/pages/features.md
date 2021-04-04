@@ -129,7 +129,7 @@ sections:
         type: grid_item
         image: images/about-2.jpg
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: lorem-ipsumf
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
