@@ -132,7 +132,7 @@ sections:
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
-        image_position: top
+        image_position: right
         image_width: thirty-three
         image_align: left
         image_has_padding: false
