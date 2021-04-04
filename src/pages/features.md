@@ -11,7 +11,7 @@ sections:
     image: images/Pixel.png
     media_position: left
     align: left
-    background_image: images/classic/post-2.png
+    background_image: images/Aurel_Group_Locations.svg
     background_image_size: contain
     background_image_position: left bottom
   - actions: []
