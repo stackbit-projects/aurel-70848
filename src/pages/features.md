@@ -12,7 +12,7 @@ sections:
     media_position: right
     align: left
     background_image_size: contain
-    background_image_position: left bottom
+    background_image_position: center center
     media_width: sixty
     background_image: images/Aurel_Group_Team_Members.jpg
   - actions: []
