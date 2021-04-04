@@ -103,10 +103,8 @@ sections:
         image: images/about-3.jpg
       - title: '7'
         title_align: left
-        content: >
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          ##### test
         content_align: left
         actions: []
         actions_align: left
