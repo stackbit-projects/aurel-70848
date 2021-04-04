@@ -21,6 +21,7 @@ sections:
     align: left
     background_image_size: contain
     background_image_position: left bottom
+    media_width: sixty
   - actions: []
     image_alt: lorem-ipsum
     media_position: right
