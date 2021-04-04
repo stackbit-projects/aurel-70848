@@ -209,6 +209,7 @@ sections:
     padding_top: none
   - content: |
       #### Ingredients
+      
       ***
     actions: []
     image_alt: lorem-ipsum
