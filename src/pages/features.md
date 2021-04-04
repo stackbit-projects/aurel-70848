@@ -301,7 +301,7 @@ sections:
         type: grid_item
         image: images/about-2.jpg
       - title: Sustainable Cocoa 4
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
