@@ -54,7 +54,7 @@ sections:
         image_align: left
         image_has_padding: false
         content: |
-          ##### Sustainable Cocoa
+          #### Sustainable Cocoa
       - title: '2'
         title_align: left
         content_align: left
