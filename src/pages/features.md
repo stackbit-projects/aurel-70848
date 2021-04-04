@@ -65,7 +65,7 @@ sections:
         image_alt: Item 2 icon
         image_position: top
         image_align: left
-        image_has_padding: true
+        image_has_padding: false
       - title: '3'
         title_align: left
         content_align: left
