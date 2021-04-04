@@ -17,7 +17,7 @@ sections:
       the food and beverage production industry.
 
     image: images/Aurel_Group_Team_Members.jpg
-    media_position: right
+    media_position: top
     align: left
     background_image_size: contain
     background_image_position: left bottom
