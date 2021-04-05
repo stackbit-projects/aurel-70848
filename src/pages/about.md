@@ -46,7 +46,7 @@ sections:
         type: grid_item
         image: images/about-1.jpg
         title: Ocean Transportation
-        subtitle: Desc
+        subtitle: 'Description '
       - title: Products sourcing
         title_align: center
         content_align: left
