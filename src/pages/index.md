@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Try Free
         url: /pricing
-        style: primary
+        style: link
       - label: Learn More
         url: /features
         style: secondary
