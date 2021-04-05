@@ -138,7 +138,7 @@ sections:
         content: "## Rigor\n\n##### And pay for your new lorem ipsum, interest‑free when you\_choose lorem ilpsum Monthly\_Installments.\n"
     grid_cols: two
     grid_gap_horiz: medium
-    grid_gap_vert: medium
+    grid_gap_vert: small
     enable_cards: true
     padding_top: medium
     padding_bottom: medium
