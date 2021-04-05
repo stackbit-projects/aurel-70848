@@ -116,7 +116,7 @@ sections:
     align: center
     padding_top: none
     padding_bottom: none
-    background_color: primary
+    background_color: tertiary
   - content: |
       #### Asia Pacific
 
