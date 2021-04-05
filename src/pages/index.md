@@ -37,7 +37,7 @@ sections:
         actions:
           - label: Learn More
             url: /style-guide
-            style: primary
+            style: tertiary
             has_icon: true
             icon: arrow-right
             icon_position: right
