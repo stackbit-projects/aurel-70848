@@ -144,6 +144,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
+    align: center
 seo:
   title: Pricing
   description: This is the pricing page
