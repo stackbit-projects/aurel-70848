@@ -73,16 +73,7 @@ sections:
       - title: Oats
         title_align: center
         content_align: left
-        actions:
-          - label: More
-            url: '#'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         actions_align: center
         image: images/about-3.jpg
         image_alt: Item 4 icon
