@@ -69,7 +69,7 @@ sections:
 
       ![](/images/Aurel_Group_Locations.svg)
     content_align: left
-    form_position: right
+    form_position: left
     form_width: fifty
     form_layout: inline
     enable_card: true
