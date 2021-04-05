@@ -1,8 +1,7 @@
 ---
 title: About
 sections:
-  - subtitle: lorem-ipsum
-    content: |
+  - content: |
       test
     actions: []
     image_alt: lorem-ipsum
