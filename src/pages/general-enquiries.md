@@ -1,7 +1,7 @@
 ---
 title: General enquiries
 sections:
-  - title: Contact Us
+  - title: Contact sales
     subtitle: "Feel free to contact us for any inquiries or requests, we will make every attempt to respond in a timely manner.\_Alternatively, please use our Global Office Locator to find contact information for a Aurel office near you."
     actions: []
     image_alt: lorem-ipsum
