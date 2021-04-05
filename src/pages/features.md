@@ -30,6 +30,8 @@ sections:
     type: hero_section
     content: |
       ***
+
+      ***
   - type: grid_section
     grid_items:
       - title_align: center
