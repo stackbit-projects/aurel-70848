@@ -90,17 +90,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: cta_section
-    title: More informations ?
-    actions:
-      - label: Contact us
-        url: /general-enquiries
-        style: primary
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
 seo:
   title: About
   description: This is the about us page
