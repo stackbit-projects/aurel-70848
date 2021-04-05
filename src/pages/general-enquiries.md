@@ -1,7 +1,7 @@
 ---
 title: General enquiries
 sections:
-  - title: Contact us
+  - title: Contact Us
     subtitle: lorem-ipsum
     actions: []
     image_alt: lorem-ipsum
