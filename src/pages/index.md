@@ -15,6 +15,7 @@ sections:
       - label: Learn More
         url: /features
         style: link
+        has_icon: true
     image: images/Aurel_Group_Team_Members.jpg
     image_alt: Hero section placeholder image
     media_position: right
