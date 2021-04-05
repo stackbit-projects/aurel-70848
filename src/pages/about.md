@@ -85,8 +85,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items:
       - title_align: left
         content_align: left
