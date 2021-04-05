@@ -16,8 +16,6 @@ sections:
       src="https://www.youtube.com/embed/Zk2dnNQaXBw" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    background_image: <iframe width="560" height="315" src="https://www.youtube.com/embed/Zk2dnNQaXBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    background_image_size: contain
   - type: cta_section
     title: More informations ?
     actions:
