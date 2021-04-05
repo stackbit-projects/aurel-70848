@@ -101,7 +101,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/about-1.jpg
-        title: E
+        title: l Ocean Transportation
       - title: lorem-ipsum
         title_align: left
         content_align: left
