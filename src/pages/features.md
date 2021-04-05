@@ -30,6 +30,8 @@ sections:
     type: hero_section
     content: |
       
+      test
+      
       ***
   - type: grid_section
     grid_items:
