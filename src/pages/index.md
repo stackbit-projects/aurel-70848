@@ -16,7 +16,7 @@ sections:
         url: /features
         style: link
         has_icon: true
-        icon: youtube
+        icon: globe
         icon_position: right
     image: images/Aurel_Group_Team_Members.jpg
     image_alt: Hero section placeholder image
