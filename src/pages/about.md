@@ -17,6 +17,7 @@ sections:
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     background_image: images/about-1.jpg
+    background_image_size: cover
   - type: cta_section
     title: More informations ?
     actions:
