@@ -29,8 +29,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     content: |
-      #### Raw Materials
-
       ***
   - type: grid_section
     grid_items:
