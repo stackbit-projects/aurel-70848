@@ -28,7 +28,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    font_size: small
     content: >
       Catégorie 1     |    Catégorie 2     |    Catégorie 3    |     Catégorie
       1     |    Catégorie 2     |    Catégorie 3 
