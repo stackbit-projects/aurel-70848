@@ -29,8 +29,8 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     content: |
-      test
-      
+      test Catégorie 1     |    Catégorie 2     |    Catégorie 3    |
+
       ***
   - type: grid_section
     grid_items:
