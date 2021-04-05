@@ -102,7 +102,7 @@ sections:
         type: grid_item
         image: images/about-1.jpg
         title: Ocean Transportation
-      - title: lorem-ipsum
+      - title: Products sourcing
         title_align: left
         content_align: left
         actions: []
