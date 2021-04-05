@@ -328,7 +328,7 @@ sections:
         is_required: true
     submit_label: Submit form
     align_vert: top
-    padding_top: large
+    padding_top: none
     padding_bottom: large
     background_color: none
 seo:
