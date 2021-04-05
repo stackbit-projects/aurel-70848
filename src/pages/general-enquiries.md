@@ -48,7 +48,7 @@ sections:
 
       Fields marked with an asterisk (\*) are required.
     content_align: left
-    form_position: left
+    form_position: right
     form_width: fifty
     form_layout: inline
     enable_card: true
