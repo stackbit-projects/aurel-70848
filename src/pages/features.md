@@ -6,7 +6,7 @@ sections:
     padding_top: large
     padding_bottom: large
     content: >
-      ### Try our products, they help you to stay competitive in today’s food &
+      ## Try our products, they help you to stay competitive in today’s food &
       beverage industry.
     image: images/Pixel.png
     media_position: right
