@@ -128,7 +128,7 @@ sections:
         type: grid_item
         image: images/about-5.jpg
       - title: lorem-ipsum
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
