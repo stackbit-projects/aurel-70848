@@ -2,7 +2,9 @@
 title: General enquiries
 sections:
   - title: Contact Us
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Feel free to contact us for any inquiries or requests, we will make every
+      attempt to respond in a timely manner.
     actions: []
     image_alt: lorem-ipsum
     media_position: top
