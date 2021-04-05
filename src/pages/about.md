@@ -34,8 +34,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/about-1.jpg
-        content: |
-          ## Ocean Transportation
+        content: "## Ocean Transportation\n\n##### And pay for your new lorem ipsum, interest‑free when you\_choose lorem ilpsum Monthly\_Installments.\n"
       - title: Products sourcing
         title_align: center
         content_align: left
