@@ -70,12 +70,28 @@ sections:
         type: grid_item
         image: images/Aurel_Group_Locations.svg
         content: "## Social Responsability\n\n##### And pay for your new lorem ipsum, interest‑free when you\_choose lorem ilpsum Monthly\_Installments.\n"
-      - title: 6. Planet
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+      - title_align: center
+        content_align: center
+        actions:
+          - label: Learn more
+            url: '#'
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: bottom
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        type: grid_item
+        image: images/Aurel_Group_Locations.svg
+        content: "## Ocean Transportation\n\n##### And pay for your new lorem ipsum, interest‑free when you\_choose lorem ilpsum Monthly\_Installments.\n"
       - title: 3. Transparency
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
