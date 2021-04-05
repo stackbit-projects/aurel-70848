@@ -25,7 +25,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: tertiary
   - type: features_section
     features:
       - title: The Big Title For the Feature
