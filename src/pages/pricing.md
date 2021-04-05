@@ -47,7 +47,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/Aurel_Group_Locations.svg
-        content: "## Ocean Transportation\n\n##### And pay for your new lorem ipsum, interest‑free when you\_choose lorem ilpsum Monthly\_Installments.\n"
+        content: "## quality\n\n##### And pay for your new lorem ipsum, interest‑free when you\_choose lorem ilpsum Monthly\_Installments.\n"
       - title: 5. People
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
