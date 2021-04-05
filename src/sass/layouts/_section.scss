@@ -174,7 +174,7 @@
 }
 
 .bg-tertiary {
-	background: $color-secondary-sect-bg;
+	background: $color-tertiary-sect-bg;
 }
 
 @each $style in map-keys($theme-styles) {
