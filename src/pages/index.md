@@ -16,7 +16,7 @@ sections:
         url: /pricing
         style: link
         has_icon: true
-        icon: arrow-left
+        icon: arrow-right
       - label: Learn More
         url: /features
         style: secondary
