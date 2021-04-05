@@ -33,7 +33,7 @@ sections:
         image_align: left
         image_has_padding: true
         type: grid_item
-        image: images/about-1.jpg
+        image: images/Aurel_Group_Locations.svg
         content: "## Ocean Transportation\n\n##### And pay for your new lorem ipsum, interest‑free when you\_choose lorem ilpsum Monthly\_Installments.\n"
       - title: Products sourcing
         title_align: center
