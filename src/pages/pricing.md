@@ -92,11 +92,28 @@ sections:
         type: grid_item
         image: images/Aurel_Group_Locations.svg
         content: "## Planet\n\n##### And pay for your new lorem ipsum, interest‑free when you\_choose lorem ilpsum Monthly\_Installments.\n"
-      - title: 3. Transparency
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+      - title_align: center
+        content_align: center
+        actions:
+          - label: Learn more
+            url: '#'
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: bottom
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        type: grid_item
+        image: images/Aurel_Group_Locations.svg
+        content: "## Ocean Transportation\n\n##### And pay for your new lorem ipsum, interest‑free when you\_choose lorem ilpsum Monthly\_Installments.\n"
       - title: 4. Rigor
         title_align: left
         content: >
