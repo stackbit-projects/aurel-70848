@@ -29,7 +29,7 @@ sections:
     background_image_opacity: 0
     background_image_size: contain
     background_image_position: left top
-    background_image_repeat: repeat
+    background_image_repeat: no-repeat
     type: hero_section
     background_image: images/Shadow.png
   - type: form_section
