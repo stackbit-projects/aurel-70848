@@ -11,6 +11,7 @@ sections:
     media_position: right
     padding_top: large
     padding_bottom: medium
+    background_image: images/about-2.jpg
   - actions: []
     grid_items:
       - title_align: center
