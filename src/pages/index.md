@@ -17,7 +17,7 @@ sections:
         style: primary
       - label: Learn More
         url: /features
-        style: tertiary
+        style: secondary
     image: images/Aurel_Group_Team_Members.jpg
     image_alt: Hero section placeholder image
     media_position: right
