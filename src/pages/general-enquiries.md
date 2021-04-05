@@ -345,7 +345,7 @@ sections:
     align_vert: top
     padding_top: none
     padding_bottom: large
-    background_color: none
+    background_color: secondary
 seo:
   title: General Enquiries
   description: This is the general enquiries page
