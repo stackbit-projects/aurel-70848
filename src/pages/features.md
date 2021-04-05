@@ -29,6 +29,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     content: |
+      
       ***
   - type: grid_section
     grid_items:
