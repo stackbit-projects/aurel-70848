@@ -101,7 +101,7 @@ sections:
         image: images/about-1.jpg
         title: Ocean Transportation
       - title: Products sourcing
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
