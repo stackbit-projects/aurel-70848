@@ -48,13 +48,28 @@ sections:
         type: grid_item
         image: images/Aurel_Group_Locations.svg
         content: "## Quality\n\n##### And pay for your new lorem ipsum, interest‑free when you\_choose lorem ilpsum Monthly\_Installments.\n"
-      - title: 5. People
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+      - title_align: center
+        content_align: center
+        actions:
+          - label: Learn more
+            url: '#'
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: bottom
+        image_width: fifty
+        image_align: left
+        image_has_padding: true
+        type: grid_item
+        image: images/Aurel_Group_Locations.svg
+        content: "## Ocean Transportation\n\n##### And pay for your new lorem ipsum, interest‑free when you\_choose lorem ilpsum Monthly\_Installments.\n"
       - title: 6. Planet
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
