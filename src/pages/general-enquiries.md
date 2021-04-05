@@ -21,11 +21,9 @@ sections:
     type: hero_section
   - type: form_section
     content: >
-      ### Alternatively, please use our Global Office Locator to find contact
-      information for a Aurel office near you.
-
-
       \
+
+
 
       ![](/images/Aurel_Group_Locations.svg)
 
