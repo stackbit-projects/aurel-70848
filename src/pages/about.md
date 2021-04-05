@@ -35,6 +35,8 @@ sections:
         type: grid_item
         image: images/about-1.jpg
         subtitle: 'Description '
+        content: |
+          ## Ocean Transportation
       - title: Products sourcing
         title_align: center
         content_align: left
