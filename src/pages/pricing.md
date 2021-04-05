@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: grid_section
-    title: Our 6 commitments
+    title: Our commitments
     grid_items:
       - title: 1. Price
         content: >-
