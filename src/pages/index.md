@@ -47,7 +47,7 @@ sections:
         media_width: fifty
     feature_padding_vert: large
     align: center
-    background_color: tertiary
+    background_color: primary
   - type: features_section
     features:
       - title: >-
