@@ -1,8 +1,7 @@
 ---
 title: About
 sections:
-  - content: |
-      test
+  - content: "Get Specialist help, free no-contact delivery, and\_more.\n"
     actions: []
     image_alt: lorem-ipsum
     media_position: top
