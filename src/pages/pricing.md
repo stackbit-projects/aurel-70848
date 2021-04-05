@@ -135,7 +135,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/Aurel_Group_Locations.svg
-        content: "## Ocean Transportation\n\n##### And pay for your new lorem ipsum, interest‑free when you\_choose lorem ilpsum Monthly\_Installments.\n"
+        content: "## Rigor\n\n##### And pay for your new lorem ipsum, interest‑free when you\_choose lorem ilpsum Monthly\_Installments.\n"
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
