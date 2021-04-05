@@ -5,7 +5,7 @@ sections:
     align: left
     background_color: none
     content: >
-      ### Make effortless, informed and timely decisions with the latest news &
+      ## Make effortless, informed and timely decisions with the latest news &
       insights on agricultural commodities in your region.
     image: images/Pixel.png
     media_position: right
