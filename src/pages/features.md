@@ -13,7 +13,7 @@ sections:
     align: left
     background_image_size: auto
     background_image_position: center center
-    media_width: sixty
+    media_width: fourty
   - actions: []
     image_alt: lorem-ipsum
     media_position: right
