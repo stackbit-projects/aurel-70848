@@ -8,7 +8,7 @@ sections:
       > ### Make effortless, informed and timely decisions with the latest news
       & insights on agricultural commodities in your region
     image: images/Pixel.png
-    media_position: left
+    media_position: right
     padding_top: large
     padding_bottom: medium
   - type: features_section
