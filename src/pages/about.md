@@ -27,7 +27,7 @@ sections:
       - title_align: center
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Learn more
             url: '#'
             style: link
             has_icon: true
