@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     align: left
-    background_color: none
+    background_color: primary
     content: >
       ## Make effortless, informed and timely decisions with the latest news &
       insights on agricultural commodities in your region.
