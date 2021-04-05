@@ -19,16 +19,6 @@ sections:
     type: hero_section
   - type: form_section
     content: >
-      \
-
-
-
-      ![](/images/Aurel_Group_Locations.svg)
-
-
-      ***
-
-
       #### Corporate headquarters
 
 
@@ -60,6 +50,9 @@ sections:
 
 
       Fields marked with an asterisk (\*) are required.
+
+
+      ![](/images/Aurel_Group_Locations.svg)
     content_align: left
     form_position: right
     form_width: fifty
