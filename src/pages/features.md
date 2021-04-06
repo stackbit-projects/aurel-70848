@@ -51,18 +51,24 @@ sections:
           ***
 
           High grade No. 2 or No. 3 Yellow Corn
-      - title: Corn
-        title_align: center
-        content_align: left
+      - title_align: center
+        content_align: center
         actions: []
         actions_align: center
-        image: images/about-3.jpg
-        image_alt: Item 2 icon
-        image_position: right
+        image_alt: Item 1 icon
+        image_position: top
         image_align: left
         image_has_padding: false
         actions_width: auto
-        image_width: thirty-three
+        image_width: twenty-five
+        content: |
+          ![](/images/corn.jpg)
+
+          ##### Corn
+
+          ***
+
+          High grade No. 2 or No. 3 Yellow Corn
       - title: Grain Sorghum
         title_align: center
         content_align: left
