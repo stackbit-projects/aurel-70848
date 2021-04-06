@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     align: left
     background_color: tertiary
-    content: >
-      ## Make effortless, informed and timely decisions with the latest news &
-      insights on agricultural commodities in your region.
+    content: "# Ethics and Compliance\n\nAurel conducts business ethically, honestly, and in full compliance with the law. We believe that how we conduct ourselves is as critical to Aurel’s success as making the best products in the world. Our Business Conduct and Compliance policies are foundational to how we do business and how we put our values into practice every day.\_\n\nWe do the right thing, even when it’s not easy.\n"
     image: images/Pixel.png
     media_position: right
     padding_top: large
