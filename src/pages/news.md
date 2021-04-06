@@ -9,7 +9,7 @@ sections:
     media_position: right
     content: |
       # Explore News & Insights.
-    image: images/Pixel.png
+    image: images/AA030F84-64D6-4E99-A605-DFB8D08560D7.jpeg
     media_width: sixty
     background_image_size: contain
     background_image_position: right bottom
