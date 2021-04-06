@@ -31,7 +31,7 @@ sections:
     background_image_position: left top
     background_image_repeat: repeat
     type: hero_section
-    background_image: images/Shadow.png
+    background_image: images/shadow_line.png
   - type: form_section
     content: >
       #### Corporate headquarters
