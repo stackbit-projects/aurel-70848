@@ -3,7 +3,8 @@ title: Home
 sections:
   - type: hero_section
     content: >
-      ###### Commited / #### raw materials & ingredients supplier of the food and
+      ###### Commited 
+      #### raw materials & ingredients supplier of the food and
       beverage production industry.
     actions:
       - label: Learn More
