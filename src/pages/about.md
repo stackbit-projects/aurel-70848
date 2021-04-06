@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     align: center
-    background_color: secondary
+    background_color: none
     content: >
       ## Deep expertise in efficiently transporting bulk commodities and
       finished products between continents and across countries.
