@@ -236,7 +236,7 @@ sections:
     grid_gap_vert: large
     enable_cards: false
     align: center
-    background_color: none
+    background_color: secondary
     padding_top: medium
     padding_bottom: medium
   - title_align: center
