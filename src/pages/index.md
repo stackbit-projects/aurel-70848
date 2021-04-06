@@ -2,9 +2,10 @@
 title: Home
 sections:
   - type: hero_section
-    content: >
-      ## Our mission : Supply healthy, tasty and sustainable agricultural
-      commodities.
+    content: |
+      ###### Our mission 
+
+       Supply healthy, tasty and sustainable agricultural commodities.
     actions:
       - label: Learn More
         url: /features
