@@ -237,7 +237,7 @@ sections:
     enable_cards: false
     align: center
     background_color: secondary
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
   - title_align: center
     content: >
