@@ -13,7 +13,7 @@ sections:
     media_width: fourty
     background_image: images/Affiche réaliste de journal de première page  Vecteur Gratuite.png
     background_image_size: contain
-    background_image_position: center bottom
+    background_image_position: right bottom
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
