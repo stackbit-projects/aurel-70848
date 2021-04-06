@@ -9,8 +9,8 @@ sections:
       ***
 
 
-      ##### YOUR INTERNATIONAL PARTNER FOR INDUSTRIAL INGREDIENTS and RAW
-      MATERIAL SUPPLY TO INDUSTRIES
+      ##### Commited raw materials & ingredients supplier of the food and
+      beverage production industry.
     actions:
       - label: Learn More
         url: /features
