@@ -107,7 +107,7 @@ sections:
     enable_cards: true
     align: center
     padding_top: medium
-    padding_bottom: medium
+    padding_bottom: none
     has_border: false
     background_color: secondary
     background_image_opacity: 0
