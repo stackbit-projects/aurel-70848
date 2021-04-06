@@ -7,9 +7,8 @@ sections:
     padding_bottom: medium
     background_color: none
     media_position: right
-    content: >
-      ## Make effortless, informed and timely decisions with the latest news &
-      insights on agricultural commodities in your region.
+    content: |
+      ## Explore news & insights on agricultural commodities.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
