@@ -12,7 +12,7 @@ sections:
     image: images/Pixel.png
     media_width: fifty
     background_image: images/about-1.jpg
-    background_image_size: contain
+    background_image_size: auto
     background_image_position: right bottom
   - type: blog_feed_section
     blog_feed_cols: three
