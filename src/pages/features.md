@@ -49,7 +49,7 @@ sections:
           Corn
 
           ***
-          
+        
       - title: Corn
         title_align: center
         content_align: left
