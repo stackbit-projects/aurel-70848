@@ -13,7 +13,6 @@ sections:
     media_width: sixty
     background_image_size: contain
     background_image_position: right bottom
-    background_image: images/AA030F84-64D6-4E99-A605-DFB8D08560D7.jpeg
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
