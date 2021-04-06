@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: hero_section
-    align: left
+    align: center
     padding_top: large
     padding_bottom: medium
     background_color: none
