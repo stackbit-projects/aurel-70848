@@ -9,7 +9,7 @@ sections:
       insights on agricultural commodities in your region.
     media_position: right
     padding_top: large
-    padding_bottom: small
+    padding_bottom: none
   - actions: []
     grid_items:
       - title_align: center
