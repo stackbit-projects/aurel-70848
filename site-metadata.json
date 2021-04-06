@@ -3,7 +3,7 @@
     "style": "classic",
     "palette": "green",
     "mode": "light",
-    "base_font": "sans-serif",
+    "base_font": "serif",
     "header": {
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
