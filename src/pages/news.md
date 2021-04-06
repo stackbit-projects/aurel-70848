@@ -10,7 +10,7 @@ sections:
     content: |
       # Explore News & Insights.
     image: images/Pixel.png
-    media_width: sixty
+    media_width: fifty
     background_image_size: cover
     background_image_position: right bottom
   - type: blog_feed_section
