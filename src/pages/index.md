@@ -9,8 +9,8 @@ sections:
       ***
 
 
-      ##### votre partenaire international pour la fourniture de matières
-      premières et d’ingrédients aux industriels
+      ##### Votre partenaire international pour la fourniture de matières
+      premières et d’ingrédients aux industriels.
     actions:
       - label: Learn More
         url: /features
