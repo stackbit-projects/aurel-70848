@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: >
-      ###### Together. Has. No limits.
+      ###### Together. Has. &#xA;No limits.
 
 
       Commited raw materials & ingredients supplier of the food and beverage
