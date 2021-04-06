@@ -9,7 +9,7 @@ sections:
       ***
 
 
-      ##### Commited raw materials & ingredients supplier of the food and
+      #### Commited raw materials & ingredients supplier of the food and
       beverage production industry.
     actions:
       - label: Learn More
