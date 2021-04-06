@@ -32,28 +32,6 @@ sections:
         type: grid_item
         image: images/Aurel_Group_Locations.svg
         content: "## Ocean Transportation\n\n##### And pay for your new lorem ipsum, interest‑free when you\_choose lorem ilpsum Monthly\_Installments.\n"
-      - title_align: center
-        content_align: center
-        actions:
-          - label: Learn more
-            url: '#'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: bottom
-        image_width: fifty
-        image_align: left
-        image_has_padding: true
-        type: grid_item
-        image: images/Aurel_Group_Locations.svg
-        content: "## Ocean Transportation\n\n##### And pay for your new lorem ipsum, interest‑free when you\_choose lorem ilpsum Monthly\_Installments.\n"
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
