@@ -2,15 +2,10 @@
 title: Home
 sections:
   - type: hero_section
-    content: >
+    content: |
       # Our mission
 
-
       ### Supply healthy, tasty and sustainable agricultural commodities.
-
-
-      Commited raw materials & ingredients supplier of the food and beverage
-      production industry.
     actions:
       - label: Learn More
         url: /features
