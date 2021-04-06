@@ -6,6 +6,9 @@ sections:
       # Our mission
 
 
+      ### Supply healthy, tasty and sustainable raw materials.
+
+
       Commited raw materials & ingredients supplier of the food and beverage
       production industry.
     actions:
