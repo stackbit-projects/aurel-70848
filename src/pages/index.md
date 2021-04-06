@@ -6,7 +6,7 @@ sections:
       # Our mission
 
 
-      ### Supply healthy, tasty and sustainable raw materials.
+      ### Supply healthy, tasty and sustainable agricultural commodities.
 
 
       Commited raw materials & ingredients supplier of the food and beverage
