@@ -9,7 +9,7 @@ sections:
     media_position: right
     content: |
       # Explore News & Insights.
-    image: images/Affiche réaliste de journal de première page  Vecteur Gratuite.png
+    image: images/Pixel.png
     media_width: fourty
     background_image: images/Affiche réaliste de journal de première page  Vecteur Gratuite.png
     background_image_size: contain
