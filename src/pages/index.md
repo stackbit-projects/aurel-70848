@@ -2,10 +2,8 @@
 title: Home
 sections:
   - type: hero_section
-    content: >
-      ## Fournisseur de matières premières et d’ingrédients aux industries
-      agro-alimentaires.
-
+    content: |
+      ## Fournisseur de matières premières et d’ingrédients.
 
       ***
     actions:
