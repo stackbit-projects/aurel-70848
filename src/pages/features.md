@@ -498,7 +498,7 @@ sections:
     grid_gap_vert: large
     enable_cards: true
     align: center
-    background_color: none
+    background_color: primary
     padding_top: none
     padding_bottom: medium
   - title_align: center
