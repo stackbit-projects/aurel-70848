@@ -87,17 +87,24 @@ sections:
           ***
 
           High grade No. 2 or No. 3 Yellow Corn
-      - title: Oats
-        title_align: center
-        content_align: left
+      - title_align: center
+        content_align: center
         actions: []
         actions_align: center
-        image: images/about-3.jpg
-        image_alt: Item 4 icon
-        image_position: right
+        image_alt: Item 1 icon
+        image_position: top
         image_align: left
         image_has_padding: false
-        image_width: thirty-three
+        actions_width: auto
+        image_width: twenty-five
+        content: |
+          ![](/images/corn.jpg)
+
+          ##### Corn
+
+          ***
+
+          High grade No. 2 or No. 3 Yellow Corn
       - title_align: center
         content_align: left
         actions:
