@@ -8,7 +8,7 @@ sections:
     background_color: none
     media_position: right
     content: |
-      ## Explore news & insights on agricultural commodities.
+      ## Explore News & Insights.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
