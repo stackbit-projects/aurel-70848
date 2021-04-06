@@ -68,6 +68,7 @@ sections:
         style: link
         has_icon: true
         icon: arrow-right
+        icon_position: right
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
