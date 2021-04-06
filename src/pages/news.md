@@ -11,7 +11,7 @@ sections:
       # Explore News & Insights.
     image: images/Pixel.png
     media_width: fourty
-    background_image: images/Affiche réaliste de journal de première page  Vecteur Gratuite.png
+    background_image: images/about-1.jpg
     background_image_size: contain
     background_image_position: right bottom
   - type: blog_feed_section
