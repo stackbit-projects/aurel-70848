@@ -44,11 +44,9 @@ sections:
         actions_width: auto
         image_width: twenty-five
         content: |
-
-
           ![](/images/corn.jpg)
 
-          Barley
+          Corn
       - title: Corn
         title_align: center
         content_align: left
