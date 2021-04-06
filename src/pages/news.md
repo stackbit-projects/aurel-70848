@@ -8,7 +8,7 @@ sections:
     background_color: none
     media_position: right
     content: |
-      ###### Explore News & Insights.
+      # Explore News & Insights.
     image: images/AA030F84-64D6-4E99-A605-DFB8D08560D7.jpeg
     media_width: sixty
     background_image_size: contain
