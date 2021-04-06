@@ -4,7 +4,6 @@ sections:
   - type: hero_section
     content: >
       ###### Commited 
-      
       #### raw materials & ingredients supplier of the food and
       beverage production industry.
     actions:
