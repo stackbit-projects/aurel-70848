@@ -496,7 +496,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: large
     grid_gap_vert: large
-    enable_cards: true
+    enable_cards: false
     align: center
     background_color: primary
     padding_top: none
