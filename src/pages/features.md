@@ -44,7 +44,9 @@ sections:
         actions_width: auto
         image_width: twenty-five
         content: |
-          ![](/images/classic/icon-2.svg)
+
+
+          ![](/images/corn.jpg)
 
           Barley
       - title: Corn
