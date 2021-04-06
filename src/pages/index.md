@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      ## Fournisseur de matières premières et d’ingrédients.
+      ## Aurel Group
 
       ***
     actions:
