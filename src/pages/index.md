@@ -3,8 +3,8 @@ title: Home
 sections:
   - type: hero_section
     content: >
-      ## Votre partenaire international pour la fourniture de matières premières
-      et d’ingrédients aux industriels.
+      ## Fournisseur de matières premières et d’ingrédients aux industries
+      agro-alimentaires.
 
 
       ***
