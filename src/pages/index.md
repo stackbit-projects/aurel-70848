@@ -2,12 +2,15 @@
 title: Home
 sections:
   - type: hero_section
-    content: |
+    content: >
       ## Aurel Group
+
 
       ***
 
-      ##### WORLD LEADER IN THE PROVISION OF INDUSTRIAL SERVICES
+
+      ##### YOUR INTERNATIONAL PARTNER FOR INDUSTRIAL INGREDIENTS and RAW
+      MATERIAL SUPPLY TO INDUSTRIES
     actions:
       - label: Learn More
         url: /features
