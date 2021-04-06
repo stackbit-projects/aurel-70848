@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: >
-      ###### Together has no limits.
+      ###### TOGETHER HAS NO LIMITS
 
 
       ***
