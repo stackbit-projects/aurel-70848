@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     align: left
     padding_top: small
-    padding_bottom: medium
+    padding_bottom: none
     background_color: secondary
     media_position: right
     content: |
