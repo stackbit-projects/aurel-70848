@@ -38,7 +38,7 @@ sections:
         actions: []
         actions_align: center
         image_alt: Item 1 icon
-        image_position: right
+        image_position: top
         image_align: left
         image_has_padding: false
         title: Barley
