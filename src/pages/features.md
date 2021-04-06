@@ -49,7 +49,9 @@ sections:
           ##### Corn
 
           ***
-          blea
+          bla bla 
+          bla bla
+          bla
       - title: Corn
         title_align: center
         content_align: left
