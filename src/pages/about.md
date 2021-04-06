@@ -5,7 +5,7 @@ sections:
     align: center
     background_color: secondary
     content: >
-      ## Make effortless, informed and timely decisions with the latest news &
+      # Make effortless, informed and timely decisions with the latest news &
       insights on agricultural commodities in your region.
     media_position: right
     padding_top: large
