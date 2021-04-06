@@ -10,7 +10,6 @@ sections:
     content: >
       ## Make effortless, informed and timely decisions with the latest news &
       insights on agricultural commodities in your region.
-    image: images/Pixel.png
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
