@@ -31,7 +31,7 @@
             {
                 "label": "News & Insights",
                 "style": "link",
-                "url": "/News"
+                "url": "/news"
             }
         ],
         "has_secondary_nav": true,
