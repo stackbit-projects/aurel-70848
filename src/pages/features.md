@@ -41,7 +41,6 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: false
-        title: Barley
         actions_width: auto
         image_width: twenty-five
         content: |
