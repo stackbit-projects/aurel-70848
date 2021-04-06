@@ -3,8 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: >
-      ###### We are Aurel.
-
+      ###### Together.
 
 
       Commited raw materials & ingredients supplier of the food and beverage
