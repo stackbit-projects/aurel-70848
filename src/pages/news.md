@@ -10,7 +10,7 @@ sections:
     content: |
       # Explore News & Insights.
     image: images/Pixel.png
-    media_width: fifty
+    media_width: sixty
     background_image: images/about-1.jpg
     background_image_size: cover
     background_image_position: right bottom
