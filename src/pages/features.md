@@ -47,6 +47,8 @@ sections:
           ![](/images/corn.jpg)
 
           ##### Corn
+
+          ***
       - title: Corn
         title_align: center
         content_align: left
