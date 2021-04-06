@@ -3,7 +3,7 @@ title: Blog
 sections:
   - type: hero_section
     align: left
-    padding_top: large
+    padding_top: none
     padding_bottom: large
     background_color: none
     media_position: right
