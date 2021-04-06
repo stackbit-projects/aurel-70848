@@ -49,9 +49,8 @@ sections:
           ##### Corn
 
           ***
-          bla bla 
-          bla bla
-          bla bla
+
+          High grade No. 2 or No. 3 Yellow Corn
       - title: Corn
         title_align: center
         content_align: left
