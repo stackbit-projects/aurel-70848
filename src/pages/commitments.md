@@ -1,21 +1,6 @@
 ---
 title: About
 sections:
-  - content: "Get Specialist help, free no-contact delivery, and\_more.\n"
-    actions: []
-    image_alt: lorem-ipsum
-    media_position: top
-    media_width: fifty
-    align: center
-    padding_top: none
-    padding_bottom: none
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
   - type: hero_section
     align: left
     background_color: tertiary
