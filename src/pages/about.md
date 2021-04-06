@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    align: left
+    align: center
     background_color: tertiary
     content: >
       ## Make effortless, informed and timely decisions with the latest news &
