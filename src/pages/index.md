@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Learn More
         url: /features
-        style: link
+        style: secondary
         has_icon: true
         icon: arrow-right
         icon_position: right
