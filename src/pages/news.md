@@ -5,7 +5,7 @@ sections:
     align: left
     padding_top: small
     padding_bottom: medium
-    background_color: primary
+    background_color: secondary
     media_position: right
     content: |
       ###### Explore News & Insights.
