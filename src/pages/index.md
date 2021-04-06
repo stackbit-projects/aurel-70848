@@ -2,10 +2,16 @@
 title: Home
 sections:
   - type: hero_section
-    content: |
+    content: >
       ## Aurel Group
 
+
       ***
+
+
+
+      votre partenaire international pour la fourniture de matières premières et
+      d’ingrédients aux industriels
     actions:
       - label: Learn More
         url: /features
