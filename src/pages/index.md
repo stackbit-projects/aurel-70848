@@ -3,7 +3,8 @@ title: Home
 sections:
   - type: hero_section
     content: >
-      ###### Together.
+      #### Votre partenaire international pour la fourniture de matières
+      premières et d’ingrédients aux industriels.
 
 
       ***
