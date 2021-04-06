@@ -215,26 +215,24 @@ sections:
         image_align: left
         image_has_padding: false
         image_width: thirty-three
-      - title: Citrus Fruit
-        title_align: center
-        content_align: left
-        actions:
-          - label: More
-            url: '#'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+      - title_align: center
+        content_align: center
+        actions: []
         actions_align: center
-        image: images/about-3.jpg
-        image_alt: Item 3 icon
-        image_position: right
+        image_alt: Item 1 icon
+        image_position: top
         image_align: left
         image_has_padding: false
-        image_width: thirty-three
+        actions_width: auto
+        image_width: twenty-five
+        content: |
+          ![](/images/corn.jpg)
+
+          ##### Corn
+
+          ***
+
+          High grade No. 2 or No. 3 Yellow Corn
       - title: Dried Fruit
         title_align: center
         content_align: left
