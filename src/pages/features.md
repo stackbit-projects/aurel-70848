@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    background_color: primary
+    background_color: none
     padding_top: large
     padding_bottom: large
     content: >
