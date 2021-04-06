@@ -231,26 +231,6 @@ sections:
           ***
 
           High grade No. 2 or No. 3 Yellow Corn
-      - title: Dried Fruit
-        title_align: center
-        content_align: left
-        actions:
-          - label: More
-            url: '#'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
-        image: images/about-3.jpg
-        image_alt: Item 3 icon
-        image_position: right
-        image_align: left
-        image_has_padding: false
-        image_width: thirty-three
     grid_cols: four
     grid_gap_horiz: large
     grid_gap_vert: large
