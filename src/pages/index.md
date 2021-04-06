@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: >
-      ### Humain first.
+      ###### Humain first.
 
 
       Commited raw materials & ingredients supplier of the food and beverage
