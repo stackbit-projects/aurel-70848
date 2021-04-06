@@ -160,27 +160,23 @@ sections:
 
           High grade No. 2 or No. 3 Yellow Corn
       - title_align: center
-        content_align: left
-        actions:
-          - label: More
-            url: '#'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
+        content_align: center
+        actions: []
         actions_align: center
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: right
-        image_width: thirty-three
+        image_alt: Item 1 icon
+        image_position: top
         image_align: left
         image_has_padding: false
-        type: grid_item
-        image: images/about-3.jpg
-        title: Tea
+        actions_width: auto
+        image_width: twenty-five
+        content: |
+          ![](/images/corn.jpg)
+
+          ##### Corn
+
+          ***
+
+          High grade No. 2 or No. 3 Yellow Corn
       - title: Soybeans
         title_align: center
         content_align: left
