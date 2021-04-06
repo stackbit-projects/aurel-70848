@@ -1,5 +1,5 @@
 ---
-title: News
+title: Blog
 sections:
   - type: hero_section
     align: left
