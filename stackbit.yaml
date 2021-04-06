@@ -818,6 +818,7 @@ models:
           - none
           - primary
           - secondary
+          - tertiary
         default: none
         description: The background color of the section
       - type: image
