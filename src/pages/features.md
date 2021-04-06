@@ -44,7 +44,7 @@ sections:
         actions_width: auto
         image_width: twenty-five
         content: |
-          ![www.test.com](/images/corn.jpg)
+          ![](/images/corn.jpg)
 
           ##### Corn
 
