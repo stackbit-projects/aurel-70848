@@ -745,7 +745,8 @@ models:
         name: grid_cols
         label: Grid columns
         options:
-          - two
+          - 
+          two
           - three
           - four
         default: three
