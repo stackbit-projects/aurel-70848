@@ -10,7 +10,7 @@ sections:
     content: |
       # Explore News & Insights.
     image: images/AA030F84-64D6-4E99-A605-DFB8D08560D7.jpeg
-    media_width: fifty
+    media_width: sixty
     background_image_size: cover
     background_image_position: right bottom
   - type: blog_feed_section
