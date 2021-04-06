@@ -9,7 +9,7 @@ sections:
     media_position: right
     content: |
       # Explore News & Insights.
-    image: images/Pixel.png
+    image: images/Affiche réaliste de journal de première page  Vecteur Gratuite.png
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
