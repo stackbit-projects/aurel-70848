@@ -5,8 +5,8 @@ sections:
     align: center
     background_color: secondary
     content: >
-      ###### Make effortless, informed and timely decisions with the latest
-      news.
+      ###### Deep expertise in efficiently transporting bulk commodities and
+      finished products between continents and across countries.
     media_position: right
     padding_top: large
     padding_bottom: none
