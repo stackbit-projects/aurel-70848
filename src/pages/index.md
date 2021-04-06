@@ -63,7 +63,7 @@ sections:
   - type: blog_feed_section
     title: News & Insights
     actions:
-      - label: View All
+      - label: See more
         url: /blog
         style: link
         has_icon: true
