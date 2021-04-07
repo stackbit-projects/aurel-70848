@@ -20,7 +20,6 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    subtitle: Test
   - type: features_section
     features:
       - title: >-
