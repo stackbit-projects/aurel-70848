@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     align: center
-    background_color: none
+    background_color: secondary
     content: |
       ## Deep expertise in transporting bulk commodities and finished products.
     media_position: right
