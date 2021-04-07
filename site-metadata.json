@@ -55,7 +55,7 @@
         ],
         "has_anncmnt": true,
         "anncmnt_content": "#### *Legacy of Commitment*.\n",
-        "anncmnt_align": "right",
+        "anncmnt_align": "left",
         "anncmnt_is_home_only": false,
         "anncmnt_has_close": false,
         "anncmnt_id": "new-features",
