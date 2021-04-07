@@ -20,7 +20,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: none
-    subtitle: 14 AVR
+    subtitle: 14 AVR 2021
   - type: features_section
     features:
       - title: >-
