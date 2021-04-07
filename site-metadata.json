@@ -59,7 +59,7 @@
         "anncmnt_has_close": false,
         "anncmnt_id": "new-features",
         "title": "AUREL",
-        "anncmnt_content": "Legacy of Commitment  |   [Linkedin 1](www.test.fr)  | &nbsp;  [   Linkedin 2](www.hhh.fr)\n"
+        "anncmnt_content": "Legacy of Commitment  |   [Linkedin 1](www.test.fr)  &nbsp; | &nbsp;  [   Linkedin 2](www.hhh.fr)\n"
     },
     "footer": {
         "logo": "images/Aurel_Group_Locations.svg",
