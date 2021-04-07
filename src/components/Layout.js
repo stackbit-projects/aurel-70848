@@ -4,6 +4,9 @@ import _ from 'lodash';
 
 import {withPrefix, attribute} from '../utils';
 import '../sass/main.scss';
+import "typeface-titillium-web";
+import "typeface-roboto-mono";
+import "typeface-lora";
 import Announcement from './Announcement';
 import Header from './Header';
 import Footer from './Footer';
