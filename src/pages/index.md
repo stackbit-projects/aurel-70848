@@ -2,8 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    content: |
-      #### Supply healthy, tasty and sustainable agricultural commodities.
+    content: >
+      #### Parte l'estate con oltre 300 eventi in centro e nei quartieri, tutti
+      gli eventi previsti.
     actions:
       - label: Learn More
         url: /features
