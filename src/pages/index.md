@@ -30,7 +30,7 @@ sections:
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: left
-        media_width: thirty-three
+        media_width: fifty
     feature_padding_vert: small
     background_color: tertiary
   - type: features_section
