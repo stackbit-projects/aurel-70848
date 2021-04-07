@@ -5,9 +5,8 @@ sections:
     background_color: tertiary
     padding_top: large
     padding_bottom: large
-    content: >
-      ## Try our products, they help you to stay competitive in today’s food &
-      beverage industry.
+    content: |
+      ###### Welcome.
     image: images/Pixel.png
     media_position: right
     align: left
