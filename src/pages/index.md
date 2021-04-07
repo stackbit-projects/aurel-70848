@@ -15,7 +15,7 @@ sections:
     image: images/about-1.jpg
     image_alt: Hero section placeholder image
     media_position: right
-    media_width: fifty
+    media_width: sixty
     align: left
     padding_top: none
     padding_bottom: none
