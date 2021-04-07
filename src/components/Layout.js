@@ -41,9 +41,9 @@ export default class Body extends React.Component {
                     })}
                     {(style === 'bold') ? (
                       (font === 'serif') ? (
-                      <link href='https://fonts.googleapis.com/css?family=Titillium Web' rel='stylesheet'/>
+                      <link href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"/> 
                       ) : 
-                      <link href='https://fonts.googleapis.com/css?family=Titillium Web' rel='stylesheet'/>
+                      <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"/>
                     ) : ((style === 'classic') ? (
                       (font === 'serif') ? (
                       <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"/>
