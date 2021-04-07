@@ -54,7 +54,7 @@
             }
         ],
         "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sa\n\n![](/images/classic/icon-2.svg)\n",
+        "anncmnt_content": "> Curabitur ac tellus mattis, tempor ipsum eu, eleifend\n\n",
         "anncmnt_align": "right",
         "anncmnt_is_home_only": false,
         "anncmnt_has_close": false,
