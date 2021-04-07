@@ -21,7 +21,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    background_image: images/about-2.jpg
   - type: features_section
     features:
       - title: >-
