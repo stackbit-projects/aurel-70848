@@ -5,6 +5,12 @@ sections:
     content: >
       #### Parte l'estate con oltre 300 eventi in centro e nei quartieri, tutti
       gli eventi previsti.
+
+
+
+      Inaugurazione lunedì 2 luglio con il concerto gratuito in piazza XX
+      Settembre degli Sweet Soul Revue. Sul palco 20 musicisti da tutto il
+      mondo.
     actions:
       - label: Learn More
         url: /features
