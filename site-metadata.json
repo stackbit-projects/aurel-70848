@@ -59,8 +59,7 @@
         "anncmnt_is_home_only": false,
         "anncmnt_has_close": false,
         "anncmnt_id": "new-features",
-        "title": "AUREL",
-        "logo": "images/classic/logo.svg"
+        "title": "AUREL"
     },
     "footer": {
         "logo": "images/Aurel_Group_Locations.svg",
