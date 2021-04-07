@@ -58,7 +58,8 @@
         "anncmnt_is_home_only": false,
         "anncmnt_has_close": false,
         "anncmnt_id": "new-features",
-        "title": "AUREL"
+        "title": "AUREL",
+        "anncmnt_content": "Legacy of Commitment.\n"
     },
     "footer": {
         "logo": "images/Aurel_Group_Locations.svg",
